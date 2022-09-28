@@ -1,8 +1,8 @@
 name: "Get Top Ten Deals"
 
-on: [push]
-#  schedule: 
-#      - cron: "30 2 * * *"
+on:
+  schedule: 
+     - cron: "30 2 * * *"
 
 jobs:
   build:
