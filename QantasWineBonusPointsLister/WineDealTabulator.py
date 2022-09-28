@@ -18,6 +18,6 @@ class WineDealTabulator:
 				'Link': wine.link
 			} if self._include_links else {})
 			for wine in wine_list[:len]],
-			headers="keys"
+			headers="keys",
 			tablefmt="github" if self._for_github_markdown else "simple",
 		))
