@@ -1,16 +1,30 @@
 name: "Get Top Ten Deals"
 
-on:
-  schedule: 
-     - cron: "30 2 * * *"
+on: [push]
+#  schedule: 
+#     - cron: "30 2 * * *"
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+          fetch-depth: 0
       - uses: actions/setup-python@v4
         with: 
           python-version: "3.10"
       - run: pip install -r requirements.txt
-      - run: "python -m QantasWineBonusPointsLister -n"
+      - run: |
+        cp .github/README.md .
+        echo 'run on $(date)' >> README.md
+        python -m QantasWineBonusPointsLister -n >> README.md
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        git commit -m "automatic update"
+      - uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}      
