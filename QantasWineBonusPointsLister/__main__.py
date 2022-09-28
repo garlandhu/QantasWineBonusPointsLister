@@ -16,5 +16,10 @@ if __name__ == '__main__':
 			parser=WebpageParser(),
 			number_of_pages_to_scan=10,
 		),
-		tabulator=WineDealTabulator(),
-	).run(interactive=(not args.noninteractive), options_to_display=10)
+		tabulator=WineDealTabulator(
+			include_links=args.noninteractive,
+		),
+	).run(
+		interactive=(not args.noninteractive),
+		options_to_display=10 if args.noninteractive else None,
+	)

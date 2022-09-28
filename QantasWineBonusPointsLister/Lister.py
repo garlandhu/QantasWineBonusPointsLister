@@ -4,7 +4,7 @@ class Lister:
 		self._retriever = retriever
 		self._tabulator = tabulator
 		
-	def run(self, interactive, options_to_display=None):
+	def run(self, interactive, options_to_display):
 		wine_list = self._retriever.get_wine_list()
 		print(f'Found {len(wine_list)} deals')
 		ordered_wine_list = sorted(wine_list, key=lambda wine: wine.value, reverse=True)

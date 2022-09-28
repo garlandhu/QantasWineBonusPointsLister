@@ -2,4 +2,4 @@
 setlocal
 cd %~dp0
 call .\venv\Scripts\activate
-python -m QantasWineBonusPointsLister -n
+python -m QantasWineBonusPointsLister
