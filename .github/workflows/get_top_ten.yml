@@ -15,15 +15,15 @@ jobs:
       - uses: actions/setup-python@v4
         with: 
           python-version: "3.10"
-      - run: pip install -r requirements.txt
       - run: |
-        cp .github/README.md .
-        echo 'run on $(date)' >> README.md
-        python -m QantasWineBonusPointsLister -n >> README.md
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add README.md
-        git commit -m "automatic update"
+          pip install -r requirements.txt
+          cp .github/README_template.md README.md
+          echo 'run on $(date)' >> README.md
+          python -m QantasWineBonusPointsLister -n >> README.md
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "automatic update"
       - uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
