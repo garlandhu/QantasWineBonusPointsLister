@@ -18,6 +18,7 @@ if __name__ == '__main__':
 		),
 		tabulator=WineDealTabulator(
 			include_links=args.noninteractive,
+			for_github_markdown=args.noninteractive,
 		),
 	).run(
 		interactive=(not args.noninteractive),
