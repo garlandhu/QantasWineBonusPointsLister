@@ -8,15 +8,19 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v3
         with:
           persist-credentials: false
           fetch-depth: 0
-      - uses: actions/setup-python@v4
+      - name: Setup Python
+        uses: actions/setup-python@v4
         with: 
           python-version: "3.10"
-      - run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
-      - run: |
+      - name: Setup date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+      - name: Run everything
+        run: |
           pip install -r requirements.txt
           cp .github/README_template.md README.md
           echo "Run on $CURRENT_DATE" >> README.md
@@ -29,7 +33,8 @@ jobs:
           git commit -m "automatic update"
         env:
           CURRENT_DATE: ${{ steps.date.outputs.date }}
-      - uses: ad-m/github-push-action@v0.6.0
+      - name: Checkin
+        uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}      
