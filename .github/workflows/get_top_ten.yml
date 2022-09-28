@@ -18,6 +18,7 @@ jobs:
         with: 
           python-version: "3.10"
       - name: Setup date
+        id: date
         run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
       - name: Run everything
         run: |
@@ -38,7 +39,7 @@ jobs:
           git commit -m "automatic update"
         env:
           CURRENT_DATE: ${{ steps.date.outputs.date }}
-      - name: Checkin
+      - name: Commit markdown update
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
