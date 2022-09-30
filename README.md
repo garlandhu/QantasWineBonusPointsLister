@@ -10,20 +10,20 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2022-09-29
+Run on 2022-09-30
 
-Scanned 1 pages of wine deals.
-Found 20 deals
-|   Value | Name                                                     |   Price |   Bonus | Link                                                                                                               |
-|---------|----------------------------------------------------------|---------|---------|--------------------------------------------------------------------------------------------------------------------|
-| 43.4783 | Rosenthal Collector Chardonnay 2020                      |   69    |    3000 | https://wine.qantas.com/p/rosenthal-rosenthal-collector-chardonnay-2020/ROSTCOCHA20                                |
-| 41.6736 | Lets Fly Red Dozen                                       |  719.88 |   30000 | https://wine.qantas.com/p/lets-fly-red-dozen/MIX2208001                                                            |
-| 39.2157 | Allegiance Unity Margaret River Chardonnay 2021          |   51    |    2000 | https://wine.qantas.com/p/allegiance-allegiance-unity-margaret-river-chardonnay-2021/ALLUNIMRCHAR21                |
-| 35.2941 | Heirloom Assens Fortalice Adelaide Hills Chardonnay 2021 |   42.5  |    1500 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-assens-fortalice-adelaide-hills-chardonnay-2021/HEIASFOCHA21 |
-| 33.3333 | Wines With Points May Wine Subscription                  |  300    |   10000 | https://wine.qantas.com/p/wines-with-points-may-wine-subscription/MIX2202002                                       |
-| 32.967  | Coriole Aroona Estate Shiraz 2021                        |   22.75 |     750 | https://wine.qantas.com/p/coriole-coriole-aroona-estate-shiraz-2021/CORAROSHZ21                                    |
-| 25      | Aylesbury Pater Cabernet Sauvignon 2017                  |   40    |    1000 | https://wine.qantas.com/p/aylesbury-aylesbury-pater-cabernet-sauvignon-2017/AYLPATCAB17                            |
-| 25      | Hewitson Monopole Shiraz Mother Vine 2018                |  120    |    3000 | https://wine.qantas.com/p/hewitson-hewitson-monopole-shiraz-mother-vine-2018/HEWMONSHZ18                           |
-| 23.8095 | Koomilya GT Shiraz 2018                                  |  105    |    2500 | https://wine.qantas.com/p/koomilya-koomilya-gt-shiraz-2018/KOOMGTSHZ18                                             |
-| 23.0769 | Exquisite Halliday Red Six                               |  390    |    9000 | https://wine.qantas.com/p/exquisite-halliday-red-six/MIX2111121                                                    |
+Scanned 2 pages of wine deals.
+Found 59 deals
+|   Value | Name                                             |   Price |   Bonus | Link                                                                                                |
+|---------|--------------------------------------------------|---------|---------|-----------------------------------------------------------------------------------------------------|
+| 45.4545 | Fly Me Premium Red Six                           |  330    |   15000 | https://wine.qantas.com/p/fly-me-premium-red-six/MIX2208015                                         |
+| 43.4783 | Mitolo Savitar Shiraz 2018                       |  414    |   18000 | https://wine.qantas.com/p/mitolo-mitolo-savitar-shiraz-2018/MITSAVSHZ18                             |
+| 42.8571 | Aylesbury Pater Cabernet Sauvignon 2019          |   35    |    1500 | https://wine.qantas.com/p/aylesbury-aylesbury-pater-cabernet-sauvignon-2019/AYLPATCAB19             |
+| 42.8571 | Lenton Brae Lady Douglas Cabernet Sauvignon 2019 |   35    |    1500 | https://wine.qantas.com/p/lenton-brae-lenton-brae-lady-douglas-cabernet-sauvignon-2019/LENBRLDCAB19 |
+| 42.5532 | Ross Hill Tom & Harry Cabernet Sauvignon 2019    |   23.5  |    1000 | https://wine.qantas.com/p/ross-hill-ross-hill-tom-and-harry-cabernet-sauvignon-2019/ROSHILCAB19     |
+| 41.6736 | Lets Fly Red Dozen                               |  719.88 |   30000 | https://wine.qantas.com/p/lets-fly-red-dozen/MIX2208001                                             |
+| 40      | Lange Estate Providence Road Shiraz 2019         |   25    |    1000 | https://wine.qantas.com/p/lange-estate-lange-estate-providence-road-shiraz-2019/LAESPRSHZ19         |
+| 40      | Rosenthal Garten Sauvignon Blanc 2021            |   25    |    1000 | https://wine.qantas.com/p/rosenthal-rosenthal-garten-sauvignon-blanc-2021/ROSGARSAUV21              |
+| 37.9747 | Rosenthal Collector Cabernet Sauvignon 2020      |  474    |   18000 | https://wine.qantas.com/p/rosenthal-rosenthal-collector-cabernet-sauvignon-2020/ROSTCOCAB20         |
+| 37.9747 | Thompson Estate Cabernet Sauvignon 2018          |  474    |   18000 | https://wine.qantas.com/p/thompson-estate-thompson-estate-cabernet-sauvignon-2018/THOESTCAB18       |
 
