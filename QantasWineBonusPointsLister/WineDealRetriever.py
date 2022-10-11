@@ -10,7 +10,7 @@ class WineDealRetriever:
 		self._retry_attempts = retry_attempts
 		
 	def get_wine_list(self):
-		for counter in range(self._retry_attempts):
+		for _ in range(self._retry_attempts):
 			wine_list = self._get_wine_list()
 			if len(wine_list) != 0:
 				break
