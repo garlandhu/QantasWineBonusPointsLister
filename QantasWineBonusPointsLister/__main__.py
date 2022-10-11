@@ -15,6 +15,7 @@ if __name__ == '__main__':
 			wine_deal_url='https://wine.qantas.com/c/browse-products/page-{}?BonusPoints=1&sort=featured',
 			parser=WebpageParser(),
 			number_of_pages_to_scan=10,
+			retry_attempts=5,
 		),
 		tabulator=WineDealTabulator(
 			include_links=args.noninteractive,
