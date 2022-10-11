@@ -23,15 +23,10 @@ jobs:
       - name: Run everything
         run: |
           pip install -r requirements.txt
-          echo '1'
           cp .github/README_template.md README.md
-          echo '2'
           echo "Run on $CURRENT_DATE" >> README.md
-          echo '3'
           echo '' >> README.md
-          echo '4'
           python -m QantasWineBonusPointsLister -n >> README.md
-          echo '5'
           echo '' >> README.md
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
