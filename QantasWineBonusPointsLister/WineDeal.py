@@ -7,7 +7,7 @@ class WineDeal:
 		self._link = link
 		self._bonus_points = bonus_points
 		self._price = price
-		self._value = bonus_points / price
+		self._value = price / bonus_points / 100
 		
 	@property
 	def name(self):
