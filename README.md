@@ -10,20 +10,20 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2022-10-17
+Run on 2022-10-18
 
 Scanned 1 pages of wine deals.
-Found 43 deals
-|   Value | Name                                             |   Price |   Bonus | Link                                                                                                |
-|---------|--------------------------------------------------|---------|---------|-----------------------------------------------------------------------------------------------------|
-| 43.4783 | Mitolo Serpico Cabernet Sauvignon 2018           |     414 |   18000 | https://wine.qantas.com/p/mitolo-mitolo-serpico-cabernet-sauvignon-2018/MITSERCAB18                 |
-| 42.8571 | Lenton Brae Lady Douglas Cabernet Sauvignon 2019 |     420 |   18000 | https://wine.qantas.com/p/lenton-brae-lenton-brae-lady-douglas-cabernet-sauvignon-2019/LENBRLDCAB19 |
-| 42.8571 | Aylesbury Pater Cabernet Sauvignon 2019          |     210 |    9000 | https://wine.qantas.com/p/aylesbury-aylesbury-pater-cabernet-sauvignon-2019/AYLPATCAB19             |
-| 42.5532 | Ross Hill Tom & Harry Cabernet Sauvignon 2019    |     282 |   12000 | https://wine.qantas.com/p/ross-hill-ross-hill-tom-and-harry-cabernet-sauvignon-2019/ROSHILCAB19     |
-| 40.8163 | Hewitson Baby Bush Mourvedre 2020                |     294 |   12000 | https://wine.qantas.com/p/hewitson-hewitson-baby-bush-mourvedre-2020/HEWBABMOU20                    |
-| 40      | Patritti JPB Single Vineyard Shiraz 2019         |     300 |   12000 | https://wine.qantas.com/p/patritti-patritti-jpb-single-vineyard-shiraz-2019/PATJPBSHZ19             |
-| 40      | Hewitson Ned & Henrys Barossa Shiraz 2020        |     300 |   12000 | https://wine.qantas.com/p/hewitson-hewitson-ned-and-henrys-barossa-shiraz-2020/HEWNEDSHZ20          |
-| 40      | Rosenthal Garten Sauvignon Blanc 2021            |     300 |   12000 | https://wine.qantas.com/p/rosenthal-rosenthal-garten-sauvignon-blanc-2021/ROSGARSAUV21              |
-| 37.9747 | Eisenstone Gomersal Shiraz SR808 2020            |     474 |   18000 | https://wine.qantas.com/p/eisenstone-eisenstone-gomersal-shiraz-sr808-2020/EISGOMSHZ20              |
-| 37.9747 | Rosenthal Collector Chardonnay 2021              |     474 |   18000 | https://wine.qantas.com/p/rosenthal-rosenthal-collector-chardonnay-2021/ROSTCOCHA21                 |
+Found 38 deals
+|      Value | Name                                                     |   Price |   Bonus | Link                                                                                                         |
+|------------|----------------------------------------------------------|---------|---------|--------------------------------------------------------------------------------------------------------------|
+| 0.00153576 | Pommery Brut Royal Champagne Dozen                       |  767.88 |    5000 | https://wine.qantas.com/p/pommery-brut-royal-champagne-dozen/MIX2209008                                      |
+| 0.00153576 | Pommery & Heidsieck Gold Dozen                           |  767.88 |    5000 | https://wine.qantas.com/p/pommery-and-heidsieck-gold-dozen/MIX2208009                                        |
+| 0.0006998  | Wynns Black Label Cabernet Sauvignon 2018                |  209.94 |    3000 | https://wine.qantas.com/p/wynns-coonawarra-estate-wynns-black-label-cabernet-sauvignon-2018/WYNBLKCAS18      |
+| 0.00042    | Koomilya GT Shiraz 2018                                  |  630    |   15000 | https://wine.qantas.com/p/koomilya-koomilya-gt-shiraz-2018/KOOMGTSHZ18                                       |
+| 0.0004     | Castel Firmian Chardonnay 2021                           |  120    |    3000 | https://wine.qantas.com/p/castel-firmian-castel-firmian-chardonnay-2021/CASFIRCHA21                          |
+| 0.0004     | Moss Bros Sauvignon Blanc Moses Rock Margaret River 2021 |  120    |    3000 | https://wine.qantas.com/p/moss-brothers-moss-bros-sauvignon-blanc-moses-rock-margaret-river-2021/MOSROCSAV21 |
+| 0.00037    | Credaro 5 Tales Rose 2021                                |  222    |    6000 | https://wine.qantas.com/p/credaro-credaro-5-tales-rose-2021/CREFTLROS21                                      |
+| 0.00037    | Risky Business Craft Rose Margaret River 2021            |  222    |    6000 | https://wine.qantas.com/p/risky-business-risky-business-craft-rose-margaret-river-2021/RISBUCRROS21          |
+| 0.000355   | Lambrook Pinot Gris Adelaide Hills 2021                  |  213    |    6000 | https://wine.qantas.com/p/lambrook-lambrook-pinot-gris-adelaide-hills-2021/LAMBROPIG21                       |
+| 0.00035    | Jilyara Honeycomb Corner Cabernet 2019                   |  210    |    6000 | https://wine.qantas.com/p/jilyara-jilyara-honeycomb-corner-cabernet-2019/JILHCCAB19                          |
 
