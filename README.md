@@ -10,20 +10,20 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2022-11-06
+Run on 2022-11-07
 
 Scanned 2 pages of wine deals.
-Found 55 deals
-|   Point Cost (c) | Name                                       |   Price |   Bonus | Link                                                                                                |
-|------------------|--------------------------------------------|---------|---------|-----------------------------------------------------------------------------------------------------|
-|        0.025     | Peter Drayton Anomaly Arneis 2021          |  150    |    6000 | https://wine.qantas.com/p/peter-drayton-peter-drayton-anomaly-arneis-2021/PDRANOARN21               |
-|        0.025     | Heirloom Barossa Shiraz 2020               |  360    |   14400 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-barossa-shiraz-2020/HEIBARSHI20               |
-|        0.026     | Credaro 1000 Crowns Shiraz 2019            |  390    |   15000 | https://wine.qantas.com/p/credaro-credaro-1000-crowns-shiraz-2019/CREDTCRSHZ19                      |
-|        0.026     | Heirloom Alambra Barossa Shiraz 2021       |  390    |   15000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-alambra-barossa-shiraz-2021/HEIALASHZ21       |
-|        0.026     | Heirloom Alcala McLaren Vale Grenache 2021 |  390    |   15000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-alcala-mclaren-vale-grenache-2021/HEIALCGRE21 |
-|        0.026     | Credaro 1000 Crowns Cabernet 2019          |  390    |   15000 | https://wine.qantas.com/p/credaro-credaro-1000-crowns-cabernet-2019/CREDTCRCAB19                    |
-|        0.02799   | Jilyara Heath Road Cabernet Sauvignon 2019 |  335.88 |   12000 | https://wine.qantas.com/p/jilyara-jilyara-heath-road-cabernet-sauvignon-2019/JILHEACAB19            |
-|        0.028     | Mount Eyre Merlot Three Ponds 2021         |  420    |   15000 | https://wine.qantas.com/p/mount-eyre-mount-eyre-merlot-three-ponds-2021/MTETHEMER21                 |
-|        0.0282    | Shiraz + Grenache Dozen                    |  282    |   10000 | https://wine.qantas.com/p/shiraz-grenache-dozen/MIX2210061                                          |
-|        0.0291176 | Seville Estate Yarra Valley Dry Red 2020   |  297    |   10200 | https://wine.qantas.com/p/seville-estate-seville-estate-yarra-valley-dry-red-2020/SEVEYVRED20       |
+Found 61 deals
+|   Point Cost (c) | Name                                                     |   Price |   Bonus | Link                                                                                                          |
+|------------------|----------------------------------------------------------|---------|---------|---------------------------------------------------------------------------------------------------------------|
+|        0.01875   | Thorn Clarke Ron Thorn Barrel Select Barossa Shiraz 2017 |   150   |    8000 | https://wine.qantas.com/p/thorn-clarke-thorn-clarke-ron-thorn-barrel-select-barossa-shiraz-2017/THCRHBSESHZ17 |
+|        0.0246    | Allegiance Unity Margaret River Chardonnay 2021          |    49.2 |    2000 | https://wine.qantas.com/p/allegiance-allegiance-unity-margaret-river-chardonnay-2021/ALLUNIMRCHAR21           |
+|        0.025     | Peter Drayton Anomaly Arneis 2021                        |    25   |    1000 | https://wine.qantas.com/p/peter-drayton-peter-drayton-anomaly-arneis-2021/PDRANOARN21                         |
+|        0.025     | Heirloom Barossa Shiraz 2020                             |   360   |   14400 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-barossa-shiraz-2020/HEIBARSHI20                         |
+|        0.026     | Credaro 1000 Crowns Cabernet 2019                        |    65   |    2500 | https://wine.qantas.com/p/credaro-credaro-1000-crowns-cabernet-2019/CREDTCRCAB19                              |
+|        0.026     | Credaro 1000 Crowns Shiraz 2019                          |    65   |    2500 | https://wine.qantas.com/p/credaro-credaro-1000-crowns-shiraz-2019/CREDTCRSHZ19                                |
+|        0.026     | Heirloom Alcala McLaren Vale Grenache 2021               |    65   |    2500 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-alcala-mclaren-vale-grenache-2021/HEIALCGRE21           |
+|        0.026     | Heirloom Alcala McLaren Vale Grenache 2021               |   390   |   15000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-alcala-mclaren-vale-grenache-2021/HEIALCGRE21           |
+|        0.026     | Credaro 1000 Crowns Shiraz 2019                          |   390   |   15000 | https://wine.qantas.com/p/credaro-credaro-1000-crowns-shiraz-2019/CREDTCRSHZ19                                |
+|        0.0266667 | Patritti Lavoro Grenache 2020                            |    20   |     750 | https://wine.qantas.com/p/patritti-patritti-lavoro-grenache-2020/PATLAVGRE20                                  |
 
