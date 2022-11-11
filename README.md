@@ -10,10 +10,10 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2022-11-10
+Run on 2022-11-11
 
 Scanned 2 pages of wine deals.
-Found 64 deals
+Found 60 deals
 |   Point Cost (c) | Name                                        |   Price |   Bonus | Link                                                                                                 |
 |------------------|---------------------------------------------|---------|---------|------------------------------------------------------------------------------------------------------|
 |        0.022     | Petaluma Coonawarra Merlot 2018             |     330 |   15000 | https://wine.qantas.com/p/petaluma-petaluma-coonawarra-merlot-2018/PETCOOMER18                       |
