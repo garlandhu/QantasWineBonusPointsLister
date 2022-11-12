@@ -10,14 +10,13 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2022-11-11
+Run on 2022-11-12
 
 Scanned 2 pages of wine deals.
-Found 60 deals
+Found 56 deals
 |   Point Cost (c) | Name                                        |   Price |   Bonus | Link                                                                                                 |
 |------------------|---------------------------------------------|---------|---------|------------------------------------------------------------------------------------------------------|
 |        0.022     | Petaluma Coonawarra Merlot 2018             |     330 |   15000 | https://wine.qantas.com/p/petaluma-petaluma-coonawarra-merlot-2018/PETCOOMER18                       |
-|        0.025     | Heirloom McLaren Vale Shiraz 2020           |     360 |   14400 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-mclaren-vale-shiraz-2020/HEIMVSHI20            |
 |        0.025     | Heirloom Coonawarra Cabernet Sauvignon 2021 |     360 |   14400 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-coonawarra-cabernet-sauvignon-2021/HEICOOCAB21 |
 |        0.026     | Credaro 1000 Crowns Shiraz 2019             |     390 |   15000 | https://wine.qantas.com/p/credaro-credaro-1000-crowns-shiraz-2019/CREDTCRSHZ19                       |
 |        0.026     | Credaro 1000 Crowns Cabernet 2019           |     390 |   15000 | https://wine.qantas.com/p/credaro-credaro-1000-crowns-cabernet-2019/CREDTCRCAB19                     |
@@ -26,4 +25,5 @@ Found 60 deals
 |        0.02625   | Gembrook Hill Sauvignon Blanc 2019          |     315 |   12000 | https://wine.qantas.com/p/gembrook-hill-gembrook-hill-sauvignon-blanc-2019/GEMBROSAV19               |
 |        0.0266667 | Rosenthal Collector Chardonnay 2021         |     480 |   18000 | https://wine.qantas.com/p/rosenthal-rosenthal-collector-chardonnay-2021/ROSTCOCHA21                  |
 |        0.0266667 | Patritti Lavoro Grenache 2020               |     240 |    9000 | https://wine.qantas.com/p/patritti-patritti-lavoro-grenache-2020/PATLAVGRE20                         |
+|        0.028     | Mount Eyre Merlot Three Ponds 2021          |     420 |   15000 | https://wine.qantas.com/p/mount-eyre-mount-eyre-merlot-three-ponds-2021/MTETHEMER21                  |
 
