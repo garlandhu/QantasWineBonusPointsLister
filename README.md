@@ -10,20 +10,20 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2022-11-30
+Run on 2022-12-01
 
 Scanned 3 pages of wine deals.
-Found 117 deals
+Found 138 deals
 |   Point Cost (c) | Name                                       |   Price |   Bonus | Link                                                                                           |
 |------------------|--------------------------------------------|---------|---------|------------------------------------------------------------------------------------------------|
 |         0.022    | Penley Estate Chertsey Cabernet Blend 2019 |   396   |   18000 | https://wine.qantas.com/p/penley-estate-penley-estate-chertsey-cabernet-blend-2019/PENCHECAB19 |
 |         0.022    | Penley Estate Chertsey Cabernet Blend 2019 |   396   |   18000 | https://wine.qantas.com/p/penley-estate-penley-estate-chertsey-cabernet-blend-2019/PENCHECAB19 |
 |         0.022    | Penley Estate Chertsey Cabernet Blend 2019 |   396   |   18000 | https://wine.qantas.com/p/penley-estate-penley-estate-chertsey-cabernet-blend-2019/PENCHECAB19 |
-|         0.026    | Credaro 1000 Crowns Shiraz 2019            |   390   |   15000 | https://wine.qantas.com/p/credaro-credaro-1000-crowns-shiraz-2019/CREDTCRSHZ19                 |
-|         0.026    | Credaro 1000 Crowns Cabernet 2019          |   390   |   15000 | https://wine.qantas.com/p/credaro-credaro-1000-crowns-cabernet-2019/CREDTCRCAB19               |
-|         0.026    | Credaro 1000 Crowns Shiraz 2019            |   390   |   15000 | https://wine.qantas.com/p/credaro-credaro-1000-crowns-shiraz-2019/CREDTCRSHZ19                 |
-|         0.026    | Credaro 1000 Crowns Cabernet 2019          |   390   |   15000 | https://wine.qantas.com/p/credaro-credaro-1000-crowns-cabernet-2019/CREDTCRCAB19               |
-|         0.026    | Credaro 1000 Crowns Shiraz 2019            |   390   |   15000 | https://wine.qantas.com/p/credaro-credaro-1000-crowns-shiraz-2019/CREDTCRSHZ19                 |
-|         0.026    | Credaro 1000 Crowns Cabernet 2019          |   390   |   15000 | https://wine.qantas.com/p/credaro-credaro-1000-crowns-cabernet-2019/CREDTCRCAB19               |
 |         0.026975 | Patritti JPB Single Vineyard Shiraz 2019   |   323.7 |   12000 | https://wine.qantas.com/p/patritti-patritti-jpb-single-vineyard-shiraz-2019/PATJPBSHZ19        |
+|         0.026975 | Patritti JPB Single Vineyard Shiraz 2019   |   323.7 |   12000 | https://wine.qantas.com/p/patritti-patritti-jpb-single-vineyard-shiraz-2019/PATJPBSHZ19        |
+|         0.026975 | Patritti JPB Single Vineyard Shiraz 2019   |   323.7 |   12000 | https://wine.qantas.com/p/patritti-patritti-jpb-single-vineyard-shiraz-2019/PATJPBSHZ19        |
+|         0.0275   | SC Pannell McLaren Vale Grenache 2021      |   330   |   12000 | https://wine.qantas.com/p/sc-pannell-sc-pannell-mclaren-vale-grenache-2021/SCPMCVGRE21         |
+|         0.0275   | SC Pannell McLaren Vale Grenache 2021      |   330   |   12000 | https://wine.qantas.com/p/sc-pannell-sc-pannell-mclaren-vale-grenache-2021/SCPMCVGRE21         |
+|         0.0275   | SC Pannell McLaren Vale Grenache 2021      |   330   |   12000 | https://wine.qantas.com/p/sc-pannell-sc-pannell-mclaren-vale-grenache-2021/SCPMCVGRE21         |
+|         0.028    | Frankland Estate GDC Shiraz 2020           |   336   |   12000 | https://wine.qantas.com/p/frankland-estate-frankland-estate-gdc-shiraz-2020/FRAGDCSHZ20        |
 
