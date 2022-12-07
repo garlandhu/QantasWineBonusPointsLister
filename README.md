@@ -10,10 +10,10 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2022-12-06
+Run on 2022-12-07
 
 Scanned 2 pages of wine deals.
-Found 61 deals
+Found 62 deals
 |   Point Cost (c) | Name                                          |   Price |   Bonus | Link                                                                                           |
 |------------------|-----------------------------------------------|---------|---------|------------------------------------------------------------------------------------------------|
 |        0.022     | Penley Estate Chertsey Cabernet Blend 2019    |  396    |   18000 | https://wine.qantas.com/p/penley-estate-penley-estate-chertsey-cabernet-blend-2019/PENCHECAB19 |
