@@ -10,10 +10,10 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2022-12-25
+Run on 2022-12-26
 
 Scanned 2 pages of wine deals.
-Found 53 deals
+Found 52 deals
 |   Point Cost (c) | Name                                          |   Price |   Bonus | Link                                                                                                 |
 |------------------|-----------------------------------------------|---------|---------|------------------------------------------------------------------------------------------------------|
 |        0.023992  | Rosenthal Marker Pinot Noir 2022              |  359.88 |   15000 | https://wine.qantas.com/p/rosenthal-rosenthal-marker-pinot-noir-2022/ROSMAPIN22                      |
