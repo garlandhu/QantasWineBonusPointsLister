@@ -10,20 +10,20 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2022-12-27
+Run on 2022-12-28
 
-Scanned 1 pages of wine deals.
-Found 42 deals
-|   Point Cost (c) | Name                                                       |   Price |   Bonus | Link                                                                                                        |
-|------------------|------------------------------------------------------------|---------|---------|-------------------------------------------------------------------------------------------------------------|
-|        0.0273    | Rose and Chardonnay Plush Dozen                            |   273   |   10000 | https://wine.qantas.com/p/rose-and-chardonnay-plush-dozen/MIX2211049                                        |
-|        0.0273    | Rose and Chardonnay Plush Doz                              |   273   |   10000 | https://wine.qantas.com/p/rose-and-chardonnay-plush-doz/MIX2211048                                          |
-|        0.0275    | Petaluma Coonawarra Merlot 2018                            |   330   |   12000 | https://wine.qantas.com/p/petaluma-petaluma-coonawarra-merlot-2018/PETCOOMER18                              |
-|        0.028125  | Dandelion Queen of Eden Valley Shiraz 2019                 |   225   |    8000 | https://wine.qantas.com/p/dandelion-vineyards-dandelion-queen-of-eden-valley-shiraz-2019/DANQUESHZ19        |
-|        0.0282    | Shiraz Australia Plus Italian Syrah Dozen                  |   282   |   10000 | https://wine.qantas.com/p/shiraz-australia-plus-italian-syrah-dozen/MIX2211040                              |
-|        0.0283333 | Balnaves The Tally Cabernet Sauvignon 2018                 |   510   |   18000 | https://wine.qantas.com/p/balnaves-of-coonawarra-balnaves-the-tally-cabernet-sauvignon-2018/BALTALCAB18     |
-|        0.0296212 | Eisenstone Roennfeldt Vineyard Marananga Shiraz SV904 2020 |   586.5 |   19800 | https://wine.qantas.com/p/eisenstone-eisenstone-roennfeldt-vineyard-marananga-shiraz-sv904-2020/EISRORSHZ20 |
-|        0.0326667 | ATR Wines Chockstone Shiraz 2021                           |   294   |    9000 | https://wine.qantas.com/p/at-richardson-atr-wines-chockstone-shiraz-2021/ATRCHOSHZ21                        |
-|        0.033     | Credaro 5 Tales Merlot 2018                                |   198   |    6000 | https://wine.qantas.com/p/credaro-credaro-5-tales-merlot-2018/CREDFTLMER18                                  |
-|        0.0333333 | Sherrah McLaren Vale Nero d'Avola 2019                     |   300   |    9000 | https://wine.qantas.com/p/sherrah-wines-sherrah-mclaren-vale-nero-davola-2019/SHERRANER19                   |
+Scanned 2 pages of wine deals.
+Found 56 deals
+|   Point Cost (c) | Name                                                     |   Price |   Bonus | Link                                                                                                          |
+|------------------|----------------------------------------------------------|---------|---------|---------------------------------------------------------------------------------------------------------------|
+|         0.01875  | Thorn Clarke Ron Thorn Barrel Select Barossa Shiraz 2018 |  150    |    8000 | https://wine.qantas.com/p/thorn-clarke-thorn-clarke-ron-thorn-barrel-select-barossa-shiraz-2018/THCRHBSESHZ18 |
+|         0.022    | Penley Estate Chertsey Cabernet Blend 2019               |   66    |    3000 | https://wine.qantas.com/p/penley-estate-penley-estate-chertsey-cabernet-blend-2019/PENCHECAB19                |
+|         0.023992 | Rosenthal Marker Pinot Noir 2022                         |   29.99 |    1250 | https://wine.qantas.com/p/rosenthal-rosenthal-marker-pinot-noir-2022/ROSMAPIN22                               |
+|         0.023996 | Lets Upgrade Red Dozen                                   |  719.88 |   30000 | https://wine.qantas.com/p/lets-upgrade-red-dozen/MIX2210024                                                   |
+|         0.0246   | Allegiance Unity Margaret River Chardonnay 2021          |   49.2  |    2000 | https://wine.qantas.com/p/allegiance-allegiance-unity-margaret-river-chardonnay-2021/ALLUNIMRCHAR21           |
+|         0.026975 | Patritti JPB Single Vineyard Shiraz 2019                 |  323.7  |   12000 | https://wine.qantas.com/p/patritti-patritti-jpb-single-vineyard-shiraz-2019/PATJPBSHZ19                       |
+|         0.026975 | Patritti JPB Single Vineyard Shiraz 2019                 |   53.95 |    2000 | https://wine.qantas.com/p/patritti-patritti-jpb-single-vineyard-shiraz-2019/PATJPBSHZ19                       |
+|         0.0273   | Rose and Chardonnay Plush Doz                            |  273    |   10000 | https://wine.qantas.com/p/rose-and-chardonnay-plush-doz/MIX2211048                                            |
+|         0.0275   | Petaluma Coonawarra Merlot 2018                          |  330    |   12000 | https://wine.qantas.com/p/petaluma-petaluma-coonawarra-merlot-2018/PETCOOMER18                                |
+|         0.0275   | SC Pannell McLaren Vale Grenache 2021                    |   27.5  |    1000 | https://wine.qantas.com/p/sc-pannell-sc-pannell-mclaren-vale-grenache-2021/SCPMCVGRE21                        |
 
