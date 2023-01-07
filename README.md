@@ -10,20 +10,21 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-01-06
+Run on 2023-01-07
 
-Scanned 3 pages of wine deals.
-Found 94 deals
-|   Point Cost (c) | Name                                                       |   Price |   Bonus | Link                                                                                                             |
-|------------------|------------------------------------------------------------|---------|---------|------------------------------------------------------------------------------------------------------------------|
-|        0.01875   | Thorn Clarke Ron Thorn Barrel Select Barossa Shiraz 2018   |  150    |    8000 | https://wine.qantas.com/p/thorn-clarke-thorn-clarke-ron-thorn-barrel-select-barossa-shiraz-2018/THCRHBSESHZ18    |
-|        0.022     | Penley Estate Chertsey Cabernet Blend 2019                 |   66    |    3000 | https://wine.qantas.com/p/penley-estate-penley-estate-chertsey-cabernet-blend-2019/PENCHECAB19                   |
-|        0.0246    | Allegiance Unity Margaret River Chardonnay 2021            |   49.2  |    2000 | https://wine.qantas.com/p/allegiance-allegiance-unity-margaret-river-chardonnay-2021/ALLUNIMRCHAR21              |
-|        0.025     | Hewitson Ned & Henrys Barossa Shiraz 2020                  |   25    |    1000 | https://wine.qantas.com/p/hewitson-hewitson-ned-and-henrys-barossa-shiraz-2020/HEWNEDSHZ20                       |
-|        0.025     | Allegiance The Artisan McLaren Vale Shiraz 2018 1.5L Magum |   75    |    3000 | https://wine.qantas.com/p/allegiance-allegiance-the-artisan-mclaren-vale-shiraz-2018-15l-magum/FOCALLARTSHZMAG19 |
-|        0.026     | Heirloom Shiraz, Cabernet + Chardonnay Dozen               |  390    |   15000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-shiraz-cabernet-chardonnay-dozen/MIX2211061                |
-|        0.026     | Credaro 1000 Crowns Shiraz 2019                            |   65    |    2500 | https://wine.qantas.com/p/credaro-credaro-1000-crowns-shiraz-2019/CREDTCRSHZ19                                   |
-|        0.0266667 | Patritti Lavoro Cabernet Sauvignon 2019                    |   20    |     750 | https://wine.qantas.com/p/patritti-patritti-lavoro-cabernet-sauvignon-2019/PATLAVCAB19                           |
-|        0.026975  | Patritti JPB Single Vineyard Shiraz 2019                   |   53.95 |    2000 | https://wine.qantas.com/p/patritti-patritti-jpb-single-vineyard-shiraz-2019/PATJPBSHZ19                          |
-|        0.0275    | Petaluma Coonawarra Merlot 2018                            |   55    |    2000 | https://wine.qantas.com/p/petaluma-petaluma-coonawarra-merlot-2018/PETCOOMER18                                   |
+Scanned 0 pages of wine deals.
+Scanned 1 pages of wine deals.
+Found 41 deals
+|   Point Cost (c) | Name                                            |   Price |   Bonus | Link                                                                                                 |
+|------------------|-------------------------------------------------|---------|---------|------------------------------------------------------------------------------------------------------|
+|        0.026     | Heirloom Shiraz, Cabernet + Chardonnay Dozen    |     390 |   15000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-shiraz-cabernet-chardonnay-dozen/MIX2211061    |
+|        0.0276    | Voyager + Tahbilk The Cabernets Dozen           |     552 |   20000 | https://wine.qantas.com/p/voyager-tahbilk-the-cabernets-dozen/MIX2211060                             |
+|        0.028125  | Dandelion Queen of Eden Valley Shiraz 2019      |     225 |    8000 | https://wine.qantas.com/p/dandelion-vineyards-dandelion-queen-of-eden-valley-shiraz-2019/DANQUESHZ19 |
+|        0.0294    | Barossa Vs Coonawarra Hero Red Dozen            |     294 |   10000 | https://wine.qantas.com/p/barossa-vs-coonawarra-hero-red-dozen/MIX2211072                            |
+|        0.03      | Australian Classic Wine Dozen                   |     300 |   10000 | https://wine.qantas.com/p/australian-classic-wine-dozen/MIX2210032                                   |
+|        0.0326667 | Hither & Yon Carignan 2021                      |     294 |    9000 | https://wine.qantas.com/p/hither-and-yon-hither-and-yon-carignan-2021/HIYOCAR21                      |
+|        0.033     | First Creek Botanica Shiraz 2021                |     198 |    6000 | https://wine.qantas.com/p/first-creek-first-creek-botanica-shiraz-2021/FCBOTSHI21                    |
+|        0.033     | Willow Bridge Dragonfly Shiraz 2020             |     198 |    6000 | https://wine.qantas.com/p/willow-bridge-willow-bridge-dragonfly-shiraz-2020/WILDRASHZ20              |
+|        0.033     | Credaro 5 Tales Merlot 2018                     |     198 |    6000 | https://wine.qantas.com/p/credaro-credaro-5-tales-merlot-2018/CREDFTLMER18                           |
+|        0.034     | Feudo Arancio Hedonis Nero d'Avola Riserva 2015 |     510 |   15000 | https://wine.qantas.com/p/feudo-arancio-feudo-arancio-hedonis-nero-davola-riserva-2015/FEUARAHED15   |
 
