@@ -10,20 +10,21 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-01-12
+Run on 2023-01-13
 
+Scanned 0 pages of wine deals.
 Scanned 2 pages of wine deals.
-Found 67 deals
-|   Point Cost (c) | Name                                                       |   Price |   Bonus | Link                                                                                                        |
-|------------------|------------------------------------------------------------|---------|---------|-------------------------------------------------------------------------------------------------------------|
-|        0.0236    | Leogate Museum Creek Bed Reserve Semillon 2014             |   59    |    2500 | https://wine.qantas.com/p/leogate-leogate-museum-creek-bed-reserve-semillon-2014/LEOMCRSEM14                |
-|        0.025     | Hewitson Ned & Henrys Barossa Shiraz 2020                  |   25    |    1000 | https://wine.qantas.com/p/hewitson-hewitson-ned-and-henrys-barossa-shiraz-2020/HEWNEDSHZ20                  |
-|        0.026     | Alkoomi Black Label Luxe Dozen                             |  234    |    9000 | https://wine.qantas.com/p/alkoomi-alkoomi-black-label-luxe-dozen/MIX2211055                                 |
-|        0.026     | Credaro 1000 Crowns Shiraz 2019                            |  390    |   15000 | https://wine.qantas.com/p/credaro-credaro-1000-crowns-shiraz-2019/CREDTCRSHZ19                              |
-|        0.0275    | Petaluma Coonawarra Merlot 2018                            |  330    |   12000 | https://wine.qantas.com/p/petaluma-petaluma-coonawarra-merlot-2018/PETCOOMER18                              |
-|        0.028125  | Dandelion Queen of Eden Valley Shiraz 2019                 |  225    |    8000 | https://wine.qantas.com/p/dandelion-vineyards-dandelion-queen-of-eden-valley-shiraz-2019/DANQUESHZ19        |
-|        0.02932   | Reschke Bull Trader Shiraz 2020                            |   21.99 |     750 | https://wine.qantas.com/p/reschke-reschke-bull-trader-shiraz-2020/RESBTSHZ20                                |
-|        0.0294    | Barossa Vs Coonawarra Hero Red Dozen                       |  294    |   10000 | https://wine.qantas.com/p/barossa-vs-coonawarra-hero-red-dozen/MIX2211072                                   |
-|        0.0296212 | Eisenstone Roennfeldt Vineyard Marananga Shiraz SV904 2020 |   97.75 |    3300 | https://wine.qantas.com/p/eisenstone-eisenstone-roennfeldt-vineyard-marananga-shiraz-sv904-2020/EISRORSHZ20 |
-|        0.03      | Wills Domain Eightfold Shiraz 2019                         |   30    |    1000 | https://wine.qantas.com/p/wills-domain-wills-domain-eightfold-shiraz-2019/WDEIGSHZ19                        |
+Found 53 deals
+|   Point Cost (c) | Name                                        |   Price |   Bonus | Link                                                                                                 |
+|------------------|---------------------------------------------|---------|---------|------------------------------------------------------------------------------------------------------|
+|        0.026     | Credaro 1000 Crowns Shiraz 2019             |  390    |   15000 | https://wine.qantas.com/p/credaro-credaro-1000-crowns-shiraz-2019/CREDTCRSHZ19                       |
+|        0.026     | Credaro 1000 Crowns Shiraz 2019             |  390    |   15000 | https://wine.qantas.com/p/credaro-credaro-1000-crowns-shiraz-2019/CREDTCRSHZ19                       |
+|        0.0275    | Petaluma Coonawarra Merlot 2018             |  330    |   12000 | https://wine.qantas.com/p/petaluma-petaluma-coonawarra-merlot-2018/PETCOOMER18                       |
+|        0.028125  | Dandelion Queen of Eden Valley Shiraz 2019  |  225    |    8000 | https://wine.qantas.com/p/dandelion-vineyards-dandelion-queen-of-eden-valley-shiraz-2019/DANQUESHZ19 |
+|        0.02932   | Reschke Bull Trader Shiraz 2020             |  263.88 |    9000 | https://wine.qantas.com/p/reschke-reschke-bull-trader-shiraz-2020/RESBTSHZ20                         |
+|        0.0294    | Barossa Vs Coonawarra Hero Red Dozen        |  294    |   10000 | https://wine.qantas.com/p/barossa-vs-coonawarra-hero-red-dozen/MIX2211072                            |
+|        0.0313333 | Alkoomi Cabernet Sauvignon Black Label 2020 |  282    |    9000 | https://wine.qantas.com/p/alkoomi-alkoomi-cabernet-sauvignon-black-label-2020/ALKBLKCAB20            |
+|        0.0313333 | Alkoomi Black Label Shiraz 2020             |  282    |    9000 | https://wine.qantas.com/p/alkoomi-alkoomi-black-label-shiraz-2020/ALKBLKSHZ20                        |
+|        0.0313333 | Alkoomi Riesling Black Label 2022           |  282    |    9000 | https://wine.qantas.com/p/alkoomi-alkoomi-riesling-black-label-2022/ALKBLKRIE22                      |
+|        0.0318    | Tahbilk Old Vines Cabernet Shiraz 2017      |  238.5  |    7500 | https://wine.qantas.com/p/tahbilk-tahbilk-old-vines-cabernet-shiraz-2017/TAHOLDCAB17                 |
 
