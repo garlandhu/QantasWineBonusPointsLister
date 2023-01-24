@@ -10,13 +10,13 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-01-23
+Run on 2023-01-24
 
 Scanned 1 pages of wine deals.
-Found 26 deals
+Found 22 deals
 |   Point Cost (c) | Name                                                   |   Price |   Bonus | Link                                                                                                       |
 |------------------|--------------------------------------------------------|---------|---------|------------------------------------------------------------------------------------------------------------|
-|        0.0318    | Tahbilk Old Vines Cabernet Shiraz 2017                 |  238.5  |    7500 | https://wine.qantas.com/p/tahbilk-tahbilk-old-vines-cabernet-shiraz-2017/TAHOLDCAB17                       |
+|        0.0266    | Premium Reds Collection Dozen                          |  798    |   30000 | https://wine.qantas.com/p/premium-reds-collection-dozen/MIX2212016                                         |
 |        0.0326667 | ATR Wines Chockstone Shiraz 2021                       |  294    |    9000 | https://wine.qantas.com/p/at-richardson-atr-wines-chockstone-shiraz-2021/ATRCHOSHZ21                       |
 |        0.033     | Willow Bridge Dragonfly Cabernet Sauvignon Merlot 2020 |  198    |    6000 | https://wine.qantas.com/p/willow-bridge-willow-bridge-dragonfly-cabernet-sauvignon-merlot-2020/WILDRACAM20 |
 |        0.0349875 | Mount Eyre Shiraz Three Ponds Hunter Valley 2018       |  335.88 |    9600 | https://wine.qantas.com/p/mount-eyre-mount-eyre-shiraz-three-ponds-hunter-valley-2018/MTETHRSHA18          |
