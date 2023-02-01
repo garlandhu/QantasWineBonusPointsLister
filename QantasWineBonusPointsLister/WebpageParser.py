@@ -5,12 +5,12 @@ from QantasWineBonusPointsLister.WineDeal import WineDeal
 
 class WebpageParser:
 	empty_page_class_title = "productListingstyled__NoProducts-sc-1yu9dv6-21 lhaZtS"
-	wine_listing_class_title = "ProductCardstyled__ProductContainer-sc-1ntcau0-1 iwRuYS"	
-	bonus_points_class_title = "ProductCardstyled__SpotLight-sc-1ntcau0-27 dJmRvS"
-	listing_detailed_name_class_title = "ProductCardstyled__Name-sc-1ntcau0-9 EJGYI"
-	listing_basic_name_class_title = "ProductCardstyled__Brand-sc-1ntcau0-8 kCrfxB"
-	price_class_title = "ProductCardstyled__CashPriceText-sc-1ntcau0-17 wuhKx"
-	link_class_title = "ProductCardstyled__Thumbnail-sc-1ntcau0-4 kUVstW"
+	wine_listing_class_title = "ProductCardstyled__ProductContainer-sc-1ntcau0-1 nHenG"
+	bonus_points_class_title = "ProductCardstyled__SpotLight-sc-1ntcau0-27 hLOVTC"
+	listing_detailed_name_class_title = "ProductCardstyled__Name-sc-1ntcau0-9 layHrw"
+	listing_basic_name_class_title = "ProductCardstyled__Brand-sc-1ntcau0-8 FCgKx"
+	price_class_title = "ProductCardstyled__CashPriceText-sc-1ntcau0-17 eeunGF"
+	link_class_title = "ProductCardstyled__Thumbnail-sc-1ntcau0-4 dWUuOC"
 
 	def feed(self, html_text):
 		soup = BeautifulSoup(html_text, "html.parser")
