@@ -10,20 +10,20 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-02-02
+Run on 2023-02-03
 
 Scanned 2 pages of wine deals.
-Found 70 deals
-|   Point Cost (c) | Name                                                     |   Price |   Bonus | Link                                                                                                           |
-|------------------|----------------------------------------------------------|---------|---------|----------------------------------------------------------------------------------------------------------------|
-|        0.01875   | Thorn Clarke Ron Thorn Barrel Select Barossa Shiraz 2018 |     150 |    8000 | https://wine.qantas.com/p/thorn-clarke-thorn-clarke-ron-thorn-barrel-select-barossa-shiraz-2018/THCRHBSESHZ18  |
-|        0.0213333 | Dandelion Shiraz Grenache Petite Sirah Moonrise 2020     |      64 |    3000 | https://wine.qantas.com/p/dandelion-vineyards-dandelion-shiraz-grenache-petite-sirah-moonrise-2020/DANMOSGPS20 |
-|        0.0213333 | Heirloom Anevo Grenache Touriga Tempranillo 2020         |      64 |    3000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-anevo-grenache-touriga-tempranillo-2020/HEIANEGTT20      |
-|        0.0216667 | Dandelion Grenache Faraway Tree 2020                     |      65 |    3000 | https://wine.qantas.com/p/dandelion-vineyards-dandelion-grenache-faraway-tree-2020/DANFTGREN20                 |
-|        0.0216667 | Heirloom Alcala McLaren Vale Grenache 2021               |      65 |    3000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-alcala-mclaren-vale-grenache-2021/HEIALCGRE21            |
-|        0.0245    | Allegiance Unity Margaret River Chardonnay 2021          |      49 |    2000 | https://wine.qantas.com/p/allegiance-allegiance-unity-margaret-river-chardonnay-2021/ALLUNIMRCHAR21            |
-|        0.025     | Allegiance Unity Barossa Cabernet Sauvignon 2019         |      75 |    3000 | https://wine.qantas.com/p/allegiance-allegiance-unity-barossa-cabernet-sauvignon-2019/ALLUBCAB19               |
-|        0.0257143 | Byron and Harold Partners Cabernet Sauvignon 2017        |      45 |    1750 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-partners-cabernet-sauvignon-2017/BYRHPARCAB17      |
-|        0.0257143 | Byron and Harold Partners Cabernet Sauvignon 2020        |      45 |    1750 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-partners-cabernet-sauvignon-2020/BYRHPARCAB20      |
-|        0.0257143 | Byron and Harold Partners Cabernet Sauvignon 2018        |      45 |    1750 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-partners-cabernet-sauvignon-2018/BYRHPARCAB18      |
+Found 64 deals
+|   Point Cost (c) | Name                                                 |   Price |   Bonus | Link                                                                                                           |
+|------------------|------------------------------------------------------|---------|---------|----------------------------------------------------------------------------------------------------------------|
+|        0.0213333 | Heirloom Anevo Grenache Touriga Tempranillo 2020     |      64 |    3000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-anevo-grenache-touriga-tempranillo-2020/HEIANEGTT20      |
+|        0.0213333 | Dandelion Shiraz Grenache Petite Sirah Moonrise 2020 |      64 |    3000 | https://wine.qantas.com/p/dandelion-vineyards-dandelion-shiraz-grenache-petite-sirah-moonrise-2020/DANMOSGPS20 |
+|        0.0216667 | Heirloom Alcala McLaren Vale Grenache 2021           |     390 |   18000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-alcala-mclaren-vale-grenache-2021/HEIALCGRE21            |
+|        0.0216667 | Dandelion Grenache Faraway Tree 2020                 |      65 |    3000 | https://wine.qantas.com/p/dandelion-vineyards-dandelion-grenache-faraway-tree-2020/DANFTGREN20                 |
+|        0.0245    | Allegiance Unity Margaret River Chardonnay 2021      |     294 |   12000 | https://wine.qantas.com/p/allegiance-allegiance-unity-margaret-river-chardonnay-2021/ALLUNIMRCHAR21            |
+|        0.025     | Allegiance Unity Barossa Cabernet Sauvignon 2019     |     450 |   18000 | https://wine.qantas.com/p/allegiance-allegiance-unity-barossa-cabernet-sauvignon-2019/ALLUBCAB19               |
+|        0.0257143 | Byron and Harold Partners Cabernet Sauvignon 2020    |     270 |   10500 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-partners-cabernet-sauvignon-2020/BYRHPARCAB20      |
+|        0.0257143 | Byron and Harold Partners Cabernet Sauvignon 2018    |     270 |   10500 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-partners-cabernet-sauvignon-2018/BYRHPARCAB18      |
+|        0.0257143 | Byron and Harold Partners Cabernet Sauvignon 2017    |     270 |   10500 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-partners-cabernet-sauvignon-2017/BYRHPARCAB17      |
+|        0.0257143 | Dandelion Shiraz Firehawk of McLaren Vale 2019       |     540 |   21000 | https://wine.qantas.com/p/dandelion-vineyards-dandelion-shiraz-firehawk-of-mclaren-vale-2019/DANFIRSHZ19       |
 
