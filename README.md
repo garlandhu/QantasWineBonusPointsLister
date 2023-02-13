@@ -10,16 +10,16 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-02-12
+Run on 2023-02-13
 
 Scanned 2 pages of wine deals.
-Found 65 deals
+Found 70 deals
 |   Point Cost (c) | Name                                               |   Price |   Bonus | Link                                                                                                       |
 |------------------|----------------------------------------------------|---------|---------|------------------------------------------------------------------------------------------------------------|
 |        0.0213333 | Heirloom Anevo Grenache Touriga Tempranillo 2020   |     384 |   18000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-anevo-grenache-touriga-tempranillo-2020/HEIANEGTT20  |
 |        0.0216667 | Dandelion Grenache Faraway Tree 2020               |     390 |   18000 | https://wine.qantas.com/p/dandelion-vineyards-dandelion-grenache-faraway-tree-2020/DANFTGREN20             |
+|        0.0216667 | Heirloom Alcala McLaren Vale Grenache 2021         |     390 |   18000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-alcala-mclaren-vale-grenache-2021/HEIALCGRE21        |
 |        0.024     | Heirloom Mixed Premium Wine Dozen                  |     360 |   15000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-mixed-premium-wine-dozen/MIX2301014                  |
-|        0.0245    | Allegiance Unity Margaret River Chardonnay 2021    |     294 |   12000 | https://wine.qantas.com/p/allegiance-allegiance-unity-margaret-river-chardonnay-2021/ALLUNIMRCHAR21        |
 |        0.025     | Top Savvy and Sparkling Dozen                      |     270 |   10800 | https://wine.qantas.com/p/top-savvy-and-sparkling-dozen/MIX2212029                                         |
 |        0.025     | Allegiance Unity Barossa Cabernet Sauvignon 2019   |     450 |   18000 | https://wine.qantas.com/p/allegiance-allegiance-unity-barossa-cabernet-sauvignon-2019/ALLUBCAB19           |
 |        0.0256    | Shiraz Barossa Vs McLaren Vale 2019 Heirloom Dozen |     384 |   15000 | https://wine.qantas.com/p/heirloom-vineyards-shiraz-barossa-vs-mclaren-vale-2019-heirloom-dozen/MIX2301017 |
