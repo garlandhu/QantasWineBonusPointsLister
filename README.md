@@ -10,7 +10,7 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-02-17
+Run on 2023-02-18
 
 Scanned 2 pages of wine deals.
 Found 64 deals
