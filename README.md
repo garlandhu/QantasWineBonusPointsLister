@@ -10,10 +10,10 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-02-18
+Run on 2023-02-19
 
 Scanned 2 pages of wine deals.
-Found 64 deals
+Found 62 deals
 |   Point Cost (c) | Name                                               |   Price |   Bonus | Link                                                                                                       |
 |------------------|----------------------------------------------------|---------|---------|------------------------------------------------------------------------------------------------------------|
 |        0.0213333 | Heirloom Anevo Grenache Touriga Tempranillo 2020   |     384 |   18000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-anevo-grenache-touriga-tempranillo-2020/HEIANEGTT20  |
