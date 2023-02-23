@@ -10,20 +10,21 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-02-22
+Run on 2023-02-23
 
+Scanned 0 pages of wine deals.
 Scanned 2 pages of wine deals.
-Found 70 deals
+Found 62 deals
 |   Point Cost (c) | Name                                               |   Price |   Bonus | Link                                                                                                       |
 |------------------|----------------------------------------------------|---------|---------|------------------------------------------------------------------------------------------------------------|
-|        0.0216667 | Dandelion Grenache Faraway Tree 2020               |      65 |    3000 | https://wine.qantas.com/p/dandelion-vineyards-dandelion-grenache-faraway-tree-2020/DANFTGREN20             |
-|        0.0216667 | Heirloom Alcala McLaren Vale Grenache 2021         |      65 |    3000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-alcala-mclaren-vale-grenache-2021/HEIALCGRE21        |
-|        0.024     | Heirloom Mixed Premium Wine Dozen                  |     360 |   15000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-mixed-premium-wine-dozen/MIX2301014                  |
-|        0.0245    | Allegiance Unity Margaret River Chardonnay 2021    |      49 |    2000 | https://wine.qantas.com/p/allegiance-allegiance-unity-margaret-river-chardonnay-2021/ALLUNIMRCHAR21        |
-|        0.025     | Top Savvy and Italian Sparkling Dozen              |     270 |   10800 | https://wine.qantas.com/p/top-savvy-and-italian-sparkling-dozen/MIX2212029                                 |
-|        0.025     | Allegiance Unity Barossa Cabernet Sauvignon 2019   |      75 |    3000 | https://wine.qantas.com/p/allegiance-allegiance-unity-barossa-cabernet-sauvignon-2019/ALLUBCAB19           |
-|        0.0256    | Shiraz Barossa Vs McLaren Vale 2019 Heirloom Dozen |     384 |   15000 | https://wine.qantas.com/p/heirloom-vineyards-shiraz-barossa-vs-mclaren-vale-2019-heirloom-dozen/MIX2301017 |
-|        0.0257143 | Byron and Harold Partners Cabernet Sauvignon 2017  |      45 |    1750 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-partners-cabernet-sauvignon-2017/BYRHPARCAB17  |
-|        0.0257143 | Byron and Harold Partners Cabernet Sauvignon 2020  |      45 |    1750 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-partners-cabernet-sauvignon-2020/BYRHPARCAB20  |
-|        0.0257143 | Dandelion Shiraz Firehawk of McLaren Vale 2019     |      45 |    1750 | https://wine.qantas.com/p/dandelion-vineyards-dandelion-shiraz-firehawk-of-mclaren-vale-2019/DANFIRSHZ19   |
+|        0.024     | Heirloom Mixed Premium Wine Dozen                  |   360   |   15000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-mixed-premium-wine-dozen/MIX2301014                  |
+|        0.025     | Top Savvy and Italian Sparkling Dozen              |   270   |   10800 | https://wine.qantas.com/p/top-savvy-and-italian-sparkling-dozen/MIX2212029                                 |
+|        0.025     | Allegiance Unity Barossa Cabernet Sauvignon 2019   |   450   |   18000 | https://wine.qantas.com/p/allegiance-allegiance-unity-barossa-cabernet-sauvignon-2019/ALLUBCAB19           |
+|        0.0256    | Shiraz Barossa Vs McLaren Vale 2019 Heirloom Dozen |   384   |   15000 | https://wine.qantas.com/p/heirloom-vineyards-shiraz-barossa-vs-mclaren-vale-2019-heirloom-dozen/MIX2301017 |
+|        0.0257143 | Byron and Harold Partners Cabernet Sauvignon 2020  |   270   |   10500 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-partners-cabernet-sauvignon-2020/BYRHPARCAB20  |
+|        0.026     | Petaluma Coonawarra Merlot 2018                    |   312   |   12000 | https://wine.qantas.com/p/petaluma-petaluma-coonawarra-merlot-2018/PETCOOMER18                             |
+|        0.0263333 | Eisenstone Gomersal Shiraz SR808 2020              |   474   |   18000 | https://wine.qantas.com/p/eisenstone-eisenstone-gomersal-shiraz-sr808-2020/EISGOMSHZ20                     |
+|        0.0265    | Hewitson Baby Bush Mourvedre 2021                  |   318   |   12000 | https://wine.qantas.com/p/hewitson-hewitson-baby-bush-mourvedre-2021/HEWBABMOU21                           |
+|        0.0266667 | Haselgrove Col Cross Shiraz 2018                   |   480   |   18000 | https://wine.qantas.com/p/haselgrove-haselgrove-col-cross-shiraz-2018/HASCOLSHZ18                          |
+|        0.026975  | Patritti JPB Single Vineyard Shiraz 2019           |   323.7 |   12000 | https://wine.qantas.com/p/patritti-patritti-jpb-single-vineyard-shiraz-2019/PATJPBSHZ19                    |
 
