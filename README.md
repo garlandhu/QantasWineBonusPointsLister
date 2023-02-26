@@ -10,10 +10,10 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-02-25
+Run on 2023-02-26
 
 Scanned 2 pages of wine deals.
-Found 59 deals
+Found 56 deals
 |   Point Cost (c) | Name                                               |   Price |   Bonus | Link                                                                                                       |
 |------------------|----------------------------------------------------|---------|---------|------------------------------------------------------------------------------------------------------------|
 |        0.025     | Top Savvy and Italian Sparkling Dozen              |     270 |   10800 | https://wine.qantas.com/p/top-savvy-and-italian-sparkling-dozen/MIX2212029                                 |
