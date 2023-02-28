@@ -10,12 +10,14 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-02-27
+Run on 2023-02-28
 
+Scanned 0 pages of wine deals.
 Scanned 2 pages of wine deals.
-Found 56 deals
+Found 69 deals
 |   Point Cost (c) | Name                                               |   Price |   Bonus | Link                                                                                                       |
 |------------------|----------------------------------------------------|---------|---------|------------------------------------------------------------------------------------------------------------|
+|        0.024     | Business Class Cabernet + Chardonnay Dozen         |     360 |   15000 | https://wine.qantas.com/p/business-class-cabernet-chardonnay-dozen/MIX2301039                              |
 |        0.025     | Top Savvy and Italian Sparkling Dozen              |     270 |   10800 | https://wine.qantas.com/p/top-savvy-and-italian-sparkling-dozen/MIX2212029                                 |
 |        0.025     | Allegiance Unity Barossa Cabernet Sauvignon 2019   |     450 |   18000 | https://wine.qantas.com/p/allegiance-allegiance-unity-barossa-cabernet-sauvignon-2019/ALLUBCAB19           |
 |        0.0256    | Shiraz Barossa Vs McLaren Vale 2019 Heirloom Dozen |     384 |   15000 | https://wine.qantas.com/p/heirloom-vineyards-shiraz-barossa-vs-mclaren-vale-2019-heirloom-dozen/MIX2301017 |
@@ -25,5 +27,4 @@ Found 56 deals
 |        0.0265    | Hewitson Baby Bush Mourvedre 2021                  |     318 |   12000 | https://wine.qantas.com/p/hewitson-hewitson-baby-bush-mourvedre-2021/HEWBABMOU21                           |
 |        0.0266667 | Haselgrove Col Cross Shiraz 2018                   |     480 |   18000 | https://wine.qantas.com/p/haselgrove-haselgrove-col-cross-shiraz-2018/HASCOLSHZ18                          |
 |        0.0275    | Rosenthal Richings Cabernet Sauvignon 2021         |     330 |   12000 | https://wine.qantas.com/p/rosenthal-rosenthal-richings-cabernet-sauvignon-2021/ROSRICCAB21                 |
-|        0.0275    | Sidewood Mappinga Adelaide Hills Shiraz 2017       |     330 |   12000 | https://wine.qantas.com/p/sidewood-estate-sidewood-mappinga-adelaide-hills-shiraz-2017/SIDMASHZ17          |
 
