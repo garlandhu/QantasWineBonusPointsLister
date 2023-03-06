@@ -10,7 +10,7 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-03-05
+Run on 2023-03-06
 
 Scanned 2 pages of wine deals.
 Found 63 deals
@@ -18,7 +18,7 @@ Found 63 deals
 |------------------|-----------------------------------------------|---------|---------|---------------------------------------------------------------------------------------------------------|
 |        0.0266    | Premium Reds Collection Dozen                 |  798    |   30000 | https://wine.qantas.com/p/premium-reds-collection-dozen/MIX2212016                                      |
 |        0.0283333 | Balnaves The Tally Cabernet Sauvignon 2018    |  510    |   18000 | https://wine.qantas.com/p/balnaves-of-coonawarra-balnaves-the-tally-cabernet-sauvignon-2018/BALTALCAB18 |
-|        0.0298    | Arila Gardens Barossa Sand Grenache 2020      |  447    |   15000 | https://wine.qantas.com/p/arila-gardens-arila-gardens-barossa-sand-grenache-2020/ARISANGRE20            |
+|        0.0298    | Arila Gardens Barossa Sand Grenache 2020      |   74.5  |    2500 | https://wine.qantas.com/p/arila-gardens-arila-gardens-barossa-sand-grenache-2020/ARISANGRE20            |
 |        0.02999   | Schoolhouse Headmaster Sauvignon Blanc 2021   |  179.94 |    6000 | https://wine.qantas.com/p/schoolhouse-wines-schoolhouse-headmaster-sauvignon-blanc-2021/SCHHMSAUV21     |
 |        0.03      | Whistler Wines Barossa Shiraz Cabernet 2021   |  270    |    9000 | https://wine.qantas.com/p/whistler-wines-whistler-wines-barossa-shiraz-cabernet-2021/WHWSHZCAB21        |
 |        0.03125   | Byron and Harold Rags to Riches Cabernet 2020 |  150    |    4800 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-rags-to-riches-cabernet-2020/BYRHRAGCAB20   |
