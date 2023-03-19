@@ -10,10 +10,10 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-03-18
+Run on 2023-03-19
 
-Scanned 3 pages of wine deals.
-Found 95 deals
+Scanned 2 pages of wine deals.
+Found 80 deals
 |   Point Cost (c) | Name                                            |   Price |   Bonus | Link                                                                                                |
 |------------------|-------------------------------------------------|---------|---------|-----------------------------------------------------------------------------------------------------|
 |        0.0216667 | Heirloom Alcala McLaren Vale Grenache 2021      |   65    |    3000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-alcala-mclaren-vale-grenache-2021/HEIALCGRE21 |
@@ -24,6 +24,6 @@ Found 95 deals
 |        0.026     | The Ideal Dozen from Haselgrove                 |  390    |   15000 | https://wine.qantas.com/p/haselgrove-the-ideal-dozen-from-haselgrove/MIX2301042                     |
 |        0.0266    | Premium Reds Collection Dozen                   |  798    |   30000 | https://wine.qantas.com/p/premium-reds-collection-dozen/MIX2212016                                  |
 |        0.0275    | Maso di Mezzo Teroldego Rotaliano 2019          |  165    |    6000 | https://wine.qantas.com/p/mezzacorona-maso-di-mezzo-teroldego-rotaliano-2019/MASMEZTER19            |
-|        0.027992  | Heirloom Adelaide Hills Pinot Noir 2021         |  419.88 |   15000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-adelaide-hills-pinot-noir-2021/HEIADHPIN21    |
 |        0.027992  | Ottelia Pinot Noir Mount Gambier 2018           |  419.88 |   15000 | https://wine.qantas.com/p/ottelia-ottelia-pinot-noir-mount-gambier-2018/OTTELIPIN18                 |
+|        0.027992  | Heirloom Adelaide Hills Pinot Noir 2021         |  419.88 |   15000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-adelaide-hills-pinot-noir-2021/HEIADHPIN21    |
 
