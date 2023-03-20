@@ -10,10 +10,10 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-03-19
+Run on 2023-03-20
 
-Scanned 2 pages of wine deals.
-Found 80 deals
+Scanned 3 pages of wine deals.
+Found 92 deals
 |   Point Cost (c) | Name                                            |   Price |   Bonus | Link                                                                                                |
 |------------------|-------------------------------------------------|---------|---------|-----------------------------------------------------------------------------------------------------|
 |        0.0216667 | Heirloom Alcala McLaren Vale Grenache 2021      |   65    |    3000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-alcala-mclaren-vale-grenache-2021/HEIALCGRE21 |
