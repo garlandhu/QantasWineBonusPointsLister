@@ -10,20 +10,20 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-03-26
+Run on 2023-03-27
 
-Scanned 1 pages of wine deals.
-Found 32 deals
-|   Point Cost (c) | Name                                            |   Price |   Bonus | Link                                                                                              |
-|------------------|-------------------------------------------------|---------|---------|---------------------------------------------------------------------------------------------------|
-|        0.0233333 | Heirloom Alambra Barossa Shiraz 2021            |     420 |   18000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-alambra-barossa-shiraz-2021/HEIALASHZ21     |
-|        0.025     | Rolf Binder Heysen Shiraz 2019                  |     300 |   12000 | https://wine.qantas.com/p/rolf-binder-rolf-binder-heysen-shiraz-2019/ROLHEYSHZ19                  |
-|        0.0266    | Premium Reds Collection Dozen                   |     798 |   30000 | https://wine.qantas.com/p/premium-reds-collection-dozen/MIX2212016                                |
-|        0.0295    | Tahbilk Eric Stevens Purbrick Red Six           |     354 |   12000 | https://wine.qantas.com/p/tahbilk-tahbilk-eric-stevens-purbrick-red-six/MIX1648                   |
-|        0.0298    | Arila Gardens Barossa Sand Grenache 2020        |     447 |   15000 | https://wine.qantas.com/p/arila-gardens-arila-gardens-barossa-sand-grenache-2020/ARISANGRE20      |
-|        0.03      | Whistler Wines Barossa Shiraz Cabernet 2021     |     270 |    9000 | https://wine.qantas.com/p/whistler-wines-whistler-wines-barossa-shiraz-cabernet-2021/WHWSHZCAB21  |
-|        0.0313333 | Bests Bin 1 Great Western Shiraz 2019           |     282 |    9000 | https://wine.qantas.com/p/bests-great-western-bests-bin-1-great-western-shiraz-2019/BESB1SHI19    |
-|        0.0316    | Wills Domain Margaret River Paladin Power Dozen |     948 |   30000 | https://wine.qantas.com/p/wills-domain-wills-domain-margaret-river-paladin-power-dozen/MIX2302034 |
-|        0.032     | SC Pannell McLaren Vale Grenache 2021           |     288 |    9000 | https://wine.qantas.com/p/sc-pannell-sc-pannell-mclaren-vale-grenache-2021/SCPMCVGRE21            |
-|        0.0325    | Credaro 1000 Crowns Cabernet 2019               |     390 |   12000 | https://wine.qantas.com/p/credaro-credaro-1000-crowns-cabernet-2019/CREDTCRCAB19                  |
+Scanned 3 pages of wine deals.
+Found 80 deals
+|   Point Cost (c) | Name                                                  |   Price |   Bonus | Link                                                                                                |
+|------------------|-------------------------------------------------------|---------|---------|-----------------------------------------------------------------------------------------------------|
+|        0.0233333 | Heirloom Alambra Barossa Shiraz 2021                  |   420   |   18000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-alambra-barossa-shiraz-2021/HEIALASHZ21       |
+|        0.025     | Rolf Binder Heysen Shiraz 2019                        |   300   |   12000 | https://wine.qantas.com/p/rolf-binder-rolf-binder-heysen-shiraz-2019/ROLHEYSHZ19                    |
+|        0.025     | Bleasdale The Iron Duke Cabernet Sauvignon 2018       |    75   |    3000 | https://wine.qantas.com/p/bleasdale-bleasdale-the-iron-duke-cabernet-sauvignon-2018/BLSTIRDKCAB18   |
+|        0.0266    | Premium Reds Collection Dozen                         |   798   |   30000 | https://wine.qantas.com/p/premium-reds-collection-dozen/MIX2212016                                  |
+|        0.0275    | Maso di Mezzo Teroldego Rotaliano 2019                |    27.5 |    1000 | https://wine.qantas.com/p/mezzacorona-maso-di-mezzo-teroldego-rotaliano-2019/MASMEZTER19            |
+|        0.0283333 | Haselgrove Col Cross Shiraz 2018                      |    85   |    3000 | https://wine.qantas.com/p/haselgrove-haselgrove-col-cross-shiraz-2018/HASCOLSHZ18                   |
+|        0.0295    | Tahbilk Eric Stevens Purbrick Red Six                 |   354   |   12000 | https://wine.qantas.com/p/tahbilk-tahbilk-eric-stevens-purbrick-red-six/MIX1648                     |
+|        0.0295    | Tahbilk Eric Stevens Purbrick Red Six                 |   354   |   12000 | https://wine.qantas.com/p/tahbilk-tahbilk-eric-stevens-purbrick-red-six/MIX1648                     |
+|        0.0295    | Tahbilk Eric Stevens Purbrick Shiraz 2016             |    59   |    2000 | https://wine.qantas.com/p/tahbilk-tahbilk-eric-stevens-purbrick-shiraz-2016/TAHERISHZ16             |
+|        0.0295    | Tahbilk Eric Stevens Purbrick Cabernet Sauvignon 2016 |    59   |    2000 | https://wine.qantas.com/p/tahbilk-tahbilk-eric-stevens-purbrick-cabernet-sauvignon-2016/TAHERICAB16 |
 
