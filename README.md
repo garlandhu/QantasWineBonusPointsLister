@@ -10,12 +10,13 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-04-04
+Run on 2023-04-05
 
 Scanned 4 pages of wine deals.
-Found 128 deals
+Found 130 deals
 |   Point Cost (c) | Name                                               |   Price |   Bonus | Link                                                                                                     |
 |------------------|----------------------------------------------------|---------|---------|----------------------------------------------------------------------------------------------------------|
+|        0.0192    | Ulithorne Avitus McLaren Vale Magnum Shiraz 2021   |      96 |    5000 | https://wine.qantas.com/p/ulithorne-ulithorne-avitus-mclaren-vale-magnum-shiraz-2021/ULIAVITSHZMAG21     |
 |        0.0233333 | Heirloom Alambra Barossa Shiraz 2021               |     420 |   18000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-alambra-barossa-shiraz-2021/HEIALASHZ21            |
 |        0.0236    | Haselgrove Colossal Red Six                        |     354 |   15000 | https://wine.qantas.com/p/haselgrove-haselgrove-colossal-red-six/MIX2302030                              |
 |        0.025     | Bleasdale The Iron Duke Cabernet Sauvignon 2018    |     450 |   18000 | https://wine.qantas.com/p/bleasdale-bleasdale-the-iron-duke-cabernet-sauvignon-2018/BLSTIRDKCAB18        |
@@ -24,6 +25,5 @@ Found 128 deals
 |        0.0283333 | ATR Wines Hard Hill Road The Field 2017            |     255 |    9000 | https://wine.qantas.com/p/at-richardson-atr-wines-hard-hill-road-the-field-2017/ATRHHRFIE17              |
 |        0.0283333 | Haselgrove Col Cross Shiraz 2018                   |      85 |    3000 | https://wine.qantas.com/p/haselgrove-haselgrove-col-cross-shiraz-2018/HASCOLSHZ18                        |
 |        0.0294    | Cabernet + Italian Chianti Dozen                   |     294 |   10000 | https://wine.qantas.com/p/cabernet-italian-chianti-dozen/MIX2302024                                      |
-|        0.0294    | Shiraz + Sicillian Nero d'Avola Dozen              |     294 |   10000 | https://wine.qantas.com/p/shiraz-sicillian-nero-davola-dozen/MIX2302023                                  |
 |        0.0294    | Hewitson Barossa Reds Dozen                        |     294 |   10000 | https://wine.qantas.com/p/hewitson-hewitson-barossa-reds-dozen/MIX2212050                                |
 
