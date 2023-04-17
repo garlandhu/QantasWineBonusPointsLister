@@ -10,20 +10,20 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-04-16
+Run on 2023-04-17
 
-Scanned 4 pages of wine deals.
-Found 129 deals
-|   Point Cost (c) | Name                                               |   Price |   Bonus | Link                                                                                                   |
-|------------------|----------------------------------------------------|---------|---------|--------------------------------------------------------------------------------------------------------|
-|        0.0216667 | Heirloom Alcala McLaren Vale Grenache 2021         |   65    |    3000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-alcala-mclaren-vale-grenache-2021/HEIALCGRE21    |
-|        0.0222167 | ATR Wines Hard Hill Road The Field 2018            |  239.94 |   10800 | https://wine.qantas.com/p/at-richardson-atr-wines-hard-hill-road-the-field-2018/ATRHHRFIE18            |
-|        0.0242364 | ATR Wines Hard Hill Road Close Planted Shiraz 2020 |  479.88 |   19800 | https://wine.qantas.com/p/at-richardson-atr-wines-hard-hill-road-close-planted-shiraz-2020/ATRHHRSHI20 |
-|        0.0249944 | ATR Wines Hard Hill Road Petite Sirah 2018         |  269.94 |   10800 | https://wine.qantas.com/p/at-richardson-atr-wines-hard-hill-road-petite-sirah-2018/ATRHHRPISI18        |
-|        0.0249944 | ATR Wines Hard Hill Road Durif 2013                |  269.94 |   10800 | https://wine.qantas.com/p/at-richardson-atr-wines-hard-hill-road-durif-2013/ATRHHRPISI13               |
-|        0.0249944 | ATR Wines Hard Hill Road Nebbiolo 2018             |  269.94 |   10800 | https://wine.qantas.com/p/at-richardson-atr-wines-hard-hill-road-nebbiolo-2018/ATRHHRNEB18             |
-|        0.0249944 | ATR Wines Hard Hill Road Durif 2016                |  269.94 |   10800 | https://wine.qantas.com/p/at-richardson-atr-wines-hard-hill-road-durif-2016/ATRHHRPISI16               |
-|        0.025     | Allegiance Unity Barossa Cabernet Sauvignon 2019   |   75    |    3000 | https://wine.qantas.com/p/allegiance-allegiance-unity-barossa-cabernet-sauvignon-2019/ALLUBCAB19       |
-|        0.025     | Rolf Binder Heysen Shiraz 2019                     |  300    |   12000 | https://wine.qantas.com/p/rolf-binder-rolf-binder-heysen-shiraz-2019/ROLHEYSHZ19                       |
-|        0.0266    | Premium Reds Collection Dozen                      |  798    |   30000 | https://wine.qantas.com/p/premium-reds-collection-dozen/MIX2212016                                     |
+Scanned 3 pages of wine deals.
+Found 109 deals
+|   Point Cost (c) | Name                                               |   Price |   Bonus | Link                                                                                                    |
+|------------------|----------------------------------------------------|---------|---------|---------------------------------------------------------------------------------------------------------|
+|        0.0242364 | ATR Wines Hard Hill Road Close Planted Shiraz 2020 |  479.88 |   19800 | https://wine.qantas.com/p/at-richardson-atr-wines-hard-hill-road-close-planted-shiraz-2020/ATRHHRSHI20  |
+|        0.0249944 | ATR Wines Hard Hill Road Durif 2013                |  269.94 |   10800 | https://wine.qantas.com/p/at-richardson-atr-wines-hard-hill-road-durif-2013/ATRHHRPISI13                |
+|        0.0249944 | ATR Wines Hard Hill Road Durif 2016                |  269.94 |   10800 | https://wine.qantas.com/p/at-richardson-atr-wines-hard-hill-road-durif-2016/ATRHHRPISI16                |
+|        0.025     | Allegiance Unity Barossa Cabernet Sauvignon 2019   |   75    |    3000 | https://wine.qantas.com/p/allegiance-allegiance-unity-barossa-cabernet-sauvignon-2019/ALLUBCAB19        |
+|        0.025     | Allegiance Unity Barossa Cabernet Sauvignon 2019   |   75    |    3000 | https://wine.qantas.com/p/allegiance-allegiance-unity-barossa-cabernet-sauvignon-2019/ALLUBCAB19        |
+|        0.025     | Rolf Binder Heysen Shiraz 2019                     |  300    |   12000 | https://wine.qantas.com/p/rolf-binder-rolf-binder-heysen-shiraz-2019/ROLHEYSHZ19                        |
+|        0.0266    | Premium Reds Collection Dozen                      |  798    |   30000 | https://wine.qantas.com/p/premium-reds-collection-dozen/MIX2212016                                      |
+|        0.0275    | Rosenthal Richings Cabernet Sauvignon 2021         |   55    |    2000 | https://wine.qantas.com/p/rosenthal-rosenthal-richings-cabernet-sauvignon-2021/ROSRICCAB21              |
+|        0.0283333 | Balnaves The Tally Cabernet Sauvignon 2018         |   85    |    3000 | https://wine.qantas.com/p/balnaves-of-coonawarra-balnaves-the-tally-cabernet-sauvignon-2018/BALTALCAB18 |
+|        0.0294    | Hewitson Barossa Reds Dozen                        |  294    |   10000 | https://wine.qantas.com/p/hewitson-hewitson-barossa-reds-dozen/MIX2212050                               |
 
