@@ -10,20 +10,20 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-04-30
+Run on 2023-05-01
 
-Scanned 3 pages of wine deals.
-Found 87 deals
-|   Point Cost (c) | Name                                                    |   Price |   Bonus | Link                                                                                                       |
-|------------------|---------------------------------------------------------|---------|---------|------------------------------------------------------------------------------------------------------------|
-|        0.0275    | Rosenthal Richings Cabernet Sauvignon 2021              |    55   |    2000 | https://wine.qantas.com/p/rosenthal-rosenthal-richings-cabernet-sauvignon-2021/ROSRICCAB21                 |
-|        0.028     | Hewitson Ned & Henrys Barossa Shiraz 2021               |   336   |   12000 | https://wine.qantas.com/p/hewitson-hewitson-ned-and-henrys-barossa-shiraz-2021/HEWNEDSHZ21                 |
-|        0.0283333 | ATR Wines Hard Hill Road The Field 2017                 |   255   |    9000 | https://wine.qantas.com/p/at-richardson-atr-wines-hard-hill-road-the-field-2017/ATRHHRFIE17                |
-|        0.0283333 | Balnaves The Tally Cabernet Sauvignon 2018              |    85   |    3000 | https://wine.qantas.com/p/balnaves-of-coonawarra-balnaves-the-tally-cabernet-sauvignon-2018/BALTALCAB18    |
-|        0.03      | Alkoomi Blackbutt Cabernet Malbec Cab Franc Merlot 2016 |   270   |    9000 | https://wine.qantas.com/p/alkoomi-alkoomi-blackbutt-cabernet-malbec-cab-franc-merlot-2016/ALBBLACAB16      |
-|        0.03      | Whistler Wines Barossa Shiraz Cabernet 2021             |   270   |    9000 | https://wine.qantas.com/p/whistler-wines-whistler-wines-barossa-shiraz-cabernet-2021/WHWSHZCAB21           |
-|        0.0326667 | SC Pannell Sauvignon Blanc 2022                         |   294   |    9000 | https://wine.qantas.com/p/sc-pannell-sc-pannell-sauvignon-blanc-2022/SCPANSAV22                            |
-|        0.033     | Willow Bridge Dragonfly Cabernet Sauvignon Merlot 2022  |   198   |    6000 | https://wine.qantas.com/p/willow-bridge-willow-bridge-dragonfly-cabernet-sauvignon-merlot-2022/WILDRACAM22 |
-|        0.0332667 | Hither & Yon Grenache Mataro 2021                       |   299.4 |    9000 | https://wine.qantas.com/p/hither-and-yon-hither-and-yon-grenache-mataro-2021/HIYOGREMAT21                  |
-|        0.035     | Credaro 5 Tales Shiraz 2020                             |   210   |    6000 | https://wine.qantas.com/p/credaro-credaro-5-tales-shiraz-2020/CREFTLSHZ20                                  |
+Scanned 5 pages of wine deals.
+Found 185 deals
+|   Point Cost (c) | Name                                               |   Price |   Bonus | Link                                                                                                  |
+|------------------|----------------------------------------------------|---------|---------|-------------------------------------------------------------------------------------------------------|
+|        0.0235    | Dune Wine Bonaire Rose 2021                        |  282    |   12000 | https://wine.qantas.com/p/dune-dune-wine-bonaire-rose-2021/DUNBROS21                                  |
+|        0.023996  | Penley Steyning Cabernet Sauvignon 2020            |  359.94 |   15000 | https://wine.qantas.com/p/penley-estate-penley-steyning-cabernet-sauvignon-2020/PENSTECAB20           |
+|        0.024     | Thompson Estate Cabernet Merlot 2017               |  360    |   15000 | https://wine.qantas.com/p/thompson-estate-thompson-estate-cabernet-merlot-2017/THESTCME17             |
+|        0.0243333 | Dandelion Treasure Trove Grenache 2019             |  219    |    9000 | https://wine.qantas.com/p/dandelion-vineyards-dandelion-treasure-trove-grenache-2019/DANTTGRE19       |
+|        0.025     | Allegiance The Artisan Reserve Barossa Shiraz 2020 |  300    |   12000 | https://wine.qantas.com/p/allegiance-allegiance-the-artisan-reserve-barossa-shiraz-2020/ALTARBASHZ20  |
+|        0.025     | Byron and Harold Partners Shiraz 2020              |  300    |   12000 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-partners-shiraz-2020/BYRHPASHZ20          |
+|        0.025     | First Creek Winemakers Reserve Shiraz 2019         |  300    |   12000 | https://wine.qantas.com/p/first-creek-first-creek-winemakers-reserve-shiraz-2019/FCWMRSHI19           |
+|        0.0256    | Shiraz Barossa Vs McLaren Vale Heirloom Dozen      |  384    |   15000 | https://wine.qantas.com/p/heirloom-vineyards-shiraz-barossa-vs-mclaren-vale-heirloom-dozen/MIX2301017 |
+|        0.0256    | Flowstone Cabernet Touriga 2016                    |   32    |    1250 | https://wine.qantas.com/p/flowstone-flowstone-cabernet-touriga-2016/FLOWSTCST16                       |
+|        0.0256    | Woodlands Cabernet Merlot 2019                     |  384    |   15000 | https://wine.qantas.com/p/woodlands-wines-woodlands-cabernet-merlot-2019/WOOCABMER19                  |
 
