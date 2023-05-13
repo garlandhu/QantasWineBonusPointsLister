@@ -10,20 +10,21 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-05-12
+Run on 2023-05-13
 
-Scanned 1 pages of wine deals.
-Found 47 deals
+Scanned 0 pages of wine deals.
+Scanned 4 pages of wine deals.
+Found 153 deals
 |   Point Cost (c) | Name                                                      |   Price |   Bonus | Link                                                                                                            |
 |------------------|-----------------------------------------------------------|---------|---------|-----------------------------------------------------------------------------------------------------------------|
 |        0.0233267 | Thompson Estate Excellence Dozen                          |  419.88 |   18000 | https://wine.qantas.com/p/thompson-estate-thompson-estate-excellence-dozen/MIX2304034                           |
+|        0.0235    | Dune Wine Bonaire Rose 2021                               |  282    |   12000 | https://wine.qantas.com/p/dune-dune-wine-bonaire-rose-2021/DUNBROS21                                            |
 |        0.0238    | The Grand Red Dozen                                       |  714    |   30000 | https://wine.qantas.com/p/the-grand-red-dozen/MIX2303051                                                        |
 |        0.0243333 | Dandelion Treasure Trove Grenache 2019                    |  219    |    9000 | https://wine.qantas.com/p/dandelion-vineyards-dandelion-treasure-trove-grenache-2019/DANTTGRE19                 |
 |        0.024995  | Merite Single Vineyard Aged Released Merlot 2015          |  299.94 |   12000 | https://wine.qantas.com/p/merite-wines-merite-single-vineyard-aged-released-merlot-2015/MERMER15                |
 |        0.025     | Heirloom Barossa Shiraz + Adelaide Hills Chardonnay Dozen |  450    |   18000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-barossa-shiraz-adelaide-hills-chardonnay-dozen/MIX2303061 |
 |        0.025     | Allegiance Unity Coonawarra Cabernet Sauvignon 2018       |  450    |   18000 | https://wine.qantas.com/p/allegiance-allegiance-unity-coonawarra-cabernet-sauvignon-2018/ALLUCCAB18             |
 |        0.025     | Ulithorne Avitus McLaren Vale Shiraz 2018                 |  450    |   18000 | https://wine.qantas.com/p/ulithorne-ulithorne-avitus-mclaren-vale-shiraz-2018/ULIAVITSHZ18                      |
-|        0.0263333 | Voyager Estate Cabernet Sauvignon 2017                    |  474    |   18000 | https://wine.qantas.com/p/voyager-estate-voyager-estate-cabernet-sauvignon-2017/VOYMRCAB17                      |
-|        0.0263333 | Voyager Estate Cabernet + Margaret River Chardonnay Six   |  474    |   18000 | https://wine.qantas.com/p/voyager-estate-voyager-estate-cabernet-margaret-river-chardonnay-six/MIX2303038       |
-|        0.0265    | Frankland Estate Organic GDC Shiraz 2020                  |  318    |   12000 | https://wine.qantas.com/p/frankland-estate-frankland-estate-organic-gdc-shiraz-2020/FRAGDCSHZ20                 |
+|        0.025     | Allegiance The Artisan Reserve Barossa Shiraz 2020        |   50    |    2000 | https://wine.qantas.com/p/allegiance-allegiance-the-artisan-reserve-barossa-shiraz-2020/ALTARBASHZ20            |
+|        0.025     | Byron and Harold Partners Shiraz 2020                     |  300    |   12000 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-partners-shiraz-2020/BYRHPASHZ20                    |
 
