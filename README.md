@@ -10,8 +10,9 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-05-16
+Run on 2023-05-17
 
+Scanned 0 pages of wine deals.
 Scanned 4 pages of wine deals.
 Found 160 deals
 |   Point Cost (c) | Name                                                 |   Price |   Bonus | Link                                                                                                    |
@@ -23,7 +24,7 @@ Found 160 deals
 |        0.025     | Ulithorne Avitus McLaren Vale Shiraz 2018            |  450    |   18000 | https://wine.qantas.com/p/ulithorne-ulithorne-avitus-mclaren-vale-shiraz-2018/ULIAVITSHZ18              |
 |        0.025     | First Creek Winemakers Reserve Shiraz 2019           |  300    |   12000 | https://wine.qantas.com/p/first-creek-first-creek-winemakers-reserve-shiraz-2019/FCWMRSHI19             |
 |        0.025     | Byron and Harold Partners Shiraz 2020                |  300    |   12000 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-partners-shiraz-2020/BYRHPASHZ20            |
-|        0.0256    | Woodlands Cabernet Merlot 2019                       |  384    |   15000 | https://wine.qantas.com/p/woodlands-wines-woodlands-cabernet-merlot-2019/WOOCABMER19                    |
 |        0.0256    | Flowstone Cabernet Touriga 2016                      |   32    |    1250 | https://wine.qantas.com/p/flowstone-flowstone-cabernet-touriga-2016/FLOWSTCST16                         |
+|        0.0256    | Woodlands Cabernet Merlot 2019                       |  384    |   15000 | https://wine.qantas.com/p/woodlands-wines-woodlands-cabernet-merlot-2019/WOOCABMER19                    |
 |        0.026     | Thorn Clarke William Randell Cabernet Sauvignon 2018 |  390    |   15000 | https://wine.qantas.com/p/thorn-clarke-thorn-clarke-william-randell-cabernet-sauvignon-2018/THCWLRCAB18 |
 
