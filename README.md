@@ -10,10 +10,11 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-05-28
+Run on 2023-05-29
 
+Scanned 0 pages of wine deals.
 Scanned 4 pages of wine deals.
-Found 130 deals
+Found 146 deals
 |   Point Cost (c) | Name                                             |   Price |   Bonus | Link                                                                                                  |
 |------------------|--------------------------------------------------|---------|---------|-------------------------------------------------------------------------------------------------------|
 |        0.0233267 | Thompson Estate Excellence Dozen                 |  419.88 |   18000 | https://wine.qantas.com/p/thompson-estate-thompson-estate-excellence-dozen/MIX2304034                 |
@@ -25,5 +26,5 @@ Found 130 deals
 |        0.0256    | Shiraz Barossa Vs McLaren Vale Heirloom Dozen    |  384    |   15000 | https://wine.qantas.com/p/heirloom-vineyards-shiraz-barossa-vs-mclaren-vale-heirloom-dozen/MIX2301017 |
 |        0.0256    | Woodlands Cabernet Merlot 2019                   |  384    |   15000 | https://wine.qantas.com/p/woodlands-wines-woodlands-cabernet-merlot-2019/WOOCABMER19                  |
 |        0.026     | Merite Malbec 2021                               |  234    |    9000 | https://wine.qantas.com/p/merite-wines-merite-malbec-2021/MERMAL21                                    |
-|        0.0263333 | Mitolo Serpico Cabernet Sauvignon 2019           |  474    |   18000 | https://wine.qantas.com/p/mitolo-mitolo-serpico-cabernet-sauvignon-2019/MITSERCAB19                   |
+|        0.0263333 | Rosenthal Collector Cabernet Sauvignon 2021      |  474    |   18000 | https://wine.qantas.com/p/rosenthal-rosenthal-collector-cabernet-sauvignon-2021/ROSTCOCAB21           |
 
