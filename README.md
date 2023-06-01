@@ -10,20 +10,20 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-05-31
+Run on 2023-06-01
 
-Scanned 2 pages of wine deals.
-Found 84 deals
-|   Point Cost (c) | Name                                             |   Price |   Bonus | Link                                                                                                  |
-|------------------|--------------------------------------------------|---------|---------|-------------------------------------------------------------------------------------------------------|
-|        0.0233267 | Thompson Estate Excellence Dozen                 |  419.88 |   18000 | https://wine.qantas.com/p/thompson-estate-thompson-estate-excellence-dozen/MIX2304034                 |
-|        0.024995  | Merite Single Vineyard Aged Released Merlot 2015 |  299.94 |   12000 | https://wine.qantas.com/p/merite-wines-merite-single-vineyard-aged-released-merlot-2015/MERMER15      |
-|        0.025     | Byron and Harold Partners Shiraz 2020            |  300    |   12000 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-partners-shiraz-2020/BYRHPASHZ20          |
-|        0.025     | First Creek Winemakers Reserve Shiraz 2019       |  300    |   12000 | https://wine.qantas.com/p/first-creek-first-creek-winemakers-reserve-shiraz-2019/FCWMRSHI19           |
-|        0.025     | Byron and Harold Partners Shiraz 2020            |  300    |   12000 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-partners-shiraz-2020/BYRHPASHZ20          |
-|        0.0256    | Shiraz Barossa Vs McLaren Vale Heirloom Dozen    |  384    |   15000 | https://wine.qantas.com/p/heirloom-vineyards-shiraz-barossa-vs-mclaren-vale-heirloom-dozen/MIX2301017 |
-|        0.026     | Merite Malbec 2021                               |  234    |    9000 | https://wine.qantas.com/p/merite-wines-merite-malbec-2021/MERMAL21                                    |
-|        0.0263333 | Rosenthal Collector Cabernet Sauvignon 2021      |  474    |   18000 | https://wine.qantas.com/p/rosenthal-rosenthal-collector-cabernet-sauvignon-2021/ROSTCOCAB21           |
-|        0.0263333 | Mitolo Savitar Shiraz 2019                       |  474    |   18000 | https://wine.qantas.com/p/mitolo-mitolo-savitar-shiraz-2019/MITSAVSHZ19                               |
-|        0.0263333 | Mitolo Serpico Cabernet Sauvignon 2019           |  474    |   18000 | https://wine.qantas.com/p/mitolo-mitolo-serpico-cabernet-sauvignon-2019/MITSERCAB19                   |
+Scanned 6 pages of wine deals.
+Found 260 deals
+|   Point Cost (c) | Name                                                               |   Price |   Bonus | Link                                                                                                              |
+|------------------|--------------------------------------------------------------------|---------|---------|-------------------------------------------------------------------------------------------------------------------|
+|        0.0197778 | d'Arenberg The Swinging Malaysian Shiraz 2010 Back Vintage Release |  534    |   27000 | https://wine.qantas.com/p/darenberg-darenberg-the-swinging-malaysian-shiraz-2010-back-vintage-release/DARSWISHR10 |
+|        0.02125   | Rosenthal Collector Chardonnay 2022                                |  510    |   24000 | https://wine.qantas.com/p/rosenthal-rosenthal-collector-chardonnay-2022/ROSTCOCHA22                               |
+|        0.02125   | Rosenthal Collector Chardonnay 2022                                |   85    |    4000 | https://wine.qantas.com/p/rosenthal-rosenthal-collector-chardonnay-2022/ROSTCOCHA22                               |
+|        0.0225    | Byron and Harold Protocol Cabernet Sauvignon 2020                  |  270    |   12000 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-protocol-cabernet-sauvignon-2020/BYRHPROCAB20         |
+|        0.0225714 | Hewitson Old Garden Mourvedre 2020                                 |  474    |   21000 | https://wine.qantas.com/p/hewitson-hewitson-old-garden-mourvedre-2020/HEWOLDMOU20                                 |
+|        0.023     | Hobbs of Barossa Tango Shiraz Viognier 2019                        |  690    |   30000 | https://wine.qantas.com/p/hobb-of-barossa-ranges-hobbs-of-barossa-tango-shiraz-viognier-2019/HOBTANSHZV19         |
+|        0.023     | Warramunda Estate The Compass Cabernets 2019                       |  690    |   30000 | https://wine.qantas.com/p/warramunda-estate-warramunda-estate-the-compass-cabernets-2019/WARRTCCAB19              |
+|        0.0232    | Super Fly Red Dozen                                                |  696    |   30000 | https://wine.qantas.com/p/super-fly-red-dozen/MIX2304065                                                          |
+|        0.0233267 | Thompson Estate Excellence Dozen                                   |  419.88 |   18000 | https://wine.qantas.com/p/thompson-estate-thompson-estate-excellence-dozen/MIX2304034                             |
+|        0.0233333 | K1 by Geoff Hardy Tzimmukin Shiraz Cabernet 2017                   |  280    |   12000 | https://wine.qantas.com/p/geoff-hardy-k1-by-geoff-hardy-tzimmukin-shiraz-cabernet-2017/K1GHTZSHCAB17              |
 
