@@ -10,10 +10,10 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-06-20
+Run on 2023-06-21
 
 Scanned 5 pages of wine deals.
-Found 222 deals
+Found 219 deals
 |   Point Cost (c) | Name                                              |   Price |   Bonus | Link                                                                                                      |
 |------------------|---------------------------------------------------|---------|---------|-----------------------------------------------------------------------------------------------------------|
 |        0.02125   | Rosenthal Collector Chardonnay 2022               |  510    |   24000 | https://wine.qantas.com/p/rosenthal-rosenthal-collector-chardonnay-2022/ROSTCOCHA22                       |
@@ -25,5 +25,5 @@ Found 222 deals
 |        0.023     | Irvine Winter Miles Ebenezer Shiraz 2018          |  414    |   18000 | https://wine.qantas.com/p/irvine-estate-irvine-winter-miles-ebenezer-shiraz-2018/IRWMEBSHZ18              |
 |        0.023     | Hobbs of Barossa Tango Shiraz Viognier 2019       |  690    |   30000 | https://wine.qantas.com/p/hobb-of-barossa-ranges-hobbs-of-barossa-tango-shiraz-viognier-2019/HOBTANSHZV19 |
 |        0.023     | Warramunda Estate The Compass Cabernets 2019      |  690    |   30000 | https://wine.qantas.com/p/warramunda-estate-warramunda-estate-the-compass-cabernets-2019/WARRTCCAB19      |
-|        0.023196  | Premium Australian Shiraz Dozen                   |  695.88 |   30000 | https://wine.qantas.com/p/premium-australian-shiraz-dozen/MIX2304077                                      |
+|        0.023196  | Cabernet + Chardonnay Premium Dozen               |  695.88 |   30000 | https://wine.qantas.com/p/cabernet-chardonnay-premium-dozen/MIX2304076                                    |
 
