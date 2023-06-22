@@ -10,10 +10,10 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-06-21
+Run on 2023-06-22
 
 Scanned 5 pages of wine deals.
-Found 219 deals
+Found 208 deals
 |   Point Cost (c) | Name                                              |   Price |   Bonus | Link                                                                                                      |
 |------------------|---------------------------------------------------|---------|---------|-----------------------------------------------------------------------------------------------------------|
 |        0.02125   | Rosenthal Collector Chardonnay 2022               |  510    |   24000 | https://wine.qantas.com/p/rosenthal-rosenthal-collector-chardonnay-2022/ROSTCOCHA22                       |
