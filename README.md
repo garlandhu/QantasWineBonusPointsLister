@@ -10,15 +10,15 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-06-28
+Run on 2023-06-29
 
 Scanned 6 pages of wine deals.
-Found 236 deals
+Found 231 deals
 |   Point Cost (c) | Name                                                               |   Price |   Bonus | Link                                                                                                              |
 |------------------|--------------------------------------------------------------------|---------|---------|-------------------------------------------------------------------------------------------------------------------|
-|        0.0197778 | d'Arenberg The Sardanapalian Shiraz 2011 Back Vintage Release      |     534 |   27000 | https://wine.qantas.com/p/darenberg-darenberg-the-sardanapalian-shiraz-2011-back-vintage-release/DARTIGSHR11      |
-|        0.0197778 | d'Arenberg The Swinging Malaysian Shiraz 2012 Back Vintage Release |     534 |   27000 | https://wine.qantas.com/p/darenberg-darenberg-the-swinging-malaysian-shiraz-2012-back-vintage-release/DARSWISHR12 |
 |        0.0197778 | d'Arenberg McLaren Sand Hills Grenache 2010                        |     534 |   27000 | https://wine.qantas.com/p/darenberg-darenberg-mclaren-sand-hills-grenache-2010/DARMCLGRE10                        |
+|        0.0197778 | d'Arenberg The Swinging Malaysian Shiraz 2012 Back Vintage Release |     534 |   27000 | https://wine.qantas.com/p/darenberg-darenberg-the-swinging-malaysian-shiraz-2012-back-vintage-release/DARSWISHR12 |
+|        0.0197778 | d'Arenberg The Sardanapalian Shiraz 2011 Back Vintage Release      |     534 |   27000 | https://wine.qantas.com/p/darenberg-darenberg-the-sardanapalian-shiraz-2011-back-vintage-release/DARTIGSHR11      |
 |        0.02125   | Rosenthal Collector Chardonnay 2022                                |     510 |   24000 | https://wine.qantas.com/p/rosenthal-rosenthal-collector-chardonnay-2022/ROSTCOCHA22                               |
 |        0.0216667 | Heirloom Anevo Grenache Touriga Tempranillo 2021                   |     390 |   18000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-anevo-grenache-touriga-tempranillo-2021/HEIANEGTT21         |
 |        0.02225   | Penley Estate Eos 2020                                             |     534 |   24000 | https://wine.qantas.com/p/penley-estate-penley-estate-eos-2020/PENEOS20                                           |
