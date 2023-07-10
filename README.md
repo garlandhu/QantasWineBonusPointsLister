@@ -10,13 +10,12 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-07-09
+Run on 2023-07-10
 
 Scanned 3 pages of wine deals.
 Found 99 deals
 |   Point Cost (c) | Name                                                     |   Price |   Bonus | Link                                                                                                       |
 |------------------|----------------------------------------------------------|---------|---------|------------------------------------------------------------------------------------------------------------|
-|        0.0197778 | d'Arenberg The Amaranthine Shiraz 2013                   |  534    |   27000 | https://wine.qantas.com/p/darenberg-darenberg-the-amaranthine-shiraz-2013/DARAMASHZ13                      |
 |        0.0225    | Byron and Harold Protocol Cabernet Sauvignon 2020        |  270    |   12000 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-protocol-cabernet-sauvignon-2020/BYRHPROCAB20  |
 |        0.025     | Allegiance Unity Tumbarumba Chardonnay 2021              |  300    |   12000 | https://wine.qantas.com/p/allegiance-allegiance-unity-tumbarumba-chardonnay-2021/ALLUTUCHA21               |
 |        0.025     | Hewitson Truffle Row Carignan Syrah 2021                 |  300    |   12000 | https://wine.qantas.com/p/hewitson-hewitson-truffle-row-carignan-syrah-2021/HEWTRUCAR21                    |
@@ -25,5 +24,6 @@ Found 99 deals
 |        0.0263333 | Voyager Estate Cabernet + Margaret River Chardonnay Six  |  474    |   18000 | https://wine.qantas.com/p/voyager-estate-voyager-estate-cabernet-margaret-river-chardonnay-six/MIX2303038  |
 |        0.0263333 | Wills Domain Paladin Hill Chardonnay Margaret River 2022 |  474    |   18000 | https://wine.qantas.com/p/wills-domain-wills-domain-paladin-hill-chardonnay-margaret-river-2022/WDPALCHA22 |
 |        0.0263333 | Wills Domain Paladin Hill Shiraz 2020                    |  474    |   18000 | https://wine.qantas.com/p/wills-domain-wills-domain-paladin-hill-shiraz-2020/WDPAHSHZ20                    |
+|        0.0266533 | Voyager Estate Sauvignon + Barossa Shiraz Cabernet Dozen |  239.88 |    9000 | https://wine.qantas.com/p/voyager-estate-voyager-estate-sauvignon-barossa-shiraz-cabernet-dozen/MIX2303037 |
 |        0.0266533 | Voyager Estate Sauvignon Blanc Semillon Dozen            |  239.88 |    9000 | https://wine.qantas.com/p/voyager-estate-voyager-estate-sauvignon-blanc-semillon-dozen/MIX2303032          |
 
