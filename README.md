@@ -10,7 +10,7 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-07-14
+Run on 2023-07-15
 
 Scanned 3 pages of wine deals.
 Found 98 deals
@@ -23,7 +23,7 @@ Found 98 deals
 |        0.0263333 | Voyager Estate Cabernet + Margaret River Chardonnay Six  |  474    |   18000 | https://wine.qantas.com/p/voyager-estate-voyager-estate-cabernet-margaret-river-chardonnay-six/MIX2303038  |
 |        0.0263333 | Wills Domain Paladin Hill Shiraz 2020                    |  474    |   18000 | https://wine.qantas.com/p/wills-domain-wills-domain-paladin-hill-shiraz-2020/WDPAHSHZ20                    |
 |        0.0263333 | Wills Domain Paladin Hill Chardonnay Margaret River 2022 |  474    |   18000 | https://wine.qantas.com/p/wills-domain-wills-domain-paladin-hill-chardonnay-margaret-river-2022/WDPALCHA22 |
-|        0.0266533 | Voyager Estate Sauvignon + Barossa Shiraz Cabernet Dozen |  239.88 |    9000 | https://wine.qantas.com/p/voyager-estate-voyager-estate-sauvignon-barossa-shiraz-cabernet-dozen/MIX2303037 |
 |        0.0266533 | Voyager Estate Sauvignon Blanc Semillon Dozen            |  239.88 |    9000 | https://wine.qantas.com/p/voyager-estate-voyager-estate-sauvignon-blanc-semillon-dozen/MIX2303032          |
+|        0.0266533 | Voyager Estate Sauvignon + Barossa Shiraz Cabernet Dozen |  239.88 |    9000 | https://wine.qantas.com/p/voyager-estate-voyager-estate-sauvignon-barossa-shiraz-cabernet-dozen/MIX2303037 |
 |        0.0266533 | First Creek Botanica Pinot Noir 2021                     |  239.88 |    9000 | https://wine.qantas.com/p/first-creek-first-creek-botanica-pinot-noir-2021/FCBOTPIN21                      |
 
