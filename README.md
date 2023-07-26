@@ -10,10 +10,10 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-07-25
+Run on 2023-07-26
 
 Scanned 2 pages of wine deals.
-Found 69 deals
+Found 65 deals
 |   Point Cost (c) | Name                                                     |   Price |   Bonus | Link                                                                                                               |
 |------------------|----------------------------------------------------------|---------|---------|--------------------------------------------------------------------------------------------------------------------|
 |        0.0236    | The Grand Red Dozen II                                   |  708    |   30000 | https://wine.qantas.com/p/the-grand-red-dozen-ii/MIX2306012                                                        |
@@ -25,5 +25,5 @@ Found 69 deals
 |        0.0266533 | Voyager Estate Sauvignon Blanc Semillon Dozen            |  239.88 |    9000 | https://wine.qantas.com/p/voyager-estate-voyager-estate-sauvignon-blanc-semillon-dozen/MIX2303032                  |
 |        0.0269461 | Heirloom Assens Fortalice Adelaide Hills Chardonnay 2022 |  270    |   10020 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-assens-fortalice-adelaide-hills-chardonnay-2022/HEIASFOCHA22 |
 |        0.027     | Hewitson Whites Dozen                                    |  270    |   10000 | https://wine.qantas.com/p/hewitson-hewitson-whites-dozen/MIX2212051                                                |
-|        0.02799   | Hewitson Ned & Henrys Barossa Shiraz 2021                |  335.88 |   12000 | https://wine.qantas.com/p/hewitson-hewitson-ned-and-henrys-barossa-shiraz-2021/HEWNEDSHZ21                         |
+|        0.0285    | Ulithorne Paternus Shiraz 2018                           |  342    |   12000 | https://wine.qantas.com/p/ulithorne-ulithorne-paternus-shiraz-2018/ULIPATSHZ18                                     |
 
