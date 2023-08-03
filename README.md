@@ -10,20 +10,20 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-07-27
+Run on 2023-08-03
 
-Scanned 2 pages of wine deals.
-Found 64 deals
-|   Point Cost (c) | Name                                                     |   Price |   Bonus | Link                                                                                                               |
-|------------------|----------------------------------------------------------|---------|---------|--------------------------------------------------------------------------------------------------------------------|
-|        0.0225    | Byron and Harold Protocol Cabernet Sauvignon 2020        |     270 |   12000 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-protocol-cabernet-sauvignon-2020/BYRHPROCAB20          |
-|        0.0236    | The Grand Red Dozen II                                   |     708 |   30000 | https://wine.qantas.com/p/the-grand-red-dozen-ii/MIX2306012                                                        |
-|        0.0236    | The Grand Mix Wine Dozen                                 |     708 |   30000 | https://wine.qantas.com/p/the-grand-mix-wine-dozen/MIX2306013                                                      |
-|        0.025     | Byron and Harold Partners Shiraz 2020                    |     300 |   12000 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-partners-shiraz-2020/BYRHPASHZ20                       |
-|        0.0254491 | Moss Brothers Fidium Malbec 2020                         |     255 |   10020 | https://wine.qantas.com/p/moss-brothers-moss-brothers-fidium-malbec-2020/MOSFIDMAL20                               |
-|        0.0263333 | Wills Domain Paladin Hill Shiraz 2020                    |     474 |   18000 | https://wine.qantas.com/p/wills-domain-wills-domain-paladin-hill-shiraz-2020/WDPAHSHZ20                            |
-|        0.0263333 | Wills Domain Paladin Hill Chardonnay Margaret River 2022 |     474 |   18000 | https://wine.qantas.com/p/wills-domain-wills-domain-paladin-hill-chardonnay-margaret-river-2022/WDPALCHA22         |
-|        0.0269461 | Heirloom Assens Fortalice Adelaide Hills Chardonnay 2022 |     270 |   10020 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-assens-fortalice-adelaide-hills-chardonnay-2022/HEIASFOCHA22 |
-|        0.027     | Hewitson Whites Dozen                                    |     270 |   10000 | https://wine.qantas.com/p/hewitson-hewitson-whites-dozen/MIX2212051                                                |
-|        0.028     | Dandelion Treasure Trove Grenache 2019                   |     210 |    7500 | https://wine.qantas.com/p/dandelion-vineyards-dandelion-treasure-trove-grenache-2019/DANTTGRE19                    |
+Scanned 3 pages of wine deals.
+Found 115 deals
+|   Point Cost (c) | Name                                             |   Price |   Bonus | Link                                                                                                      |
+|------------------|--------------------------------------------------|---------|---------|-----------------------------------------------------------------------------------------------------------|
+|          0.02225 | Penley Estate Eos 2020                           |     534 |   24000 | https://wine.qantas.com/p/penley-estate-penley-estate-eos-2020/PENEOS20                                   |
+|          0.0225  | Ulithorne Avitus McLaren Vale Magnum Shiraz 2021 |     810 |   36000 | https://wine.qantas.com/p/ulithorne-ulithorne-avitus-mclaren-vale-magnum-shiraz-2021/ULIAVITSHZMAG21      |
+|          0.023   | Hobbs of Barossa Tango Shiraz Viognier 2019      |     690 |   30000 | https://wine.qantas.com/p/hobb-of-barossa-ranges-hobbs-of-barossa-tango-shiraz-viognier-2019/HOBTANSHZV19 |
+|          0.023   | Warramunda Estate The Compass Cabernets 2019     |     690 |   30000 | https://wine.qantas.com/p/warramunda-estate-warramunda-estate-the-compass-cabernets-2019/WARRTCCAB19      |
+|          0.023   | Reschke Vitulus Cabernet Sauvignon Magnum 2020   |     414 |   18000 | https://wine.qantas.com/p/reschke-reschke-vitulus-cabernet-sauvignon-magnum-2020/FOCVITCABMAG20           |
+|          0.02325 | K1 by Geoff Hardy Tzimmukin Shiraz Cabernet 2017 |     279 |   12000 | https://wine.qantas.com/p/geoff-hardy-k1-by-geoff-hardy-tzimmukin-shiraz-cabernet-2017/K1GHTZSHCAB17      |
+|          0.0236  | Credaro 1000 Crowns Shiraz 2019                  |     354 |   15000 | https://wine.qantas.com/p/credaro-credaro-1000-crowns-shiraz-2019/CREDTCRSHZ19                            |
+|          0.024   | Heirloom Coonawarra Cabernet Sauvignon 2021      |     360 |   15000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-coonawarra-cabernet-sauvignon-2021/HEICOOCAB21      |
+|          0.0245  | Caillard Barossa Valley Mataro 2017              |     294 |   12000 | https://wine.qantas.com/p/caillard-caillard-barossa-valley-mataro-2017/CAILLAMAT17                        |
+|          0.0245  | Caillard Barossa Valley Shiraz 2017              |     294 |   12000 | https://wine.qantas.com/p/caillard-caillard-barossa-valley-shiraz-2017/CAILLASHZ17                        |
 
