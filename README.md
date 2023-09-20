@@ -10,13 +10,12 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-09-19
+Run on 2023-09-20
 
 Scanned 2 pages of wine deals.
-Found 73 deals
+Found 72 deals
 |   Point Cost (c) | Name                                          |   Price |   Bonus | Link                                                                                                   |
 |------------------|-----------------------------------------------|---------|---------|--------------------------------------------------------------------------------------------------------|
-|        0.02      | Yalumba Barossa Valley Cabernet Shiraz 2017.  |  480    |   24000 | https://wine.qantas.com/p/yalumba-yalumba-barossa-valley-cabernet-shiraz-2017/X12YALBARCAS17           |
 |        0.0225    | Travel Boost Red Dozen 1                      |  450    |   20000 | https://wine.qantas.com/p/travel-boost-red-dozen-1/MIX2306018                                          |
 |        0.0228571 | Yalumba Barossa Valley Cabernet Shiraz 2017   |  240    |   10500 | https://wine.qantas.com/p/yalumba-yalumba-barossa-valley-cabernet-shiraz-2017/YALBARCAS17              |
 |        0.0233333 | Heirloom Vineyards Adelaide Hills Syrah 2021  |  420    |   18000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-vineyards-adelaide-hills-syrah-2021/HEIAHSYRAH21 |
@@ -26,4 +25,5 @@ Found 73 deals
 |        0.0263333 | Exceptional Australian Red Wine Dozen         |  474    |   18000 | https://wine.qantas.com/p/exceptional-australian-red-wine-dozen/MIX2307003                             |
 |        0.0266533 | Cabernet + Rose Discount Dozen                |  239.88 |    9000 | https://wine.qantas.com/p/cabernet-rose-discount-dozen/MIX2304018                                      |
 |        0.0266533 | Voyager Estate Sauvignon Blanc Semillon Dozen |  239.88 |    9000 | https://wine.qantas.com/p/voyager-estate-voyager-estate-sauvignon-blanc-semillon-dozen/MIX2303032      |
+|        0.0266667 | Legends of Yalumba Mixed Dozen                |  480    |   18000 | https://wine.qantas.com/p/yalumba-legends-of-yalumba-mixed-dozen/MIX2307002                            |
 
