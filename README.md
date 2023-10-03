@@ -10,20 +10,20 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-10-02
+Run on 2023-10-03
 
-Scanned 2 pages of wine deals.
-Found 45 deals
-|   Point Cost (c) | Name                                               |   Price |   Bonus | Link                                                                                                    |
-|------------------|----------------------------------------------------|---------|---------|---------------------------------------------------------------------------------------------------------|
-|        0.021     | Yalumba Exclusive Shiraz + Cabernet Dozen          |  420    |   20000 | https://wine.qantas.com/p/yalumba-yalumba-exclusive-shiraz-cabernet-dozen/MIX2307001                    |
-|        0.022     | Coonawarra Cabernet Ultra Premium Dozen            |  660    |   30000 | https://wine.qantas.com/p/coonawarra-cabernet-ultra-premium-dozen/MIX2306087                            |
-|        0.0225    | ATR Wines Hard Hill Road Petite Sirah 2021         |  270    |   12000 | https://wine.qantas.com/p/at-richardson-atr-wines-hard-hill-road-petite-sirah-2021/ATRHHRPISI21         |
-|        0.0233267 | Shiraz Barossa Vs McLaren Vale Heirloom Dozen      |  419.88 |   18000 | https://wine.qantas.com/p/heirloom-vineyards-shiraz-barossa-vs-mclaren-vale-heirloom-dozen/MIX2301017   |
-|        0.0233333 | Heirloom Vineyards Adelaide Hills Syrah 2021       |  420    |   18000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-vineyards-adelaide-hills-syrah-2021/HEIAHSYRAH21  |
-|        0.0236    | The Grand Red Dozen IV                             |  708    |   30000 | https://wine.qantas.com/p/the-grand-red-dozen-iv/MIX2306077                                             |
-|        0.024     | Allegiance Unity Margaret River Chardonnay 2022    |   60    |    2500 | https://wine.qantas.com/p/allegiance-allegiance-unity-margaret-river-chardonnay-2022/ALLUNIMRCHAR22     |
-|        0.02532   | Chain of Ponds Black Thursday Sauvignon Blanc 2022 |  227.88 |    9000 | https://wine.qantas.com/p/chain-of-ponds-chain-of-ponds-black-thursday-sauvignon-blanc-2022/COPBLKSAV22 |
-|        0.0254286 | Balnaves The Tally Cabernet Sauvignon 2021         |  534    |   21000 | https://wine.qantas.com/p/balnaves-of-coonawarra-balnaves-the-tally-cabernet-sauvignon-2021/BALTALCAB21 |
-|        0.0257485 | Jericho Rose 2022                                  |  258    |   10020 | https://wine.qantas.com/p/jericho-jericho-rose-2022/JERICROS22                                          |
+Scanned 3 pages of wine deals.
+Found 109 deals
+|   Point Cost (c) | Name                                                             |   Price |   Bonus | Link                                                                                                                     |
+|------------------|------------------------------------------------------------------|---------|---------|--------------------------------------------------------------------------------------------------------------------------|
+|        0.021     | Yalumba Exclusive Shiraz + Cabernet Dozen                        |  420    |   20000 | https://wine.qantas.com/p/yalumba-yalumba-exclusive-shiraz-cabernet-dozen/MIX2307001                                     |
+|        0.022     | Byron and Harold Partners Shiraz 2020                            |   55    |    2500 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-partners-shiraz-2020/BYRHPASHZ20                             |
+|        0.022     | Byron and Harold Partners Shiraz 2019                            |   55    |    2500 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-partners-shiraz-2019/BYRHPASHZ19                             |
+|        0.0225    | ATR Wines Hard Hill Road Petite Sirah 2021                       |   45    |    2000 | https://wine.qantas.com/p/at-richardson-atr-wines-hard-hill-road-petite-sirah-2021/ATRHHRPISI21                          |
+|        0.0225    | Byron and Harold Protocol Margaret River Shiraz 2021             |   45    |    2000 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-protocol-margaret-river-shiraz-2021/BYRHPROSHZ21             |
+|        0.0225    | Byron and Harold Protocol Margaret River Cabernet Sauvignon 2021 |   45    |    2000 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-protocol-margaret-river-cabernet-sauvignon-2021/BYRHPROCAB21 |
+|        0.0225    | Byron and Harold Protocol Margaret River Chardonnay 2022         |   45    |    2000 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-protocol-margaret-river-chardonnay-2022/BYRHPROCHA22         |
+|        0.023     | Premium Shiraz + Cabernet 96 Point Six                           |  414    |   18000 | https://wine.qantas.com/p/premium-shiraz-cabernet-96-point-six/MIX2304046                                                |
+|        0.0233267 | Shiraz Barossa Vs McLaren Vale Heirloom Dozen                    |  419.88 |   18000 | https://wine.qantas.com/p/heirloom-vineyards-shiraz-barossa-vs-mclaren-vale-heirloom-dozen/MIX2301017                    |
+|        0.0233333 | Tarrawarra J Block Shiraz 2019                                   |  210    |    9000 | https://wine.qantas.com/p/tarra-warra-estate-tarrawarra-j-block-shiraz-2019/TARJBLKSHZ19                                 |
 
