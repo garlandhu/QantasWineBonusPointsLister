@@ -10,10 +10,10 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-10-10
+Run on 2023-10-11
 
 Scanned 4 pages of wine deals.
-Found 134 deals
+Found 132 deals
 |   Point Cost (c) | Name                                                             |   Price |   Bonus | Link                                                                                                                     |
 |------------------|------------------------------------------------------------------|---------|---------|--------------------------------------------------------------------------------------------------------------------------|
 |        0.021     | Yalumba Exclusive Shiraz + Cabernet Dozen                        |  420    |   20000 | https://wine.qantas.com/p/yalumba-yalumba-exclusive-shiraz-cabernet-dozen/MIX2307001                                     |
@@ -23,7 +23,7 @@ Found 134 deals
 |        0.0225    | Byron and Harold Protocol Margaret River Shiraz 2021             |  270    |   12000 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-protocol-margaret-river-shiraz-2021/BYRHPROSHZ21             |
 |        0.0233267 | Shiraz Barossa Vs McLaren Vale Heirloom Dozen                    |  419.88 |   18000 | https://wine.qantas.com/p/heirloom-vineyards-shiraz-barossa-vs-mclaren-vale-heirloom-dozen/MIX2301017                    |
 |        0.0233267 | Heirloom McLaren Vale Shiraz 2020                                |  419.88 |   18000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-mclaren-vale-shiraz-2020/HEIMVSHI20                                |
-|        0.0233267 | Heirloom Barossa Shiraz 2019                                     |  419.88 |   18000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-barossa-shiraz-2019/HEIBARSHI19                                    |
-|        0.0233333 | Tarrawarra J Block Shiraz 2019                                   |   35    |    1500 | https://wine.qantas.com/p/tarra-warra-estate-tarrawarra-j-block-shiraz-2019/TARJBLKSHZ19                                 |
-|        0.0236    | The Grand Red Dozen IV                                           |  708    |   30000 | https://wine.qantas.com/p/the-grand-red-dozen-iv/MIX2306077                                                              |
+|        0.0233333 | Tarrawarra J Block Shiraz 2019                                   |  210    |    9000 | https://wine.qantas.com/p/tarra-warra-estate-tarrawarra-j-block-shiraz-2019/TARJBLKSHZ19                                 |
+|        0.02532   | Chain of Ponds Black Thursday Sauvignon Blanc 2022               |  227.88 |    9000 | https://wine.qantas.com/p/chain-of-ponds-chain-of-ponds-black-thursday-sauvignon-blanc-2022/COPBLKSAV22                  |
+|        0.0257485 | Jericho Rose 2022                                                |  258    |   10020 | https://wine.qantas.com/p/jericho-jericho-rose-2022/JERICROS22                                                           |
 
