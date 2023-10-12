@@ -10,10 +10,10 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-10-11
+Run on 2023-10-12
 
 Scanned 4 pages of wine deals.
-Found 132 deals
+Found 138 deals
 |   Point Cost (c) | Name                                                             |   Price |   Bonus | Link                                                                                                                     |
 |------------------|------------------------------------------------------------------|---------|---------|--------------------------------------------------------------------------------------------------------------------------|
 |        0.021     | Yalumba Exclusive Shiraz + Cabernet Dozen                        |  420    |   20000 | https://wine.qantas.com/p/yalumba-yalumba-exclusive-shiraz-cabernet-dozen/MIX2307001                                     |
@@ -24,6 +24,6 @@ Found 132 deals
 |        0.0233267 | Shiraz Barossa Vs McLaren Vale Heirloom Dozen                    |  419.88 |   18000 | https://wine.qantas.com/p/heirloom-vineyards-shiraz-barossa-vs-mclaren-vale-heirloom-dozen/MIX2301017                    |
 |        0.0233267 | Heirloom McLaren Vale Shiraz 2020                                |  419.88 |   18000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-mclaren-vale-shiraz-2020/HEIMVSHI20                                |
 |        0.0233333 | Tarrawarra J Block Shiraz 2019                                   |  210    |    9000 | https://wine.qantas.com/p/tarra-warra-estate-tarrawarra-j-block-shiraz-2019/TARJBLKSHZ19                                 |
+|        0.025     | Yalumba Barossa Valley Cabernet Shiraz 2017.                     |  600    |   24000 | https://wine.qantas.com/p/yalumba-yalumba-barossa-valley-cabernet-shiraz-2017/X12YALBARCAS17                             |
 |        0.02532   | Chain of Ponds Black Thursday Sauvignon Blanc 2022               |  227.88 |    9000 | https://wine.qantas.com/p/chain-of-ponds-chain-of-ponds-black-thursday-sauvignon-blanc-2022/COPBLKSAV22                  |
-|        0.0257485 | Jericho Rose 2022                                                |  258    |   10020 | https://wine.qantas.com/p/jericho-jericho-rose-2022/JERICROS22                                                           |
 
