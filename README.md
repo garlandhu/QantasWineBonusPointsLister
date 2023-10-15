@@ -10,10 +10,10 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-10-14
+Run on 2023-10-15
 
 Scanned 4 pages of wine deals.
-Found 132 deals
+Found 130 deals
 |   Point Cost (c) | Name                                                             |   Price |   Bonus | Link                                                                                                                     |
 |------------------|------------------------------------------------------------------|---------|---------|--------------------------------------------------------------------------------------------------------------------------|
 |        0.021     | Yalumba Exclusive Shiraz + Cabernet Dozen                        |  420    |   20000 | https://wine.qantas.com/p/yalumba-yalumba-exclusive-shiraz-cabernet-dozen/MIX2307001                                     |
