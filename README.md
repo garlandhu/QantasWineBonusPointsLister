@@ -10,10 +10,10 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-10-19
+Run on 2023-10-20
 
 Scanned 4 pages of wine deals.
-Found 135 deals
+Found 136 deals
 |   Point Cost (c) | Name                                                             |   Price |   Bonus | Link                                                                                                                     |
 |------------------|------------------------------------------------------------------|---------|---------|--------------------------------------------------------------------------------------------------------------------------|
 |        0.022495  | Thompson Estate Cabernet Sauvignon 2020                          |  539.88 |   24000 | https://wine.qantas.com/p/thompson-estate-thompson-estate-cabernet-sauvignon-2020/THOESTCAB20                            |
