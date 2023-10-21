@@ -10,13 +10,12 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-10-20
+Run on 2023-10-21
 
-Scanned 4 pages of wine deals.
-Found 136 deals
+Scanned 3 pages of wine deals.
+Found 126 deals
 |   Point Cost (c) | Name                                                             |   Price |   Bonus | Link                                                                                                                     |
 |------------------|------------------------------------------------------------------|---------|---------|--------------------------------------------------------------------------------------------------------------------------|
-|        0.022495  | Thompson Estate Cabernet Sauvignon 2020                          |  539.88 |   24000 | https://wine.qantas.com/p/thompson-estate-thompson-estate-cabernet-sauvignon-2020/THOESTCAB20                            |
 |        0.0225    | ATR Wines Hard Hill Road Petite Sirah 2021                       |  270    |   12000 | https://wine.qantas.com/p/at-richardson-atr-wines-hard-hill-road-petite-sirah-2021/ATRHHRPISI21                          |
 |        0.0225    | Byron and Harold Protocol Margaret River Shiraz 2021             |  270    |   12000 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-protocol-margaret-river-shiraz-2021/BYRHPROSHZ21             |
 |        0.0225    | Byron and Harold Protocol Margaret River Cabernet Sauvignon 2021 |  270    |   12000 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-protocol-margaret-river-cabernet-sauvignon-2021/BYRHPROCAB21 |
@@ -24,6 +23,7 @@ Found 136 deals
 |        0.0233267 | Heirloom McLaren Vale Shiraz 2020                                |  419.88 |   18000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-mclaren-vale-shiraz-2020/HEIMVSHI20                                |
 |        0.0233333 | Tarrawarra J Block Shiraz 2019                                   |  210    |    9000 | https://wine.qantas.com/p/tarra-warra-estate-tarrawarra-j-block-shiraz-2019/TARJBLKSHZ19                                 |
 |        0.025     | Wishlist Reds                                                    |  750    |   30000 | https://wine.qantas.com/p/wine-subscriptions-wishlist-reds/WP30KRED12PK                                                  |
-|        0.025     | Yalumba Barossa Valley Cabernet Shiraz 2017.                     |  600    |   24000 | https://wine.qantas.com/p/yalumba-yalumba-barossa-valley-cabernet-shiraz-2017/X12YALBARCAS17                             |
 |        0.0254286 | Balnaves The Tally Cabernet Sauvignon 2021                       |  534    |   21000 | https://wine.qantas.com/p/balnaves-of-coonawarra-balnaves-the-tally-cabernet-sauvignon-2021/BALTALCAB21                  |
+|        0.0257485 | Jericho Rose 2022                                                |  258    |   10020 | https://wine.qantas.com/p/jericho-jericho-rose-2022/JERICROS22                                                           |
+|        0.026     | Coppabella Procella Chardonnay 2021                              |  468    |   18000 | https://wine.qantas.com/p/coppabella-coppabella-procella-chardonnay-2021/COPPROCHA21                                     |
 
