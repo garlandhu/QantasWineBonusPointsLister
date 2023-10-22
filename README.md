@@ -10,10 +10,10 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-10-21
+Run on 2023-10-22
 
 Scanned 3 pages of wine deals.
-Found 126 deals
+Found 125 deals
 |   Point Cost (c) | Name                                                             |   Price |   Bonus | Link                                                                                                                     |
 |------------------|------------------------------------------------------------------|---------|---------|--------------------------------------------------------------------------------------------------------------------------|
 |        0.0225    | ATR Wines Hard Hill Road Petite Sirah 2021                       |  270    |   12000 | https://wine.qantas.com/p/at-richardson-atr-wines-hard-hill-road-petite-sirah-2021/ATRHHRPISI21                          |
@@ -21,9 +21,9 @@ Found 126 deals
 |        0.0225    | Byron and Harold Protocol Margaret River Cabernet Sauvignon 2021 |  270    |   12000 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-protocol-margaret-river-cabernet-sauvignon-2021/BYRHPROCAB21 |
 |        0.0233267 | Shiraz Barossa Vs McLaren Vale Heirloom Dozen                    |  419.88 |   18000 | https://wine.qantas.com/p/heirloom-vineyards-shiraz-barossa-vs-mclaren-vale-heirloom-dozen/MIX2301017                    |
 |        0.0233267 | Heirloom McLaren Vale Shiraz 2020                                |  419.88 |   18000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-mclaren-vale-shiraz-2020/HEIMVSHI20                                |
-|        0.0233333 | Tarrawarra J Block Shiraz 2019                                   |  210    |    9000 | https://wine.qantas.com/p/tarra-warra-estate-tarrawarra-j-block-shiraz-2019/TARJBLKSHZ19                                 |
 |        0.025     | Wishlist Reds                                                    |  750    |   30000 | https://wine.qantas.com/p/wine-subscriptions-wishlist-reds/WP30KRED12PK                                                  |
 |        0.0254286 | Balnaves The Tally Cabernet Sauvignon 2021                       |  534    |   21000 | https://wine.qantas.com/p/balnaves-of-coonawarra-balnaves-the-tally-cabernet-sauvignon-2021/BALTALCAB21                  |
 |        0.0257485 | Jericho Rose 2022                                                |  258    |   10020 | https://wine.qantas.com/p/jericho-jericho-rose-2022/JERICROS22                                                           |
 |        0.026     | Coppabella Procella Chardonnay 2021                              |  468    |   18000 | https://wine.qantas.com/p/coppabella-coppabella-procella-chardonnay-2021/COPPROCHA21                                     |
+|        0.026     | Big and Bold Reds                                                |  390    |   15000 | https://wine.qantas.com/p/wine-subscriptions-big-and-bold-reds/WP15KRED12PK                                              |
 
