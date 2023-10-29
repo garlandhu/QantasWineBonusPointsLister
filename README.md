@@ -10,7 +10,7 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-10-28
+Run on 2023-10-29
 
 Scanned 3 pages of wine deals.
 Found 111 deals
@@ -24,6 +24,6 @@ Found 111 deals
 |        0.0265    | Hewitson Ned & Henrys Barossa Shiraz 2021    |  318    |   12000 | https://wine.qantas.com/p/hewitson-hewitson-ned-and-henrys-barossa-shiraz-2021/HEWNEDSHZ21              |
 |        0.0266667 | Heirloom Barossa Shiraz 2020                 |  480    |   18000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-barossa-shiraz-2020/HEIBARSHI20                   |
 |        0.0266667 | Heirloom Vineyards Adelaide Hills Syrah 2021 |  480    |   18000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-vineyards-adelaide-hills-syrah-2021/HEIAHSYRAH21  |
-|        0.0266667 | Dandelion Treasure Trove Grenache 2019       |  240    |    9000 | https://wine.qantas.com/p/dandelion-vineyards-dandelion-treasure-trove-grenache-2019/DANTTGRE19         |
 |        0.0266667 | Haselgrove Catkin Shiraz 2020                |  240    |    9000 | https://wine.qantas.com/p/haselgrove-haselgrove-catkin-shiraz-2020/HASCATSHZ20                          |
+|        0.0266667 | Dandelion Treasure Trove Grenache 2019       |  240    |    9000 | https://wine.qantas.com/p/dandelion-vineyards-dandelion-treasure-trove-grenache-2019/DANTTGRE19         |
 
