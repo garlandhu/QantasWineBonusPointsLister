@@ -10,10 +10,10 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-11-10
+Run on 2023-11-11
 
 Scanned 4 pages of wine deals.
-Found 136 deals
+Found 128 deals
 |   Point Cost (c) | Name                                                |   Price |   Bonus | Link                                                                                                    |
 |------------------|-----------------------------------------------------|---------|---------|---------------------------------------------------------------------------------------------------------|
 |        0.0228571 | Yalumba Barossa Valley Cabernet Shiraz 2017         |     240 |   10500 | https://wine.qantas.com/p/yalumba-yalumba-barossa-valley-cabernet-shiraz-2017/YALBARCAS17               |
@@ -24,6 +24,6 @@ Found 136 deals
 |        0.025     | Thompson Estate Cabernet Sauvignon 2020             |     600 |   24000 | https://wine.qantas.com/p/thompson-estate-thompson-estate-cabernet-sauvignon-2020/THOESTCAB20           |
 |        0.026     | Sensi Mantello Sangiovese Shiraz Toscana Rosso 2019 |     234 |    9000 | https://wine.qantas.com/p/sensi-sensi-mantello-sangiovese-shiraz-toscana-rosso-2019/SEMASASHZ19         |
 |        0.026     | Big and Bold Reds                                   |     390 |   15000 | https://wine.qantas.com/p/wine-subscriptions-big-and-bold-reds/WP15KRED12PK                             |
-|        0.026     | Big and Bold Reds                                   |     390 |   15000 | https://wine.qantas.com/p/wine-subscriptions-big-and-bold-reds/WP15KRED12PK                             |
 |        0.0263333 | Balnaves The Tally Cabernet Sauvignon 2021          |     474 |   18000 | https://wine.qantas.com/p/balnaves-of-coonawarra-balnaves-the-tally-cabernet-sauvignon-2021/BALTALCAB21 |
+|        0.0275    | Fly Away Premium Red Dozen                          |     660 |   24000 | https://wine.qantas.com/p/fly-away-premium-red-dozen/MIX2211025                                         |
 
