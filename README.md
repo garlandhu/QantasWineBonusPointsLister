@@ -10,10 +10,10 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-11-20
+Run on 2023-11-21
 
-Scanned 4 pages of wine deals.
-Found 123 deals
+Scanned 3 pages of wine deals.
+Found 120 deals
 |   Point Cost (c) | Name                                                |   Price |   Bonus | Link                                                                                                    |
 |------------------|-----------------------------------------------------|---------|---------|---------------------------------------------------------------------------------------------------------|
 |        0.02      | Yalumba Barossa Valley Cabernet Shiraz 2017.        |  480    |   24000 | https://wine.qantas.com/p/yalumba-yalumba-barossa-valley-cabernet-shiraz-2017/X12YALBARCAS17            |
