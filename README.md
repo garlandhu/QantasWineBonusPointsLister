@@ -10,10 +10,10 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-11-23
+Run on 2023-11-24
 
 Scanned 3 pages of wine deals.
-Found 114 deals
+Found 111 deals
 |   Point Cost (c) | Name                                                |   Price |   Bonus | Link                                                                                                    |
 |------------------|-----------------------------------------------------|---------|---------|---------------------------------------------------------------------------------------------------------|
 |        0.02      | Yalumba Barossa Valley Cabernet Shiraz 2017.        |     480 |   24000 | https://wine.qantas.com/p/yalumba-yalumba-barossa-valley-cabernet-shiraz-2017/X12YALBARCAS17            |
@@ -24,6 +24,6 @@ Found 114 deals
 |        0.026     | Sensi Mantello Sangiovese Shiraz Toscana Rosso 2019 |     234 |    9000 | https://wine.qantas.com/p/sensi-sensi-mantello-sangiovese-shiraz-toscana-rosso-2019/SEMASASHZ19         |
 |        0.026     | Big and Bold Reds                                   |     390 |   15000 | https://wine.qantas.com/p/wine-subscriptions-big-and-bold-reds/WP15KRED12PK                             |
 |        0.0263333 | Balnaves The Tally Cabernet Sauvignon 2021          |     474 |   18000 | https://wine.qantas.com/p/balnaves-of-coonawarra-balnaves-the-tally-cabernet-sauvignon-2021/BALTALCAB21 |
+|        0.0266667 | Heirloom McLaren Vale Shiraz 2020                   |     480 |   18000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-mclaren-vale-shiraz-2020/HEIMVSHI20               |
 |        0.0275    | All Reds Wine Dozen with a $90 Luxury Red Wine      |     330 |   12000 | https://wine.qantas.com/p/all-reds-wine-dozen-with-a-dollar90-luxury-red-wine/MIX2309050                |
-|        0.0275    | Heirloom Alcazar Castle Pinot Noir 2022             |     330 |   12000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-alcazar-castle-pinot-noir-2022/HEIALCPIN22        |
 
