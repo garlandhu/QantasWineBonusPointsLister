@@ -10,20 +10,20 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-11-29
+Run on 2023-12-01
 
-Scanned 3 pages of wine deals.
-Found 101 deals
-|   Point Cost (c) | Name                                                |   Price |   Bonus | Link                                                                                                    |
-|------------------|-----------------------------------------------------|---------|---------|---------------------------------------------------------------------------------------------------------|
-|        0.0228571 | Yalumba Barossa Valley Cabernet Shiraz 2017         |     240 |   10500 | https://wine.qantas.com/p/yalumba-yalumba-barossa-valley-cabernet-shiraz-2017/YALBARCAS17               |
-|        0.0233333 | Heirloom Alcala McLaren Vale Grenache 2021          |     420 |   18000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-alcala-mclaren-vale-grenache-2021/HEIALCGRE21     |
-|        0.0233333 | Haselgrove Catkin Shiraz 2020                       |     210 |    9000 | https://wine.qantas.com/p/haselgrove-haselgrove-catkin-shiraz-2020/HASCATSHZ20                          |
-|        0.02475   | Haselgrove Cruth Shiraz 2020                        |     594 |   24000 | https://wine.qantas.com/p/haselgrove-haselgrove-cruth-shiraz-2020/HASCRUSHZ20                           |
-|        0.025     | Thompson Estate Cabernet Sauvignon 2020             |     600 |   24000 | https://wine.qantas.com/p/thompson-estate-thompson-estate-cabernet-sauvignon-2020/THOESTCAB20           |
-|        0.026     | Sensi Mantello Sangiovese Shiraz Toscana Rosso 2019 |     234 |    9000 | https://wine.qantas.com/p/sensi-sensi-mantello-sangiovese-shiraz-toscana-rosso-2019/SEMASASHZ19         |
-|        0.0263333 | Balnaves The Tally Cabernet Sauvignon 2021          |     474 |   18000 | https://wine.qantas.com/p/balnaves-of-coonawarra-balnaves-the-tally-cabernet-sauvignon-2021/BALTALCAB21 |
-|        0.0266667 | Heirloom McLaren Vale Shiraz 2020                   |     480 |   18000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-mclaren-vale-shiraz-2020/HEIMVSHI20               |
-|        0.0275    | All Reds Wine Dozen with a $90 Luxury Red Wine      |     330 |   12000 | https://wine.qantas.com/p/all-reds-wine-dozen-with-a-dollar90-luxury-red-wine/MIX2309050                |
-|        0.0275    | Heirloom Alcazar Castle Pinot Noir 2022             |     330 |   12000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-alcazar-castle-pinot-noir-2022/HEIALCPIN22        |
+Scanned 4 pages of wine deals.
+Found 158 deals
+|   Point Cost (c) | Name                                                      |   Price |   Bonus | Link                                                                                               |
+|------------------|-----------------------------------------------------------|---------|---------|----------------------------------------------------------------------------------------------------|
+|        0.019     | Blue Pyrenees Richardson Reserve Shiraz 2018              |  570    |   30000 | https://wine.qantas.com/p/blue-pyrenees-blue-pyrenees-richardson-reserve-shiraz-2018/BLPRERICSHZ18 |
+|        0.0225    | Moss Brothers Fidium Shiraz 2020                          |  270    |   12000 | https://wine.qantas.com/p/moss-brothers-moss-brothers-fidium-shiraz-2020/MOSBFISHZ20               |
+|        0.0228571 | Yalumba Barossa Valley Cabernet Shiraz 2017               |  240    |   10500 | https://wine.qantas.com/p/yalumba-yalumba-barossa-valley-cabernet-shiraz-2017/YALBARCAS17          |
+|        0.023     | Schild Estate Ben Schild Shiraz 2020                      |  207    |    9000 | https://wine.qantas.com/p/schild-estate-schild-estate-ben-schild-shiraz-2020/SCHBENSHZ20           |
+|        0.0233267 | Heirloom Barossa Shiraz 2020                              |  419.88 |   18000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-barossa-shiraz-2020/HEIBARSHI20              |
+|        0.0233267 | Heirloom McLaren Vale Shiraz 2020                         |  419.88 |   18000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-mclaren-vale-shiraz-2020/HEIMVSHI20          |
+|        0.0233333 | Heirloom Barossa Shiraz + Adelaide Hills Chardonnay Dozen |  420    |   18000 | https://wine.qantas.com/p/heirloom-barossa-shiraz-adelaide-hills-chardonnay-dozen/MIX2303061       |
+|        0.0236    | The Grand Mix Wine Dozen II                               |  708    |   30000 | https://wine.qantas.com/p/the-grand-mix-wine-dozen-ii/MIX2311008                                   |
+|        0.02499   | ATR Wines Chockstone Shiraz 2021                          |  299.88 |   12000 | https://wine.qantas.com/p/at-richardson-atr-wines-chockstone-shiraz-2021/ATRCHOSHZ21               |
+|        0.025     | Wishlist Reds                                             |  750    |   30000 | https://wine.qantas.com/p/wine-subscriptions-wishlist-reds/WP30KRED12PK                            |
 
