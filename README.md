@@ -10,10 +10,10 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-12-03
+Run on 2023-12-04
 
 Scanned 4 pages of wine deals.
-Found 151 deals
+Found 150 deals
 |   Point Cost (c) | Name                                                         |   Price |   Bonus | Link                                                                                                          |
 |------------------|--------------------------------------------------------------|---------|---------|---------------------------------------------------------------------------------------------------------------|
 |        0.0225    | Moss Brothers Fidium Shiraz 2020                             |  270    |   12000 | https://wine.qantas.com/p/moss-brothers-moss-brothers-fidium-shiraz-2020/MOSBFISHZ20                          |
