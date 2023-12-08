@@ -10,7 +10,7 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2023-12-07
+Run on 2023-12-08
 
 Scanned 4 pages of wine deals.
 Found 147 deals
@@ -19,11 +19,11 @@ Found 147 deals
 |        0.0228571 | Yalumba Barossa Valley Cabernet Shiraz 2017               |  240    |   10500 | https://wine.qantas.com/p/yalumba-yalumba-barossa-valley-cabernet-shiraz-2017/YALBARCAS17    |
 |        0.023     | Schild Estate Ben Schild Shiraz 2020                      |  207    |    9000 | https://wine.qantas.com/p/schild-estate-schild-estate-ben-schild-shiraz-2020/SCHBENSHZ20     |
 |        0.0231    | Travel Boost Red Dozen III                                |  462    |   20000 | https://wine.qantas.com/p/travel-boost-red-dozen-iii/MIX2311007                              |
-|        0.0233267 | Heirloom Barossa Shiraz 2020                              |  419.88 |   18000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-barossa-shiraz-2020/HEIBARSHI20        |
-|        0.0233267 | Heirloom Barossa Shiraz 2020                              |  419.88 |   18000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-barossa-shiraz-2020/HEIBARSHI20        |
 |        0.0233267 | Heirloom McLaren Vale Shiraz 2020                         |  419.88 |   18000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-mclaren-vale-shiraz-2020/HEIMVSHI20    |
+|        0.0233267 | Heirloom Barossa Shiraz 2020                              |  419.88 |   18000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-barossa-shiraz-2020/HEIBARSHI20        |
 |        0.0233333 | Heirloom Barossa Shiraz + Adelaide Hills Chardonnay Dozen |  420    |   18000 | https://wine.qantas.com/p/heirloom-barossa-shiraz-adelaide-hills-chardonnay-dozen/MIX2303061 |
 |        0.0236    | The Grand Mix Wine Dozen II                               |  708    |   30000 | https://wine.qantas.com/p/the-grand-mix-wine-dozen-ii/MIX2311008                             |
 |        0.02499   | ATR Wines Chockstone Shiraz 2021                          |  299.88 |   12000 | https://wine.qantas.com/p/at-richardson-atr-wines-chockstone-shiraz-2021/ATRCHOSHZ21         |
 |        0.025     | Wishlist Reds                                             |  750    |   30000 | https://wine.qantas.com/p/wine-subscriptions-wishlist-reds/WP30KRED12PK                      |
+|        0.025     | Yalumba Barossa Valley Cabernet Shiraz 2017.              |  600    |   24000 | https://wine.qantas.com/p/yalumba-yalumba-barossa-valley-cabernet-shiraz-2017/X12YALBARCAS17 |
 
