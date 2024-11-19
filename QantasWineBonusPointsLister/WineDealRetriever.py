@@ -18,7 +18,7 @@ class WineDealRetriever:
 	
 	def _get_wine_list(self):
 		for counter in range(1, self._number_of_pages_to_scan):
-			page = requests.get(self._wine_deal_url.format(counter))
+			page = requests.get(self._wine_deal_url.format(counter), timeout=10)
 			new_deals = self._parser.feed(page.text)
 			if new_deals:
 				self._wine_deal_list += new_deals
