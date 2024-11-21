@@ -10,7 +10,7 @@ class WebpageParser:
 			return None
 
 		wine_deal_list = []
-		print('hello')
+
 		wine_listings_elements = soup.find_all("a", href=lambda value: value and value.startswith("/p/"))
 		for wine_listing_element in wine_listings_elements:
 			name_element = wine_listing_element.find("span", lambda value: value)
@@ -25,5 +25,5 @@ class WebpageParser:
 				price=float(price_element.string.strip("$")),
 				link="https://wine.qantas.com" + wine_listing_element.get("href"),
 			))
-		print(f'Found {len(wine_deal_list)} deals on this page')
+
 		return wine_deal_list
