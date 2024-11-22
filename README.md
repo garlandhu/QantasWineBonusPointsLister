@@ -10,20 +10,10 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2024-11-21
+Run on 2024-11-22
 
-hello
-Found 33 deals on this page
-hello
-Found 38 deals on this page
-hello
-Found 42 deals on this page
-hello
-Found 22 deals on this page
-hello
-Found 0 deals on this page
 Scanned 4 pages of wine deals.
-Found 135 deals
+Found 136 deals
 |   Point Cost (c) | Name   |   Price |   Bonus | Link                                                                                                |
 |------------------|--------|---------|---------|-----------------------------------------------------------------------------------------------------|
 |        0.018     |        |  450    |   25000 | https://wine.qantas.com/p/blue-pyrenees-blue-pyrenees-premium-red-six/MIX2410022                    |
