@@ -10,20 +10,20 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2024-12-03
+Run on 2024-12-05
 
 Scanned 4 pages of wine deals.
-Found 140 deals
-|   Point Cost (c) | Name   |   Price |   Bonus | Link                                                                                                     |
-|------------------|--------|---------|---------|----------------------------------------------------------------------------------------------------------|
-|        0.02075   |        |  498    |   24000 | https://wine.qantas.com/p/mixed-brands-christmas-collection-travel-bonus-dozen/MIX2409001                |
-|        0.0215    |        |  516    |   24000 | https://wine.qantas.com/p/mount-eyre-mount-eyre-honeytree-shiraz-2021/MTEHONSHZ21                        |
-|        0.0216667 |        |  390    |   18000 | https://wine.qantas.com/p/golden-amrita-golden-amrita-barossa-single-estate-shiraz-2019/GOAMSESHZ19      |
-|        0.0225714 |        |  948    |   42000 | https://wine.qantas.com/p/miles-from-nowhere-miles-from-nowhere-origin-of-now-chardonnay-2022/MFNORCHA22 |
-|        0.023996  |        |  719.88 |   30000 | https://wine.qantas.com/p/mixed-brands-outstanding-quality-red-dozen/MIX2405008                          |
-|        0.0243    |        |  583.2  |   24000 | https://wine.qantas.com/p/mixed-brands-get-ready-to-travel-red-dozen/MIX2409010                          |
-|        0.0243    |        |  583.2  |   24000 | https://wine.qantas.com/p/mixed-brands-get-ready-to-travel-red-dozen/MIX2409010                          |
-|        0.025     |        |  750    |   30000 | https://wine.qantas.com/p/wine-subscriptions-wishlist-reds/WP30KRED12PK                                  |
-|        0.026     |        |  780    |   30000 | https://wine.qantas.com/p/mixed-brands-top-shelf-red-wine-dozen-ii/MIX2310030                            |
-|        0.026     |        |  390    |   15000 | https://wine.qantas.com/p/wine-subscriptions-big-and-bold-reds/WP15KRED12PK                              |
+Found 136 deals
+|   Point Cost (c) | Name   |   Price |   Bonus | Link                                                                                         |
+|------------------|--------|---------|---------|----------------------------------------------------------------------------------------------|
+|        0.0215    |        |  516    |   24000 | https://wine.qantas.com/p/mount-eyre-mount-eyre-honeytree-shiraz-2021/MTEHONSHZ21            |
+|        0.023996  |        |  719.88 |   30000 | https://wine.qantas.com/p/mixed-brands-outstanding-quality-red-dozen/MIX2405008              |
+|        0.0243    |        |  583.2  |   24000 | https://wine.qantas.com/p/mixed-brands-get-ready-to-travel-red-dozen/MIX2409010              |
+|        0.025     |        |  750    |   30000 | https://wine.qantas.com/p/wine-subscriptions-wishlist-reds/WP30KRED12PK                      |
+|        0.0254286 |        |  534    |   21000 | https://wine.qantas.com/p/mitolo-mitolo-savitar-shiraz-2020/MITSAVSHZ20                      |
+|        0.026     |        |  780    |   30000 | https://wine.qantas.com/p/mixed-brands-top-shelf-red-wine-dozen-ii/MIX2310030                |
+|        0.026     |        |  390    |   15000 | https://wine.qantas.com/p/wine-subscriptions-big-and-bold-reds/WP15KRED12PK                  |
+|        0.02666   |        |  239.94 |    9000 | https://wine.qantas.com/p/reschke-reschke-bos-coonawarra-cabernet-sauvignon-2016/RESBOSCAB16 |
+|        0.027     |        |  486    |   18000 | https://wine.qantas.com/p/wills-domain-wills-domain-paladin-hill-shiraz-2020/WDPAHSHZ20      |
+|        0.0294    |        |  294    |   10000 | https://wine.qantas.com/p/hewitson-hewitson-red-barossa-dozen/MIX2307026                     |
 
