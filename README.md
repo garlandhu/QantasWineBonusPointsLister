@@ -10,10 +10,10 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2024-12-10
+Run on 2024-12-11
 
 Scanned 4 pages of wine deals.
-Found 117 deals
+Found 121 deals
 |   Point Cost (c) | Name   |   Price |   Bonus | Link                                                                                                      |
 |------------------|--------|---------|---------|-----------------------------------------------------------------------------------------------------------|
 |        0.0243    |        |  583.2  |   24000 | https://wine.qantas.com/p/mixed-brands-get-ready-to-travel-red-dozen/MIX2409010                           |
@@ -24,6 +24,6 @@ Found 117 deals
 |        0.027     |        |  486    |   18000 | https://wine.qantas.com/p/wills-domain-wills-domain-paladin-hill-shiraz-2020/WDPAHSHZ20                   |
 |        0.029     |        |  145    |    5000 | https://wine.qantas.com/p/mount-pleasant-mount-pleasant-old-paddock-1921-vines-shiraz-2022/MTPOP1921SHZ22 |
 |        0.03      |        |  450    |   15000 | https://wine.qantas.com/p/mixed-brands-halliday-five-star-shiraz-cabernet-dozen/MIX2406019                |
-|        0.0318    |        |  318    |   10000 | https://wine.qantas.com/p/wine-subscriptions-best-in-season/WP10KMIX12PK                                  |
+|        0.03      |        |  360    |   12000 | https://wine.qantas.com/p/mount-eyre-mount-eyre-three-ponds-grosser-semillon-2022/MTEGRODEM22             |
 |        0.0318    |        |  318    |   10000 | https://wine.qantas.com/p/wine-subscriptions-best-in-white/WP10KWHI12PK                                   |
 
