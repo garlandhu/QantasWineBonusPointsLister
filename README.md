@@ -10,10 +10,10 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2024-12-21
+Run on 2024-12-22
 
 Scanned 3 pages of wine deals.
-Found 78 deals
+Found 77 deals
 |   Point Cost (c) | Name   |   Price |   Bonus | Link                                                                                                         |
 |------------------|--------|---------|---------|--------------------------------------------------------------------------------------------------------------|
 |        0.0254286 |        |  534    |   21000 | https://wine.qantas.com/p/mitolo-mitolo-savitar-shiraz-2020/MITSAVSHZ20                                      |
