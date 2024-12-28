@@ -10,10 +10,10 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2024-12-27
+Run on 2024-12-28
 
 Scanned 3 pages of wine deals.
-Found 73 deals
+Found 68 deals
 |   Point Cost (c) | Name   |   Price |   Bonus | Link                                                                                                         |
 |------------------|--------|---------|---------|--------------------------------------------------------------------------------------------------------------|
 |        0.029592  |        |  443.88 |   15000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-barossa-shiraz-2021/HEIBARSHI21                        |
@@ -22,8 +22,8 @@ Found 73 deals
 |        0.033     |        |  396    |   12000 | https://wine.qantas.com/p/mixed-brands-gold-and-trophy-red-dozen/MIX2405007                                  |
 |        0.0333333 |        |  300    |    9000 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-protocol-cabernet-sauvignon-2022/BYRHPROCAB22    |
 |        0.0333333 |        |  300    |    9000 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-protocol-margaret-river-shiraz-2020/BYRHPROSHZ20 |
-|        0.0345    |        |  414    |   12000 | https://wine.qantas.com/p/allegiance-allegiance-unity-coonawarra-cabernet-sauvignon-2021/ALLUCCAB21          |
 |        0.0352    |        |  528    |   15000 | https://wine.qantas.com/p/hewitson-hewitson-old-garden-mourvedre-2021/HEWOLDMOU21                            |
 |        0.0356    |        |  534    |   15000 | https://wine.qantas.com/p/lallier-champagne-lallier-reflexion-r020/CHLALR020                                 |
+|        0.0359867 |        |  323.88 |    9000 | https://wine.qantas.com/p/hewitson-hewitson-miss-harry-grenache-blend-2023/HEWMISGSM23                       |
 |        0.0359867 |        |  323.88 |    9000 | https://wine.qantas.com/p/longview-longview-fresco-2022/LONFRES22                                            |
 
