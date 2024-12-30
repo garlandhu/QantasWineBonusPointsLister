@@ -10,15 +10,15 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2024-12-29
+Run on 2024-12-30
 
 Scanned 3 pages of wine deals.
-Found 67 deals
+Found 64 deals
 |   Point Cost (c) | Name   |   Price |   Bonus | Link                                                                                                         |
 |------------------|--------|---------|---------|--------------------------------------------------------------------------------------------------------------|
 |        0.029592  |        |  443.88 |   15000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-barossa-shiraz-2021/HEIBARSHI21                        |
-|        0.032     |        |  480    |   15000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-coonawarra-cabernet-sauvignon-2022/HEICOOCAB22         |
 |        0.032     |        |  480    |   15000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-mclaren-vale-touriga-2022/HEIMVTOU22                   |
+|        0.032     |        |  480    |   15000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-coonawarra-cabernet-sauvignon-2022/HEICOOCAB22         |
 |        0.0333333 |        |  300    |    9000 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-protocol-cabernet-sauvignon-2022/BYRHPROCAB22    |
 |        0.0333333 |        |  300    |    9000 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-protocol-margaret-river-shiraz-2020/BYRHPROSHZ20 |
 |        0.0352    |        |  528    |   15000 | https://wine.qantas.com/p/hewitson-hewitson-old-garden-mourvedre-2021/HEWOLDMOU21                            |
