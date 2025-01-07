@@ -10,20 +10,20 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2025-01-06
+Run on 2025-01-07
 
 Scanned 3 pages of wine deals.
-Found 64 deals
+Found 65 deals
 |   Point Cost (c) | Name   |   Price |   Bonus | Link                                                                                                         |
 |------------------|--------|---------|---------|--------------------------------------------------------------------------------------------------------------|
 |        0.027     |        |  486    |   18000 | https://wine.qantas.com/p/wills-domain-wills-domain-paladin-hill-shiraz-2020/WDPAHSHZ20                      |
 |        0.0287952 |        |  719.88 |   25000 | https://wine.qantas.com/p/mixed-brands-points-bonanza-red-dozen-with-champagne/MIX2410004                    |
-|        0.029592  |        |  443.88 |   15000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-barossa-shiraz-2021/HEIBARSHI21                        |
-|        0.032     |        |  480    |   15000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-coonawarra-cabernet-sauvignon-2022/HEICOOCAB22         |
+|        0.0292    |        |  438    |   15000 | https://wine.qantas.com/p/mixed-brands-upgrade-red-dozen/MIX2408008                                          |
 |        0.032     |        |  480    |   15000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-mclaren-vale-touriga-2022/HEIMVTOU22                   |
+|        0.032     |        |  480    |   15000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-coonawarra-cabernet-sauvignon-2022/HEICOOCAB22         |
 |        0.0333333 |        |  300    |    9000 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-protocol-cabernet-sauvignon-2022/BYRHPROCAB22    |
 |        0.0333333 |        |  300    |    9000 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-protocol-margaret-river-shiraz-2020/BYRHPROSHZ20 |
 |        0.0346533 |        |  311.88 |    9000 | https://wine.qantas.com/p/hewitson-hewitson-truffle-row-carignan-syrah-2022/HEWTRUCAR22                      |
-|        0.0346533 |        |  311.88 |    9000 | https://wine.qantas.com/p/hewitson-hewitson-baby-bush-mourvedre-2021/HEWBABMOU21                             |
 |        0.0352    |        |  528    |   15000 | https://wine.qantas.com/p/hewitson-hewitson-old-garden-mourvedre-2021/HEWOLDMOU21                            |
+|        0.0359867 |        |  323.88 |    9000 | https://wine.qantas.com/p/longview-longview-fresco-2022/LONFRES22                                            |
 
