@@ -10,20 +10,20 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2025-01-08
+Run on 2025-01-09
 
-Scanned 3 pages of wine deals.
-Found 69 deals
-|   Point Cost (c) | Name   |   Price |   Bonus | Link                                                                                                 |
-|------------------|--------|---------|---------|------------------------------------------------------------------------------------------------------|
-|        0.01875   |        |  450    |   24000 | https://wine.qantas.com/p/blue-pyrenees-blue-pyrenees-premium-red-six/MIX2410022                     |
-|        0.0216    |        |  432    |   20000 | https://wine.qantas.com/p/mixed-brands-delicious-chardonnay-and-contemporary-shiraz-dozen/MIX2411010 |
-|        0.0216    |        |  432    |   20000 | https://wine.qantas.com/p/mixed-brands-white-wine-to-enjoy-dozen/MIX2411011                          |
-|        0.0225    |        |  540    |   24000 | https://wine.qantas.com/p/reynella-reynella-basket-pressed-dozen/MIX2411008                          |
-|        0.0233333 |        |  420    |   18000 | https://wine.qantas.com/p/mixed-brands-premium-mixed-red-dozen/MIX2408012                            |
-|        0.027     |        |  486    |   18000 | https://wine.qantas.com/p/wills-domain-wills-domain-paladin-hill-shiraz-2020/WDPAHSHZ20              |
-|        0.0287952 |        |  719.88 |   25000 | https://wine.qantas.com/p/mixed-brands-points-bonanza-red-dozen-with-champagne/MIX2410004            |
-|        0.0292    |        |  438    |   15000 | https://wine.qantas.com/p/mixed-brands-upgrade-red-dozen/MIX2408008                                  |
-|        0.029592  |        |  443.88 |   15000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-barossa-shiraz-2021/HEIBARSHI21                |
-|        0.032     |        |  480    |   15000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-mclaren-vale-touriga-2022/HEIMVTOU22           |
+Scanned 2 pages of wine deals.
+Found 55 deals
+|   Point Cost (c) | Name   |   Price |   Bonus | Link                                                                                                      |
+|------------------|--------|---------|---------|-----------------------------------------------------------------------------------------------------------|
+|        0.01875   |        |  450    |   24000 | https://wine.qantas.com/p/blue-pyrenees-blue-pyrenees-premium-red-six/MIX2410022                          |
+|        0.02075   |        |  498    |   24000 | https://wine.qantas.com/p/mixed-brands-vibrant-and-enticing-shiraz-dozen/MIX2411009                       |
+|        0.0216    |        |  432    |   20000 | https://wine.qantas.com/p/mixed-brands-delicious-chardonnay-and-contemporary-shiraz-dozen/MIX2411010      |
+|        0.0216    |        |  432    |   20000 | https://wine.qantas.com/p/mixed-brands-white-wine-to-enjoy-dozen/MIX2411011                               |
+|        0.0225    |        |  540    |   24000 | https://wine.qantas.com/p/reynella-reynella-basket-pressed-dozen/MIX2411008                               |
+|        0.0233333 |        |  420    |   18000 | https://wine.qantas.com/p/mixed-brands-premium-mixed-red-dozen/MIX2408012                                 |
+|        0.0287952 |        |  719.88 |   25000 | https://wine.qantas.com/p/mixed-brands-points-bonanza-red-dozen-with-champagne/MIX2410004                 |
+|        0.0292    |        |  438    |   15000 | https://wine.qantas.com/p/mixed-brands-upgrade-red-dozen/MIX2408008                                       |
+|        0.03      |        |  540    |   18000 | https://wine.qantas.com/p/wills-domain-wills-domain-paladin-hill-shiraz-2020/WDPAHSHZ20                   |
+|        0.03      |        |  270    |    9000 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-protocol-cabernet-sauvignon-2022/BYRHPROCAB22 |
 
