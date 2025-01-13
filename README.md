@@ -10,10 +10,10 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2025-01-12
+Run on 2025-01-13
 
 Scanned 2 pages of wine deals.
-Found 51 deals
+Found 52 deals
 |   Point Cost (c) | Name   |   Price |   Bonus | Link                                                                                                         |
 |------------------|--------|---------|---------|--------------------------------------------------------------------------------------------------------------|
 |        0.01875   |        |  450    |   24000 | https://wine.qantas.com/p/blue-pyrenees-blue-pyrenees-premium-red-six/MIX2410022                             |
@@ -23,7 +23,7 @@ Found 51 deals
 |        0.0233333 |        |  420    |   18000 | https://wine.qantas.com/p/mixed-brands-premium-mixed-red-dozen/MIX2408012                                    |
 |        0.0287952 |        |  719.88 |   25000 | https://wine.qantas.com/p/mixed-brands-points-bonanza-red-dozen-with-champagne/MIX2410004                    |
 |        0.0292    |        |  438    |   15000 | https://wine.qantas.com/p/mixed-brands-upgrade-red-dozen/MIX2408008                                          |
+|        0.03      |        |  270    |    9000 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-protocol-cabernet-sauvignon-2022/BYRHPROCAB22    |
 |        0.03      |        |  270    |    9000 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-protocol-margaret-river-shiraz-2020/BYRHPROSHZ20 |
 |        0.03      |        |  540    |   18000 | https://wine.qantas.com/p/wills-domain-wills-domain-paladin-hill-shiraz-2020/WDPAHSHZ20                      |
-|        0.03      |        |  270    |    9000 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-protocol-cabernet-sauvignon-2022/BYRHPROCAB22    |
 
