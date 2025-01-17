@@ -10,14 +10,14 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2025-01-16
+Run on 2025-01-17
 
 Scanned 2 pages of wine deals.
 Found 46 deals
 |   Point Cost (c) | Name   |   Price |   Bonus | Link                                                                                                      |
 |------------------|--------|---------|---------|-----------------------------------------------------------------------------------------------------------|
 |        0.01875   |        |  450    |   24000 | https://wine.qantas.com/p/blue-pyrenees-blue-pyrenees-premium-red-six/MIX2410022                          |
-|        0.0216    |        |  432    |   20000 | https://wine.qantas.com/p/mixed-brands-delicious-chardonnay-and-contemporary-shiraz-dozen/MIX2411010      |
+|        0.02125   |        |  510    |   24000 | https://wine.qantas.com/p/mixed-brands-bonanza-premium-red-dozen/MIX2410006                               |
 |        0.0225    |        |  540    |   24000 | https://wine.qantas.com/p/reynella-reynella-basket-pressed-dozen/MIX2411008                               |
 |        0.0233333 |        |  420    |   18000 | https://wine.qantas.com/p/mixed-brands-premium-mixed-red-dozen/MIX2408012                                 |
 |        0.0287952 |        |  719.88 |   25000 | https://wine.qantas.com/p/mixed-brands-points-bonanza-red-dozen-with-champagne/MIX2410004                 |
