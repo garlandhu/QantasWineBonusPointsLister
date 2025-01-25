@@ -10,7 +10,7 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2025-01-24
+Run on 2025-01-25
 
 Scanned 3 pages of wine deals.
 Found 63 deals
@@ -25,5 +25,5 @@ Found 63 deals
 |        0.0287952 |        |  719.88 |   25000 | https://wine.qantas.com/p/mixed-brands-points-bonanza-red-dozen-with-champagne/MIX2410004       |
 |        0.0312    |        |  468    |   15000 | https://wine.qantas.com/p/hewitson-hewitson-old-garden-mourvedre-2021/HEWOLDMOU21               |
 |        0.0318    |        |  318    |   10000 | https://wine.qantas.com/p/wine-subscriptions-best-in-red/WP10KRED12PK                           |
-|        0.0318    |        |  318    |   10000 | https://wine.qantas.com/p/wine-subscriptions-best-in-white/WP10KWHI12PK                         |
+|        0.0318    |        |  318    |   10000 | https://wine.qantas.com/p/wine-subscriptions-best-in-season/WP10KMIX12PK                        |
 
