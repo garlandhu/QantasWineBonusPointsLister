@@ -10,10 +10,10 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2025-02-04
+Run on 2025-02-06
 
 Scanned 2 pages of wine deals.
-Found 49 deals
+Found 53 deals
 |   Point Cost (c) | Name   |   Price |   Bonus | Link                                                                                              |
 |------------------|--------|---------|---------|---------------------------------------------------------------------------------------------------|
 |        0.02075   |        |     498 |   24000 | https://wine.qantas.com/p/mixed-brands-ready-to-travel-red-premium-dozen/MIX2412001               |
@@ -22,8 +22,8 @@ Found 49 deals
 |        0.026     |        |     390 |   15000 | https://wine.qantas.com/p/wine-subscriptions-big-and-bold-reds/WP15KRED12PK                       |
 |        0.0264    |        |     660 |   25000 | https://wine.qantas.com/p/mixed-brands-points-bonanza-red-dozen-with-champagne/MIX2410004         |
 |        0.03      |        |     360 |   12000 | https://wine.qantas.com/p/jim-barry-jim-barry-morrisons-clare-valley-shiraz-2021/JIMMORSHZ21      |
-|        0.0318    |        |     318 |   10000 | https://wine.qantas.com/p/wine-subscriptions-best-in-red/WP10KRED12PK                             |
-|        0.0318    |        |     318 |   10000 | https://wine.qantas.com/p/wine-subscriptions-best-in-white/WP10KWHI12PK                           |
 |        0.0318    |        |     318 |   10000 | https://wine.qantas.com/p/wine-subscriptions-best-in-season/WP10KMIX12PK                          |
+|        0.0318    |        |     318 |   10000 | https://wine.qantas.com/p/wine-subscriptions-best-in-white/WP10KWHI12PK                           |
+|        0.0318    |        |     318 |   10000 | https://wine.qantas.com/p/wine-subscriptions-best-in-red/WP10KRED12PK                             |
 |        0.0326667 |        |     294 |    9000 | https://wine.qantas.com/p/dandelion-vineyards-dandelion-lionheart-barossa-shiraz-2021/DANLIOSHI21 |
 
