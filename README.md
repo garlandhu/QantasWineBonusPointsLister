@@ -10,10 +10,10 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2025-02-20
+Run on 2025-02-21
 
 Scanned 4 pages of wine deals.
-Found 91 deals
+Found 92 deals
 |   Point Cost (c) | Name   |   Price |   Bonus | Link                                                                                                    |
 |------------------|--------|---------|---------|---------------------------------------------------------------------------------------------------------|
 |        0.0204    |        |     510 |   25000 | https://wine.qantas.com/p/mixed-brands-bonanza-premium-mixed-dozen/MIX2411029                           |
