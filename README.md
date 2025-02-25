@@ -10,7 +10,7 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2025-02-24
+Run on 2025-02-25
 
 Scanned 4 pages of wine deals.
 Found 86 deals
@@ -18,6 +18,7 @@ Found 86 deals
 |------------------|--------|---------|---------|-------------------------------------------------------------------------------------------------------|
 |        0.0204    |        |  510    |   25000 | https://wine.qantas.com/p/mixed-brands-bonanza-premium-mixed-dozen/MIX2411029                         |
 |        0.021     |        |  420    |   20000 | https://wine.qantas.com/p/mixed-brands-the-travellers-mixed-wine-dozen/MIX2411030                     |
+|        0.02475   |        |  594    |   24000 | https://wine.qantas.com/p/dandelion-vineyards-dandelion-grenache-faraway-tree-2022/DANFTGREN22        |
 |        0.025     |        |  750    |   30000 | https://wine.qantas.com/p/wine-subscriptions-wishlist-reds/WP30KRED12PK                               |
 |        0.026     |        |  390    |   15000 | https://wine.qantas.com/p/wine-subscriptions-big-and-bold-reds/WP15KRED12PK                           |
 |        0.0263333 |        |  474    |   18000 | https://wine.qantas.com/p/arila-gardens-arila-gardens-barossa-quartz-shiraz-2022/ARIQUASHZ22          |
@@ -25,5 +26,4 @@ Found 86 deals
 |        0.0264    |        |  660    |   25000 | https://wine.qantas.com/p/mixed-brands-points-bonanza-red-dozen-with-champagne/MIX2410004             |
 |        0.0272691 |        |  449.94 |   16500 | https://wine.qantas.com/p/credaro-credaro-1000-crowns-shiraz-2020/CREDTCRSHZ20                        |
 |        0.0275    |        |  330    |   12000 | https://wine.qantas.com/p/stonehaven-stonehaven-reserve-coonawarra-cabernet-sauvignon-2021/STHRCCAB21 |
-|        0.0285    |        |  342    |   12000 | https://wine.qantas.com/p/dune-dune-pyla-field-blend-2022/DUNPYLB22                                   |
 
