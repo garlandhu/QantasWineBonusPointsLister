@@ -10,20 +10,20 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2025-02-28
+Run on 2025-03-01
 
 Scanned 4 pages of wine deals.
-Found 83 deals
-|   Point Cost (c) | Name   |   Price |   Bonus | Link                                                                                              |
-|------------------|--------|---------|---------|---------------------------------------------------------------------------------------------------|
-|        0.021     |        |  420    |   20000 | https://wine.qantas.com/p/mixed-brands-the-travellers-mixed-wine-dozen/MIX2411030                 |
-|        0.02475   |        |  594    |   24000 | https://wine.qantas.com/p/dandelion-vineyards-dandelion-grenache-faraway-tree-2022/DANFTGREN22    |
-|        0.025     |        |  750    |   30000 | https://wine.qantas.com/p/wine-subscriptions-wishlist-reds/WP30KRED12PK                           |
-|        0.026     |        |  390    |   15000 | https://wine.qantas.com/p/wine-subscriptions-big-and-bold-reds/WP15KRED12PK                       |
-|        0.0263333 |        |  474    |   18000 | https://wine.qantas.com/p/arila-gardens-arila-gardens-barossa-quartz-shiraz-2022/ARIQUASHZ22      |
-|        0.0264    |        |  396    |   15000 | https://wine.qantas.com/p/mixed-brands-barossa-vs-mclaren-vale-shiraz-favourites-dozen/MIX2409008 |
-|        0.0264    |        |  660    |   25000 | https://wine.qantas.com/p/mixed-brands-points-bonanza-red-dozen-with-champagne/MIX2410004         |
-|        0.0272691 |        |  449.94 |   16500 | https://wine.qantas.com/p/credaro-credaro-1000-crowns-shiraz-2020/CREDTCRSHZ20                    |
-|        0.0285    |        |  342    |   12000 | https://wine.qantas.com/p/dune-dune-pyla-field-blend-2022/DUNPYLB22                               |
-|        0.0285    |        |  342    |   12000 | https://wine.qantas.com/p/dune-dune-pyla-field-blend-2022/DUNPYLB22                               |
+Found 129 deals
+|   Point Cost (c) | Name   |   Price |   Bonus | Link                                                                                                     |
+|------------------|--------|---------|---------|----------------------------------------------------------------------------------------------------------|
+|        0.02      |        |     720 |   36000 | https://wine.qantas.com/p/cape-barren-cape-barren-flying-goose-shiraz-2020/CABAFGSHZ20                   |
+|        0.02125   |        |     510 |   24000 | https://wine.qantas.com/p/thompson-estate-thompson-estate-specialist-cabernet-sauvignon-2020/THOESPCAB20 |
+|        0.025     |        |     750 |   30000 | https://wine.qantas.com/p/wine-subscriptions-wishlist-reds/WP30KRED12PK                                  |
+|        0.0252    |        |     378 |   15000 | https://wine.qantas.com/p/mandala-mandala-yarra-valley-chardonnay-2023/MANYVCHA23                        |
+|        0.026     |        |     390 |   15000 | https://wine.qantas.com/p/wine-subscriptions-big-and-bold-reds/WP15KRED12PK                              |
+|        0.0266667 |        |     480 |   18000 | https://wine.qantas.com/p/at-richardson-atr-wines-hard-hill-road-tannat-2019/ATRHHRTANN19                |
+|        0.0275    |        |     330 |   12000 | https://wine.qantas.com/p/allegiance-allegiance-unity-margaret-river-cabernet-sauvignon-2023/ALLUMRCAB23 |
+|        0.0277778 |        |     250 |    9000 | https://wine.qantas.com/p/geoff-hardy-k1-by-geoff-hardy-tzimmukin-shiraz-cabernet-2017/K1GHTZSHCAB17     |
+|        0.028     |        |     420 |   15000 | https://wine.qantas.com/p/mount-eyre-mount-eyre-three-ponds-hunter-valley-shiraz-2022/MTETHRSHZ22        |
+|        0.028     |        |     420 |   15000 | https://wine.qantas.com/p/mount-eyre-mount-eyre-merlot-three-ponds-2021/MTETHEMER21                      |
 
