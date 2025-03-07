@@ -10,20 +10,20 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2025-03-06
+Run on 2025-03-07
 
 Scanned 4 pages of wine deals.
-Found 100 deals
-|   Point Cost (c) | Name   |   Price |   Bonus | Link                                                                                                     |
-|------------------|--------|---------|---------|----------------------------------------------------------------------------------------------------------|
-|        0.02075   |        |     498 |   24000 | https://wine.qantas.com/p/mixed-brands-travel-bonus-red-dozen/MIX2412014                                 |
-|        0.025     |        |     450 |   18000 | https://wine.qantas.com/p/mixed-brands-stylish-reds-to-enjoy-dozen/MIX2501001                            |
-|        0.025     |        |     750 |   30000 | https://wine.qantas.com/p/wine-subscriptions-wishlist-reds/WP30KRED12PK                                  |
-|        0.026     |        |     390 |   15000 | https://wine.qantas.com/p/wine-subscriptions-big-and-bold-reds/WP15KRED12PK                              |
-|        0.0266667 |        |     480 |   18000 | https://wine.qantas.com/p/at-richardson-atr-wines-hard-hill-road-tannat-2019/ATRHHRTANN19                |
-|        0.0266667 |        |     480 |   18000 | https://wine.qantas.com/p/at-richardson-atr-wines-hard-hill-road-tannat-2019/ATRHHRTANN19                |
-|        0.0275    |        |     330 |   12000 | https://wine.qantas.com/p/allegiance-allegiance-unity-margaret-river-cabernet-sauvignon-2023/ALLUMRCAB23 |
-|        0.028     |        |     420 |   15000 | https://wine.qantas.com/p/mount-eyre-mount-eyre-three-ponds-hunter-valley-shiraz-2022/MTETHRSHZ22        |
-|        0.028     |        |     420 |   15000 | https://wine.qantas.com/p/mount-eyre-mount-eyre-merlot-three-ponds-2021/MTETHEMER21                      |
-|        0.0285714 |        |     300 |   10500 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-partners-shiraz-2022/BYRHPASHZ22             |
+Found 98 deals
+|   Point Cost (c) | Name   |   Price |   Bonus | Link                                                                                              |
+|------------------|--------|---------|---------|---------------------------------------------------------------------------------------------------|
+|        0.02075   |        |     498 |   24000 | https://wine.qantas.com/p/mixed-brands-travel-bonus-red-dozen/MIX2412014                          |
+|        0.025     |        |     450 |   18000 | https://wine.qantas.com/p/mixed-brands-stylish-reds-to-enjoy-dozen/MIX2501001                     |
+|        0.025     |        |     750 |   30000 | https://wine.qantas.com/p/wine-subscriptions-wishlist-reds/WP30KRED12PK                           |
+|        0.026     |        |     390 |   15000 | https://wine.qantas.com/p/wine-subscriptions-big-and-bold-reds/WP15KRED12PK                       |
+|        0.028     |        |     420 |   15000 | https://wine.qantas.com/p/mount-eyre-mount-eyre-merlot-three-ponds-2021/MTETHEMER21               |
+|        0.028     |        |     420 |   15000 | https://wine.qantas.com/p/mount-eyre-mount-eyre-three-ponds-hunter-valley-shiraz-2022/MTETHRSHZ22 |
+|        0.0285714 |        |     300 |   10500 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-partners-shiraz-2022/BYRHPASHZ22      |
+|        0.0285714 |        |     300 |   10500 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-partners-shiraz-2022/BYRHPASHZ22      |
+|        0.0294    |        |     294 |   10000 | https://wine.qantas.com/p/mixed-brands-cosy-and-delightful-red-dozen/MIX2501002                   |
+|        0.0313333 |        |     282 |    9000 | https://wine.qantas.com/p/jericho-jericho-grenache-mclaren-vale-2022/JERMCVGRE22                  |
 
