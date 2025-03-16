@@ -10,10 +10,10 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2025-03-15
+Run on 2025-03-16
 
 Scanned 4 pages of wine deals.
-Found 88 deals
+Found 86 deals
 |   Point Cost (c) | Name   |   Price |   Bonus | Link                                                                                                     |
 |------------------|--------|---------|---------|----------------------------------------------------------------------------------------------------------|
 |        0.025     |        |     450 |   18000 | https://wine.qantas.com/p/mixed-brands-stylish-reds-to-enjoy-dozen/MIX2501001                            |
@@ -23,7 +23,7 @@ Found 88 deals
 |        0.028     |        |     420 |   15000 | https://wine.qantas.com/p/mount-eyre-mount-eyre-merlot-three-ponds-2021/MTETHEMER21                      |
 |        0.028     |        |     420 |   15000 | https://wine.qantas.com/p/mount-eyre-mount-eyre-three-ponds-hunter-valley-shiraz-2022/MTETHRSHZ22        |
 |        0.0285714 |        |     300 |   10500 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-partners-shiraz-2022/BYRHPASHZ22             |
-|        0.0313333 |        |     282 |    9000 | https://wine.qantas.com/p/jericho-jericho-grenache-mclaren-vale-2022/JERMCVGRE22                         |
 |        0.0313333 |        |     282 |    9000 | https://wine.qantas.com/p/jericho-jericho-tempranillo-2022/JERICTEM22                                    |
+|        0.0313333 |        |     282 |    9000 | https://wine.qantas.com/p/jericho-jericho-grenache-mclaren-vale-2022/JERMCVGRE22                         |
 |        0.0313333 |        |     282 |    9000 | https://wine.qantas.com/p/bethany-bethany-rose-first-village-2023/BETHFIRROS23                           |
 
