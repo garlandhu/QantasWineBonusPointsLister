@@ -10,10 +10,10 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2025-03-16
+Run on 2025-03-17
 
 Scanned 4 pages of wine deals.
-Found 86 deals
+Found 85 deals
 |   Point Cost (c) | Name   |   Price |   Bonus | Link                                                                                                     |
 |------------------|--------|---------|---------|----------------------------------------------------------------------------------------------------------|
 |        0.025     |        |     450 |   18000 | https://wine.qantas.com/p/mixed-brands-stylish-reds-to-enjoy-dozen/MIX2501001                            |
@@ -25,5 +25,5 @@ Found 86 deals
 |        0.0285714 |        |     300 |   10500 | https://wine.qantas.com/p/byron-and-harold-byron-and-harold-partners-shiraz-2022/BYRHPASHZ22             |
 |        0.0313333 |        |     282 |    9000 | https://wine.qantas.com/p/jericho-jericho-tempranillo-2022/JERICTEM22                                    |
 |        0.0313333 |        |     282 |    9000 | https://wine.qantas.com/p/jericho-jericho-grenache-mclaren-vale-2022/JERMCVGRE22                         |
-|        0.0313333 |        |     282 |    9000 | https://wine.qantas.com/p/bethany-bethany-rose-first-village-2023/BETHFIRROS23                           |
+|        0.0313333 |        |     282 |    9000 | https://wine.qantas.com/p/jericho-jericho-fiano-2023/JERICFIA23                                          |
 
