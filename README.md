@@ -10,20 +10,20 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2025-03-25
+Run on 2025-03-27
 
-Scanned 2 pages of wine deals.
-Found 43 deals
+Scanned 5 pages of wine deals.
+Found 120 deals
 |   Point Cost (c) | Name   |   Price |   Bonus | Link                                                                                                       |
 |------------------|--------|---------|---------|------------------------------------------------------------------------------------------------------------|
-|        0.0245    |        |  294    |   12000 | https://wine.qantas.com/p/mount-pleasant-mount-pleasant-rosehill-vineyard-shiraz-2021/MTPROSHSHZ21         |
+|        0.0196667 |        |  354    |   18000 | https://wine.qantas.com/p/reynella-reynella-basket-pressed-shiraz-2018/REYBPSHZ18                          |
+|        0.0225    |        |  540    |   24000 | https://wine.qantas.com/p/mixed-brands-sensational-red-premium-dozen/MIX2410023                            |
 |        0.02475   |        |  594    |   24000 | https://wine.qantas.com/p/eisenstone-eisenstone-mottcheoss-vineyard-greenock-shiraz-sv901-2021/EISMOSSHZ21 |
-|        0.0375    |        |  180    |    4800 | https://wine.qantas.com/p/purple-hands-purple-hands-barossa-shiraz-2022/PURHBSHZ22                         |
-|        0.0375    |        |  900    |   24000 | https://wine.qantas.com/p/heirloom-vineyards-heirloom-alambra-barossa-shiraz-2022/HEIALASHZ22              |
-|        0.0391667 |        |  235    |    6000 | https://wine.qantas.com/p/metala-metala-semper-fidelis-shiraz-cabernet-2021/METSEMSHC21                    |
-|        0.04      |        |  360    |    9000 | https://wine.qantas.com/p/castelli-estate-castelli-estate-frankland-river-shiraz-2019/CASESTSHZ19          |
-|        0.045     |        |  270    |    6000 | https://wine.qantas.com/p/lambrook-lambrook-shiraz-adelaide-hills-2022/LAMBROSHZ22                         |
-|        0.05      |        |  300    |    6000 | https://wine.qantas.com/p/fetherston-wines-fetherston-botanical-magnolia-albarino-2022/FETBOTALB22         |
-|        0.0520833 |        |  125    |    2400 | https://wine.qantas.com/p/hewitson-hewitson-monopole-shiraz-mother-vine-2021/HEWMONSHZ21                   |
-|        0.0533067 |        |  239.88 |    4500 | https://wine.qantas.com/p/patritti-patritti-lavoro-grenache-2022/PATLAVGRE22                               |
+|        0.025     |        |  900    |   36000 | https://wine.qantas.com/p/cape-barren-cape-barren-flying-goose-shiraz-2020/CABAFGSHZ20                     |
+|        0.025     |        |  750    |   30000 | https://wine.qantas.com/p/wine-subscriptions-wishlist-reds/WP30KRED12PK                                    |
+|        0.026     |        |  390    |   15000 | https://wine.qantas.com/p/wine-subscriptions-big-and-bold-reds/WP15KRED12PK                                |
+|        0.0266667 |        |  240    |    9000 | https://wine.qantas.com/p/alkina-alkina-kin-shiraz-mataro-2024/ALKKINSZM24                                 |
+|        0.0269461 |        |  270    |   10020 | https://wine.qantas.com/p/whistler-wines-whistler-wines-barossa-shiraz-cabernet-2022/WHWSHZCAB22           |
+|        0.0272691 |        |  449.94 |   16500 | https://wine.qantas.com/p/credaro-credaro-1000-crowns-cabernet-2019/CREDTCRCAB19                           |
+|        0.0275    |        |  660    |   24000 | https://wine.qantas.com/p/mixed-brands-premium-drinking-red-dozen/MIX2312032                               |
 
