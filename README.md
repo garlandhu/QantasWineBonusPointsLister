@@ -10,10 +10,10 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2025-03-29
+Run on 2025-03-30
 
 Scanned 4 pages of wine deals.
-Found 114 deals
+Found 111 deals
 |   Point Cost (c) | Name   |   Price |   Bonus | Link                                                                                                       |
 |------------------|--------|---------|---------|------------------------------------------------------------------------------------------------------------|
 |        0.02475   |        |  594    |   24000 | https://wine.qantas.com/p/eisenstone-eisenstone-mottcheoss-vineyard-greenock-shiraz-sv901-2021/EISMOSSHZ21 |
@@ -23,7 +23,7 @@ Found 114 deals
 |        0.0266667 |        |  240    |    9000 | https://wine.qantas.com/p/alkina-alkina-kin-shiraz-mataro-2024/ALKKINSZM24                                 |
 |        0.0269461 |        |  270    |   10020 | https://wine.qantas.com/p/whistler-wines-whistler-wines-barossa-shiraz-cabernet-2022/WHWSHZCAB22           |
 |        0.0272691 |        |  449.94 |   16500 | https://wine.qantas.com/p/credaro-credaro-1000-crowns-cabernet-2019/CREDTCRCAB19                           |
-|        0.0272691 |        |  449.94 |   16500 | https://wine.qantas.com/p/credaro-credaro-1000-crowns-cabernet-2019/CREDTCRCAB19                           |
 |        0.0275    |        |  660    |   24000 | https://wine.qantas.com/p/mixed-brands-premium-drinking-red-dozen/MIX2312032                               |
 |        0.028     |        |  420    |   15000 | https://wine.qantas.com/p/mixed-brands-upgrade-red-dozen/MIX2408008                                        |
+|        0.028125  |        |  562.5  |   20000 | https://wine.qantas.com/p/mixed-brands-exclusive-premium-red-dozen/MIX2501005                              |
 
