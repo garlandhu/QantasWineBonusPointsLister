@@ -10,20 +10,20 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2025-04-07
+Run on 2025-04-08
 
-Scanned 5 pages of wine deals.
-Found 120 deals
-|   Point Cost (c) | Name   |   Price |   Bonus | Link                                                                                                     |
-|------------------|--------|---------|---------|----------------------------------------------------------------------------------------------------------|
-|        0.0178571 |        |     450 |   25200 | https://wine.qantas.com/p/mixed-brands-premium-cabernet-shiraz-six/MIX2501013                            |
-|        0.0197619 |        |     498 |   25200 | https://wine.qantas.com/p/mixed-brands-travellers-red-premium-dozen/MIX2412006                           |
-|        0.022     |        |     396 |   18000 | https://wine.qantas.com/p/mixed-brands-the-travellers-mixed-wine-dozen/MIX2411030                        |
-|        0.025     |        |     900 |   36000 | https://wine.qantas.com/p/cape-barren-cape-barren-flying-goose-shiraz-2020/CABAFGSHZ20                   |
-|        0.025     |        |     750 |   30000 | https://wine.qantas.com/p/wine-subscriptions-wishlist-reds/WP30KRED12PK                                  |
-|        0.026     |        |     390 |   15000 | https://wine.qantas.com/p/wine-subscriptions-big-and-bold-reds/WP15KRED12PK                              |
-|        0.0261905 |        |     660 |   25200 | https://wine.qantas.com/p/mixed-brands-jetsetters-red-dozen-with-champagne/MIX2410004                    |
-|        0.0263333 |        |     474 |   18000 | https://wine.qantas.com/p/mitolo-mitolo-serpico-cabernet-sauvignon-2020/MITSERCAB20                      |
-|        0.0263333 |        |     474 |   18000 | https://wine.qantas.com/p/brand-and-son-brand-and-sons-old-town-single-vineyard-shiraz-2021/BRASOLTSHZ21 |
-|        0.0266667 |        |     240 |    9000 | https://wine.qantas.com/p/alkina-alkina-kin-shiraz-mataro-2024/ALKKINSZM24                               |
+Scanned 6 pages of wine deals.
+Found 204 deals
+|   Point Cost (c) | Name   |   Price |   Bonus | Link                                                                                                         |
+|------------------|--------|---------|---------|--------------------------------------------------------------------------------------------------------------|
+|        0.0178571 |        |  450    |   25200 | https://wine.qantas.com/p/mixed-brands-premium-cabernet-shiraz-six/MIX2501013                                |
+|        0.0187475 |        |  449.94 |   24000 | https://wine.qantas.com/p/magarey-lane-magarey-lane-glenroy-cabernet-sauvignon-2016/MAGLGLCAB16              |
+|        0.01875   |        |  450    |   24000 | https://wine.qantas.com/p/magarey-lane-magarey-lane-glenroy-coonawarra-shiraz-2016/MAGLGLSHZ16               |
+|        0.0196667 |        |  354    |   18000 | https://wine.qantas.com/p/reynella-reynella-basket-pressed-cabernet-sauvignon-cellar-release-2021/REYBPCAB21 |
+|        0.0196667 |        |  354    |   18000 | https://wine.qantas.com/p/thorn-clarke-thorn-clarke-shotfire-reserve-cabernet-shiraz-2021/THCLSRCAS21        |
+|        0.0196667 |        |  354    |   18000 | https://wine.qantas.com/p/cape-barren-cape-barren-block-1a-single-vineyard-shiraz-2021/CABAA1SVSHZ21         |
+|        0.0197619 |        |  498    |   25200 | https://wine.qantas.com/p/mixed-brands-travellers-red-premium-dozen/MIX2412006                               |
+|        0.02      |        |  360    |   18000 | https://wine.qantas.com/p/nannup-estate-nannup-malbec-rolling-hills-2022/NANROLMAL22                         |
+|        0.0204    |        |  510    |   25000 | https://wine.qantas.com/p/mixed-brands-bonanza-premium-mixed-dozen/MIX2411029                                |
+|        0.0204    |        |  510    |   25000 | https://wine.qantas.com/p/mixed-brands-takeoff-premium-red-dozen/MIX2501012                                  |
 
