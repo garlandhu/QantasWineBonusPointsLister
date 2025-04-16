@@ -10,20 +10,20 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2025-04-15
+Run on 2025-04-16
 
-Scanned 6 pages of wine deals.
-Found 176 deals
-|   Point Cost (c) | Name   |   Price |   Bonus | Link                                                                                                  |
-|------------------|--------|---------|---------|-------------------------------------------------------------------------------------------------------|
-|        0.0196667 |        |  354    |   18000 | https://wine.qantas.com/p/thorn-clarke-thorn-clarke-shotfire-reserve-cabernet-shiraz-2021/THCLSRCAS21 |
-|        0.0204    |        |  510    |   25000 | https://wine.qantas.com/p/mixed-brands-takeoff-premium-red-dozen/MIX2501012                           |
-|        0.022     |        |  660    |   30000 | https://wine.qantas.com/p/mixed-brands-australian-classic-shiraz-cabernet-dozen/MIX2406035            |
-|        0.0249967 |        |  449.94 |   18000 | https://wine.qantas.com/p/credaro-credaro-1000-crowns-shiraz-2020/CREDTCRSHZ20                        |
-|        0.025     |        |  900    |   36000 | https://wine.qantas.com/p/cape-barren-cape-barren-flying-goose-shiraz-2020/CABAFGSHZ20                |
-|        0.025     |        |  600    |   24000 | https://wine.qantas.com/p/haselgrove-haselgrove-col-cross-shiraz-2019/HASCOLSHZ19                     |
-|        0.025     |        |  750    |   30000 | https://wine.qantas.com/p/wine-subscriptions-wishlist-reds/WP30KRED12PK                               |
-|        0.025     |        |  125    |    5000 | https://wine.qantas.com/p/cape-barren-cape-barren-flying-goose-shiraz-2019/CABAFGSHZ19                |
-|        0.026     |        |  390    |   15000 | https://wine.qantas.com/p/wine-subscriptions-big-and-bold-reds/WP15KRED12PK                           |
-|        0.0261905 |        |  660    |   25200 | https://wine.qantas.com/p/mixed-brands-jetsetters-red-dozen-with-champagne/MIX2410004                 |
+Scanned 2 pages of wine deals.
+Found 32 deals
+|   Point Cost (c) | Name   |   Price |   Bonus | Link                                                                                             |
+|------------------|--------|---------|---------|--------------------------------------------------------------------------------------------------|
+|        0.027     |        |  270    |   10000 | https://wine.qantas.com/p/mixed-brands-varietal-whites-dozen/MIX2501016                          |
+|        0.02988   |        |  298.8  |   10000 | https://wine.qantas.com/p/mixed-brands-quality-reds-to-enjoy-dozen/MIX2501019                    |
+|        0.031188  |        |  155.94 |    5000 | https://wine.qantas.com/p/mixed-brands-set-to-fly-red-six/MIX2502009                             |
+|        0.0313333 |        |  282    |    9000 | https://wine.qantas.com/p/ottelia-ottelia-mount-gambier-sauvignon-blanc-2024/OTTELISAV24         |
+|        0.0326667 |        |  294    |    9000 | https://wine.qantas.com/p/in-two-minds-in-two-minds-grenache-2024/ITMIGREN24                     |
+|        0.0333333 |        |  300    |    9000 | https://wine.qantas.com/p/ulithorne-ulithorne-immortelle-shiraz-2021/ULIIMSHZ21                  |
+|        0.0337143 |        |  354    |   10500 | https://wine.qantas.com/p/sherrah-wines-sherrah-shiraz-2021/SHERRASHZ21                          |
+|        0.035     |        |  210    |    6000 | https://wine.qantas.com/p/arila-gardens-arila-gardens-barossa-moppa-nero-davola-2022/ARIQUANER22 |
+|        0.036     |        |  270    |    7500 | https://wine.qantas.com/p/see-saw-wines-see-saw-balance-organic-chardonnay-2024/SEESAWCHA24      |
+|        0.03798   |        |  227.88 |    6000 | https://wine.qantas.com/p/darenberg-darenberg-darrys-original-grenache-shiraz-2021/DARORISHZ21   |
 
