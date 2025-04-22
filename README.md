@@ -10,10 +10,10 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2025-04-21
+Run on 2025-04-22
 
 Scanned 6 pages of wine deals.
-Found 156 deals
+Found 154 deals
 |   Point Cost (c) | Name   |   Price |   Bonus | Link                                                                                        |
 |------------------|--------|---------|---------|---------------------------------------------------------------------------------------------|
 |        0.0204    |        |   510   |   25000 | https://wine.qantas.com/p/mixed-brands-takeoff-premium-red-dozen/MIX2501012                 |
