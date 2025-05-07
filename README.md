@@ -10,13 +10,15 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2025-05-06
+Run on 2025-05-07
 
 Scanned 7 pages of wine deals.
-Found 133 deals
+Found 138 deals
 |   Point Cost (c) | Name   |   Price |   Bonus | Link                                                                                                |
 |------------------|--------|---------|---------|-----------------------------------------------------------------------------------------------------|
+|        0.018     |        |     450 |   25000 | https://wine.qantas.com/p/mixed-brands-blue-pyrenees-premium-red-six/MIX2503027                     |
 |        0.02075   |        |     498 |   24000 | https://wine.qantas.com/p/mixed-brands-winter-warmers-red-dozen/MIX2502022                          |
+|        0.0237    |        |     474 |   20000 | https://wine.qantas.com/p/mixed-brands-premium-australian-classic-french-red-dozen/MIX2503030       |
 |        0.025     |        |     450 |   18000 | https://wine.qantas.com/p/sc-pannell-sc-pannell-grenache-shiraz-2018/SCPGRESHZ18                    |
 |        0.025     |        |     750 |   30000 | https://wine.qantas.com/p/wine-subscriptions-wishlist-reds/WP30KRED12PK                             |
 |        0.025     |        |     450 |   18000 | https://wine.qantas.com/p/golden-amrita-golden-amrita-barossa-single-estate-shiraz-2019/GOAMSESHZ19 |
@@ -24,6 +26,4 @@ Found 133 deals
 |        0.026     |        |     390 |   15000 | https://wine.qantas.com/p/wine-subscriptions-big-and-bold-reds/WP15KRED12PK                         |
 |        0.02625   |        |     315 |   12000 | https://wine.qantas.com/p/peter-lehmann-peter-lehmann-stonewell-vertical-triple-pack/MIX2502021     |
 |        0.0266667 |        |     480 |   18000 | https://wine.qantas.com/p/nightfall-wines-nightfall-the-balance-cabernets-2021/NIFATBACAB21         |
-|        0.0266667 |        |     480 |   18000 | https://wine.qantas.com/p/nightfall-wines-nightfall-the-balance-cabernets-2021/NIFATBACAB21         |
-|        0.028     |        |     420 |   15000 | https://wine.qantas.com/p/mount-eyre-mount-eyre-three-ponds-hunter-valley-shiraz-2022/MTETHRSHZ22   |
 
