@@ -10,10 +10,10 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2025-05-10
+Run on 2025-05-11
 
 Scanned 8 pages of wine deals.
-Found 150 deals
+Found 148 deals
 |   Point Cost (c) | Name   |   Price |   Bonus | Link                                                                                                     |
 |------------------|--------|---------|---------|----------------------------------------------------------------------------------------------------------|
 |        0.018     |        |  450    |   25000 | https://wine.qantas.com/p/mixed-brands-blue-pyrenees-premium-red-six/MIX2503027                          |
@@ -24,6 +24,6 @@ Found 150 deals
 |        0.025     |        |  450    |   18000 | https://wine.qantas.com/p/golden-amrita-golden-amrita-barossa-single-estate-shiraz-2019/GOAMSESHZ19      |
 |        0.026     |        |  390    |   15000 | https://wine.qantas.com/p/wine-subscriptions-big-and-bold-reds/WP15KRED12PK                              |
 |        0.0263333 |        |  474    |   18000 | https://wine.qantas.com/p/brand-and-son-brand-and-sons-old-town-single-vineyard-shiraz-2021/BRASOLTSHZ21 |
-|        0.0272691 |        |  449.94 |   16500 | https://wine.qantas.com/p/credaro-credaro-1000-crowns-shiraz-2021/CREDTCRSHZ21                           |
 |        0.0272691 |        |  449.94 |   16500 | https://wine.qantas.com/p/credaro-credaro-1000-crowns-cabernet-2019/CREDTCRCAB19                         |
+|        0.0272691 |        |  449.94 |   16500 | https://wine.qantas.com/p/credaro-credaro-1000-crowns-shiraz-2021/CREDTCRSHZ21                           |
 
