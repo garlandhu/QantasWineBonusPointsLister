@@ -10,20 +10,20 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2025-05-16
+Run on 2025-05-17
 
-Scanned 8 pages of wine deals.
-Found 151 deals
-|   Point Cost (c) | Name   |   Price |   Bonus | Link                                                                                                     |
-|------------------|--------|---------|---------|----------------------------------------------------------------------------------------------------------|
-|        0.024995  |        |  599.88 |   24000 | https://wine.qantas.com/p/mandala-mandala-sands-yarra-valley-chardonnay-2024/MANSCHA24                   |
-|        0.024995  |        |  599.88 |   24000 | https://wine.qantas.com/p/mandala-mandala-sands-yarra-valley-pinot-noir-2024/MANSPIN24                   |
-|        0.025     |        |  750    |   30000 | https://wine.qantas.com/p/wine-subscriptions-wishlist-reds/WP30KRED12PK                                  |
-|        0.025     |        |  450    |   18000 | https://wine.qantas.com/p/thorn-clarke-thorn-clarke-shotfire-reserve-cabernet-shiraz-2021/THCLSRCAS21    |
-|        0.026     |        |  390    |   15000 | https://wine.qantas.com/p/wine-subscriptions-big-and-bold-reds/WP15KRED12PK                              |
-|        0.0263333 |        |  474    |   18000 | https://wine.qantas.com/p/brand-and-son-brand-and-sons-old-town-single-vineyard-shiraz-2021/BRASOLTSHZ21 |
-|        0.0264    |        |  396    |   15000 | https://wine.qantas.com/p/mixed-brands-barossa-vs-mclaren-vale-shiraz-favourites-dozen/MIX2409008        |
-|        0.0272691 |        |  449.94 |   16500 | https://wine.qantas.com/p/credaro-credaro-1000-crowns-shiraz-2021/CREDTCRSHZ21                           |
-|        0.0272691 |        |  449.94 |   16500 | https://wine.qantas.com/p/credaro-credaro-1000-crowns-cabernet-2019/CREDTCRCAB19                         |
-|        0.0275    |        |  330    |   12000 | https://wine.qantas.com/p/warramunda-estate-warramunda-estate-syrah-2020/WARRAMSYR20                     |
+Scanned 2 pages of wine deals.
+Found 48 deals
+|   Point Cost (c) | Name   |   Price |   Bonus | Link                                                                                                       |
+|------------------|--------|---------|---------|------------------------------------------------------------------------------------------------------------|
+|        0.024995  |        |  599.88 |   24000 | https://wine.qantas.com/p/mandala-mandala-sands-yarra-valley-chardonnay-2024/MANSCHA24                     |
+|        0.024995  |        |  599.88 |   24000 | https://wine.qantas.com/p/mandala-mandala-sands-yarra-valley-pinot-noir-2024/MANSPIN24                     |
+|        0.0263333 |        |  474    |   18000 | https://wine.qantas.com/p/brand-and-son-brand-and-sons-old-town-single-vineyard-shiraz-2021/BRASOLTSHZ21   |
+|        0.0272691 |        |  449.94 |   16500 | https://wine.qantas.com/p/credaro-credaro-1000-crowns-cabernet-2019/CREDTCRCAB19                           |
+|        0.0272691 |        |  449.94 |   16500 | https://wine.qantas.com/p/credaro-credaro-1000-crowns-shiraz-2021/CREDTCRSHZ21                             |
+|        0.0283333 |        |  255    |    9000 | https://wine.qantas.com/p/alkina-alkina-kin-grenache-shiraz-mataro-2024/ALKKINGSM24                        |
+|        0.032     |        |  240    |    7500 | https://wine.qantas.com/p/alkina-alkina-kin-shiraz-mataro-2023/ALKKINSZM23                                 |
+|        0.032     |        |  240    |    7500 | https://wine.qantas.com/p/ulithorne-ulithorne-paternus-shiraz-2020/ULIPATSHZ20                             |
+|        0.0325    |        |  390    |   12000 | https://wine.qantas.com/p/faustino-rivero-ulecia-faustino-rivero-ulecia-rioja-gran-reserva-2016/FRURIOGR16 |
+|        0.036     |        |  270    |    7500 | https://wine.qantas.com/p/lenton-brae-lenton-brae-semillon-sauvignon-blanc-2023/LENBRSSB23                 |
 
