@@ -10,20 +10,20 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2025-05-19
+Run on 2025-05-20
 
 Scanned 8 pages of wine deals.
-Found 168 deals
-|   Point Cost (c) | Name   |   Price |   Bonus | Link                                                                                                  |
-|------------------|--------|---------|---------|-------------------------------------------------------------------------------------------------------|
-|        0.019     |        |   66.5  |    3500 | https://wine.qantas.com/p/thorn-clarke-thorn-clarke-shotfire-reserve-cabernet-shiraz-2021/THCLSRCAS21 |
-|        0.02      |        |  900    |   45000 | https://wine.qantas.com/p/mixed-brands-vip-red-dozen-vii/MIX2504038                                   |
-|        0.0208333 |        |   62.5  |    3000 | https://wine.qantas.com/p/golden-amrita-golden-amrita-barossa-single-estate-shiraz-2019/GOAMSESHZ19   |
-|        0.023994  |        |  479.88 |   20000 | https://wine.qantas.com/p/mixed-brands-exclusive-premium-red-dozen/MIX2501005                         |
-|        0.024995  |        |  599.88 |   24000 | https://wine.qantas.com/p/mandala-mandala-sands-yarra-valley-chardonnay-2024/MANSCHA24                |
-|        0.024995  |        |  599.88 |   24000 | https://wine.qantas.com/p/mandala-mandala-sands-yarra-valley-pinot-noir-2024/MANSPIN24                |
-|        0.025     |        |  750    |   30000 | https://wine.qantas.com/p/wine-subscriptions-wishlist-reds/WP30KRED12PK                               |
-|        0.025     |        |  750    |   30000 | https://wine.qantas.com/p/mixed-brands-wishlist-reds-may-2025/MIX2503023                              |
-|        0.026     |        |  390    |   15000 | https://wine.qantas.com/p/wine-subscriptions-big-and-bold-reds/WP15KRED12PK                           |
-|        0.026     |        |  390    |   15000 | https://wine.qantas.com/p/mixed-brands-big-and-bold-reds-may-2025/MIX2503022                          |
+Found 142 deals
+|   Point Cost (c) | Name   |   Price |   Bonus | Link                                                                                                     |
+|------------------|--------|---------|---------|----------------------------------------------------------------------------------------------------------|
+|        0.024995  |        |  599.88 |   24000 | https://wine.qantas.com/p/mandala-mandala-sands-yarra-valley-chardonnay-2024/MANSCHA24                   |
+|        0.025     |        |  750    |   30000 | https://wine.qantas.com/p/wine-subscriptions-wishlist-reds/WP30KRED12PK                                  |
+|        0.025     |        |  900    |   36000 | https://wine.qantas.com/p/cape-barren-cape-barren-flying-goose-shiraz-2020/CABAFGSHZ20                   |
+|        0.026     |        |  390    |   15000 | https://wine.qantas.com/p/wine-subscriptions-big-and-bold-reds/WP15KRED12PK                              |
+|        0.0263333 |        |  474    |   18000 | https://wine.qantas.com/p/brand-and-son-brand-and-sons-old-town-single-vineyard-shiraz-2021/BRASOLTSHZ21 |
+|        0.0272691 |        |  449.94 |   16500 | https://wine.qantas.com/p/credaro-credaro-1000-crowns-cabernet-2019/CREDTCRCAB19                         |
+|        0.0283333 |        |  255    |    9000 | https://wine.qantas.com/p/alkina-alkina-kin-grenache-shiraz-mataro-2024/ALKKINGSM24                      |
+|        0.0283333 |        |  510    |   18000 | https://wine.qantas.com/p/sc-pannell-sc-pannell-grenache-shiraz-2018/SCPGRESHZ18                         |
+|        0.03      |        |  720    |   24000 | https://wine.qantas.com/p/tomich-tomich-icons-of-woodside-i777-pinot-noir-2022/TOMICWIPIN22              |
+|        0.0304    |        |  456    |   15000 | https://wine.qantas.com/p/mount-eyre-mount-eyre-merlot-three-ponds-2021/MTETHEMER21                      |
 
