@@ -10,13 +10,12 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2025-05-23
+Run on 2025-05-24
 
 Scanned 8 pages of wine deals.
-Found 124 deals
+Found 126 deals
 |   Point Cost (c) | Name   |   Price |   Bonus | Link                                                                                                           |
 |------------------|--------|---------|---------|----------------------------------------------------------------------------------------------------------------|
-|           0.0204 |        |     510 |   25000 | https://wine.qantas.com/p/mixed-brands-takeoff-premium-red-dozen/MIX2501012                                    |
 |           0.0225 |        |     270 |   12000 | https://wine.qantas.com/p/thorn-clarke-thorn-clarke-ron-thorn-limited-barrel-barossa-shiraz-2020/THCRHBSESHZ20 |
 |           0.023  |        |     690 |   30000 | https://wine.qantas.com/p/mixed-brands-the-exceptional-red-dozen-iii/MIX2407010                                |
 |           0.025  |        |     750 |   30000 | https://wine.qantas.com/p/wine-subscriptions-wishlist-reds/WP30KRED12PK                                        |
@@ -26,4 +25,5 @@ Found 124 deals
 |           0.0275 |        |     330 |   12000 | https://wine.qantas.com/p/patritti-patritti-jpb-single-vineyard-shiraz-2020/PATJPBSHZ20                        |
 |           0.028  |        |     210 |    7500 | https://wine.qantas.com/p/du-grand-bourry-du-grand-bourry-languedoc-chevalier-delaude-2022/DUGBLCD22           |
 |           0.0285 |        |     342 |   12000 | https://wine.qantas.com/p/mixed-brands-amazing-value-white-dozen-with-dollar120-shiraz/MIX2410041              |
+|           0.029  |        |     348 |   12000 | https://wine.qantas.com/p/jim-barry-jim-barry-morrisons-clare-valley-shiraz-2021/JIMMORSHZ21                   |
 
