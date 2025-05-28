@@ -10,20 +10,20 @@ Links will be copied to your clipboard for easier navigation.
 
 ## Latest Results
 
-Run on 2025-05-27
+Run on 2025-05-28
 
-Scanned 5 pages of wine deals.
-Found 63 deals
-|   Point Cost (c) | Name   |   Price |   Bonus | Link                                                                                                           |
-|------------------|--------|---------|---------|----------------------------------------------------------------------------------------------------------------|
-|        0.0225    |        |  270    |   12000 | https://wine.qantas.com/p/thorn-clarke-thorn-clarke-ron-thorn-limited-barrel-barossa-shiraz-2020/THCRHBSESHZ20 |
-|        0.027     |        |  270    |   10000 | https://wine.qantas.com/p/mixed-brands-varietal-whites-dozen/MIX2501016                                        |
-|        0.028     |        |  210    |    7500 | https://wine.qantas.com/p/du-grand-bourry-du-grand-bourry-languedoc-chevalier-delaude-2022/DUGBLCD22           |
-|        0.0313333 |        |  282    |    9000 | https://wine.qantas.com/p/jericho-jericho-grenache-shiraz-mourvedre-2022/JERICGSM22                            |
-|        0.0326667 |        |  294    |    9000 | https://wine.qantas.com/p/in-two-minds-in-two-minds-grenache-2024/ITMIGREN24                                   |
-|        0.03332   |        |  149.94 |    4500 | https://wine.qantas.com/p/thorn-clarke-thorn-clarke-shotfire-reserve-pinot-gris-2024/THCLSRGRI24               |
-|        0.0333333 |        |  300    |    9000 | https://wine.qantas.com/p/ulithorne-ulithorne-immortelle-shiraz-2021/ULIIMSHZ21                                |
-|        0.0337143 |        |  354    |   10500 | https://wine.qantas.com/p/sherrah-wines-sherrah-shiraz-2021/SHERRASHZ21                                        |
-|        0.0353333 |        |  318    |    9000 | https://wine.qantas.com/p/altus-rise-altus-rise-wild-light-shiraz-2022/ALTWLDSHZ22                             |
-|        0.0353333 |        |  318    |    9000 | https://wine.qantas.com/p/altus-rise-altus-rise-wild-light-shiraz-2022/ALTWLDSHZ22                             |
+Scanned 8 pages of wine deals.
+Found 108 deals
+|   Point Cost (c) | Name   |   Price |   Bonus | Link                                                                                                            |
+|------------------|--------|---------|---------|-----------------------------------------------------------------------------------------------------------------|
+|        0.0237143 |        |     498 |   21000 | https://wine.qantas.com/p/voyager-estate-voyager-estate-the-modern-cabernet-sauvignon-dozen-2021/X12VOYMODCAB21 |
+|        0.025     |        |     900 |   36000 | https://wine.qantas.com/p/cape-barren-cape-barren-flying-goose-shiraz-2020/CABAFGSHZ20                          |
+|        0.025     |        |     750 |   30000 | https://wine.qantas.com/p/wine-subscriptions-wishlist-reds/WP30KRED12PK                                         |
+|        0.026     |        |     390 |   15000 | https://wine.qantas.com/p/wine-subscriptions-big-and-bold-reds/WP15KRED12PK                                     |
+|        0.0294    |        |     588 |   20000 | https://wine.qantas.com/p/mixed-brands-exceptional-red-wine-dozen/MIX2503026                                    |
+|        0.03      |        |     720 |   24000 | https://wine.qantas.com/p/mandala-mandala-sands-yarra-valley-chardonnay-2024/MANSCHA24                          |
+|        0.03      |        |     720 |   24000 | https://wine.qantas.com/p/mandala-mandala-sands-yarra-valley-pinot-noir-2024/MANSPIN24                          |
+|        0.03      |        |     720 |   24000 | https://wine.qantas.com/p/tomich-tomich-icons-of-woodside-i777-pinot-noir-2022/TOMICWIPIN22                     |
+|        0.0304    |        |     456 |   15000 | https://wine.qantas.com/p/mount-eyre-mount-eyre-merlot-three-ponds-2021/MTETHEMER21                             |
+|        0.0304    |        |     456 |   15000 | https://wine.qantas.com/p/mount-eyre-mount-eyre-three-ponds-hunter-valley-shiraz-2022/MTETHRSHZ22               |
 
